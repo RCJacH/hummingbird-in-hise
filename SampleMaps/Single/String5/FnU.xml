@@ -1,0 +1,14 @@
+<samplemap ID="" RRGroupAmount="2" MicPositions=";">
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="0" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_1f_1-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="0" HiVel="31" RRGroup="2" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_1f_2-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="32" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_2f_1-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="32" HiVel="52" RRGroup="2" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_2f_2-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="53" HiVel="73" RRGroup="1" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_3f_1-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="53" HiVel="73" RRGroup="2" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_3f_2-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="74" HiVel="95" RRGroup="1" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_4f_1-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="74" HiVel="95" RRGroup="2" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_4f_2-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="96" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_5f_1-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="96" HiVel="113" RRGroup="2" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_5f_2-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="114" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_6f_1-2.wav" Duplicate="1" />
+  <sample Root="45" LoKey="46" HiKey="65" LoVel="114" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String5/Fret Noise Up/133_5_fnu_6f_2-2.wav" Duplicate="1" />
+</samplemap>

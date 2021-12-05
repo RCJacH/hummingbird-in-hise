@@ -1,0 +1,16 @@
+<samplemap ID="" RRGroupAmount="2" MicPositions=";">
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_03_1-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_03_2-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_05_1-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_05_2-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_07_1-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_07_2-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_09_1-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_09_2-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_12_1-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_12_2-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_19_1-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_19_2-2.wav" Duplicate="0" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_sh_1-2.wav" Duplicate="0" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_sh_2-2.wav" Duplicate="0" />
+</samplemap>

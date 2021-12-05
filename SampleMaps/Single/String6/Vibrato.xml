@@ -1,0 +1,78 @@
+<samplemap ID="" RRGroupAmount="1" MicPositions=";">
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="125" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_01-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="120" HiVel="124" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_02-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="115" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_03-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="110" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_04-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="105" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_05-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="100" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_06-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="95" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_07-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="90" HiVel="94" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_08-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="83" HiVel="89" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_09-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="76" HiVel="82" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_10-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="69" HiVel="75" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_11-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="60" HiVel="68" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_12-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="50" HiVel="59" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_13-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="35" HiVel="49" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_14-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="20" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_15-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="1" HiVel="19" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Sustain Down/01_6_sd_00_16-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_01_1-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_01_2-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_01_3-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_02_1-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_02_2-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_02_3-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_03_1-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_03_2-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_03_3-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_04_1-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_04_2-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_04_3-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_05_1-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_05_2-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_05_3-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_06_1-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_06_2-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_06_3-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_07_1-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_07_2-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_07_3-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_08_1-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_08_2-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_08_3-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_09_1-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_09_2-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_09_3-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_10_1-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_10_2-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_10_3-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_11_1-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_11_2-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_11_3-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_12_1-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_12_2-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_12_3-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_13_1-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_13_2-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_13_3-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_14_1-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_14_2-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_14_3-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_15_1-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_15_2-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_15_3-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_16_1-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_16_2-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_16_3-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_17_1-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_17_2-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_17_3-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_18_1-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_18_2-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_18_3-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_19_1-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_19_2-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_19_3-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="119" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_20_1-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="100" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_20_2-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="1" HiVel="99" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Vibrato/02_6_svdf_20_3-2.wav" Duplicate="0" />
+</samplemap>
