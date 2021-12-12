@@ -1,16 +1,19 @@
 namespace RR {
-  inline function count(articulation) {
-    return g_velocity[articulation].length || 1
+  const var current = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+
+  inline function get(index) {
+    return current[index]
   }
 
-  inline function getIndex(velocity, articulation) {
-    Console.print(articulation);
-    local splitPoints = g_velocity[articulation];
-    Console.print(splitPoints);
-    for (vel in splitPoints) {
-      if (velocity > vel) {
-        return splitPoints.indexOf(vel) + 1;
-      }
-    }
+  inline function set(index, value) {
+    current[index] = value;
+  }
+
+  inline function total(index) {
+    return g_rr[Articulations.fromIndex(index)]
+  }
+
+  inline function next(index) {
+    current[index] = (current[index] + 1) % total(index);
   }
 }

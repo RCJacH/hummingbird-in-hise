@@ -1,39 +1,46 @@
-include("Externals/Global.Global.js");
-include("Externals/Global.Controller.js");
-include("Externals/Global.Note.js");
-
-include("Namespaces/CCs.js");
+include("Namespaces/Global/EventParser.js");
+include("Namespaces/GlobalModulations.js");
+include("Namespaces/Delays.js");
 include("Namespaces/Humanizer.js");
-include("Namespaces/Keys.js");
-include("Namespaces/MIDI.js");
 include("Namespaces/LeftHand.js");
+include("Namespaces/MIDI.js");
 include("Namespaces/RightHand.js");
+include("Namespaces/Strum.js");
+include("Objects/LH.js");
+include('Objects/Noises.js');
+include("Objects/RH.js");
+include("Objects/GuitarString.js");
+
+global g_string1 = GuitarString(1);
+global g_string2 = GuitarString(2);
+global g_string3 = GuitarString(3);
+global g_string4 = GuitarString(4);
+global g_string5 = GuitarString(5);
+global g_string6 = GuitarString(6);
+global g_strings = [null, g_string1, g_string2, g_string3, g_string4, g_string5, g_string6];
+
+global g_lh = LH();
+global g_rh = RH();
+
+global g_pressedKeys = Engine.createMidiList();
+global g_strumTimer = Engine.createTimerObject();
+global g_controlEventId = -1;
 
 global g_settings = Engine.loadFromJSON('settings.json');
 global g_keys = Engine.loadFromJSON('keys.json');
 global g_cc = Engine.loadFromJSON('cc.json');
 global g_rr = Engine.loadFromJSON('rr.json');
 global g_velocity = Engine.loadFromJSON('velocity.json');
-
-const STRUM_CHANNEL = 15;
-const CONTROL_CHANNEL = 16;
-var lowest_note = 40;
-var highest_note = 84;
+global g_mod = GlobalModulations.init();
 
 function onNoteOn() {
-  if (Message.getChannel() == CONTROL_CHANNEL) {
-      triggerNoteOn();
-  }
+  EventParser.parseNoteOn();
 }
 function onNoteOff() {
-  if (Message.getChannel() == CONTROL_CHANNEL) {
-    triggerNoteOff();
-  }
+  EventParser.parseNoteOff();
 }
 function onController() {
-  if (Message.getChannel() == CONTROL_CHANNEL) {
-    triggerController();
-  }
+  EventParser.parseController();
 }
 function onTimer() {
 

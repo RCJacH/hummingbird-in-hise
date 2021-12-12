@@ -1,58 +1,104 @@
 namespace Articulations {
-  const var sustain = 1;
-  const var palmMuted = 2;
-  const var muted = 3;
-  const var ho = 4;
-  const var po = 5;
-  const var harmonic = 6;
-  const var tap = 7;
-  const var slide = 8;
-  const var vibrato = 9;
-  const var pickNoise = 10;
-  const var pickBuzz = 11;
-  const var pickStop = 12;
-  const var fretNoise = 13;
-  const var fretSlideNoise = 14;
+  const var SUSTAIN = 1;
+  const var PALMMUTED = 2;
+  const var MUTED = 3;
+  const var HO = 4;
+  const var PO = 5;
+  const var HARMONIC = 6;
+  const var TAP = 7;
+  const var SLIDE = 8;
+  const var VIBRATO = 9;
+  const var PICKNOISE = 10;
+  const var PICKBUZZ = 11;
+  const var PICKSTOP = 12;
+  const var FRETNOISE = 13;
+  const var FRETSLIDENOISE = 14;
+
+  const var articulations = [
+    "sustain",
+    "palmMuted",
+    "muted",
+    "HO",
+    "PO",
+    "harmonic",
+    "tap",
+    "slide",
+    "vibrato",
+    "pickNoise",
+    "pickBuzz",
+    "pickStop",
+    "fretNoise",
+    "fretSlideNoise",
+  ]
+
+  inline function fromIndex(channel) {
+    return articulations[channel - 1]
+  }
 
   inline function fromName(name) {
     switch (name.toLowerCase()) {
       case 'sust':
       case 'sustain':
-        return sustain;
+        return SUSTAIN;
       case 'mute':
       case 'muted':
-        return palmMuted;
+        return PALMMUTED;
       case 'ho':
       case 'hammer-on':
-        return ho;
+        return HO;
       case 'po':
       case 'pull-off':
-        return po;
+        return PO;
       case 'harm':
       case 'harmonic':
-        return harmonic;
+        return HARMONIC;
       case 'tap':
-        return tap;
+        return TAP;
       case 'slide':
-        return slide;
+        return SLIDE;
       case 'pkn':
       case 'pick noise':
-        return pickNoise;
+        return PICKNOISE;
       case 'pkbz':
       case 'pick buzz':
-        return pickBuzz;
+        return PICKBUZZ;
       case 'frn':
       case 'fret noise':
-        return fretNoise;
+        return FRETNOISE;
       case 'svdf':
       case 'vibrato':
-        return vibrato;
+        return VIBRATO;
       case 'pstop':
       case 'pick stop':
-        return pickStop;
+        return PICKSTOP;
       case 'fn':
       case 'fret slide noise':
-        return fretSlideNoise;
+        return FRETSLIDENOISE;
+    }
+  }
+
+  inline function isBody(channel) {
+    switch (channel) {
+      case SUSTAIN:
+      case MUTED:
+      case HARMONIC:
+      case TAP:
+        return true;
+      default:
+        return false;
+    }
+  }
+
+  inline function isNoise(channel) {
+    switch (channel) {
+      case PICKNOISE:
+      case PICKBUZZ:
+      case PICKSTOP:
+      case FRETNOISE:
+      case FRETSLIDENOISE:
+        return true;
+      default:
+        return false;
     }
   }
 }

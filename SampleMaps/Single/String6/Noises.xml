@@ -1,0 +1,740 @@
+<samplemap ID="" RRGroupAmount="1" MicPositions=";">
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_00_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_00_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_00_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_00_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_00_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_01_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_01_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_01_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_01_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_01_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_02_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_02_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_02_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_02_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_02_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_03_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_03_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_03_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_03_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_03_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_04_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_04_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_04_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_04_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_04_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_05_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_05_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_05_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_05_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_05_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_06_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_06_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_06_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_06_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_06_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_07_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_07_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_07_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_07_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_07_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_08_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_08_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_08_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_08_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_08_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_09_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_09_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_09_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_09_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_09_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_10_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_10_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_10_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_10_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_10_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_11_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_11_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_11_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_11_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_11_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_12_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_12_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_12_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_12_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_12_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_13_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_13_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_13_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_13_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_13_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_14_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_14_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_14_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_14_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_14_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_15_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_15_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_15_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_15_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_15_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_16_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_16_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_16_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_16_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_16_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_17_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_17_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_17_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_17_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_17_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_18_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_18_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_18_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_18_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_18_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_19_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_19_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_19_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_19_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_19_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="11" HiVel="11" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_20_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="12" HiVel="12" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_20_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="13" HiVel="13" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_20_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="14" HiVel="14" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_20_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="15" HiVel="15" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_loud_20_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_00_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_00_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_00_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_00_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_00_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_01_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_01_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_01_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_01_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_01_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_02_1-2.wav" Duplicate="0" Volume="3.2" SampleStart="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_02_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_02_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_02_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_02_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_03_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_03_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_03_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_03_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_03_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_04_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_04_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_04_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_04_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_04_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_05_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_05_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_05_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_05_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_05_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_06_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_06_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_06_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_06_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_06_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_07_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_07_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_07_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_07_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_07_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_08_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_08_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_08_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_08_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_08_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_09_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_09_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_09_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_09_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_09_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_10_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_10_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_10_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_10_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_10_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_11_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_11_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_11_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_11_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_11_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_12_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_12_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_12_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_12_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_12_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_13_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_13_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_13_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_13_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_13_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_14_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_14_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_14_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_14_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_14_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_15_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_15_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_15_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_15_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_15_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_16_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_16_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_16_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_16_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_16_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_17_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_17_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_17_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_17_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_17_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_18_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_18_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_18_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_18_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_18_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_19_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_19_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_19_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_19_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_19_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_20_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_20_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_20_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="4" HiVel="4" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_20_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="5" HiVel="5" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Down/127_6_pnd_mid_20_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_00_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_00_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_00_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_00_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_00_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_01_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_01_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_01_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_01_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_01_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_02_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_02_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_02_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_02_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_02_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_03_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_03_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_03_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_03_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_03_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_04_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_04_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_04_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_04_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_04_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_05_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_05_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_05_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_05_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_05_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_06_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_06_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_06_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_06_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_06_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_07_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_07_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_07_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_07_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_07_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_08_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_08_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_08_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_08_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_08_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_09_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_09_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_09_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_09_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_09_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_10_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_10_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_10_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_10_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_10_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_11_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_11_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_11_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_11_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_11_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_12_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_12_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_12_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_12_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_12_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_13_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_13_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_13_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_13_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_13_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_14_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_14_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_14_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_14_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_14_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_15_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_15_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_15_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_15_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_15_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_16_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_16_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_16_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_16_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_16_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_17_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_17_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_17_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_17_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_17_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_18_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_18_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_18_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_18_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_18_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_19_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_19_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_19_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_19_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_19_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="31" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_20_1-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="32" HiVel="32" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_20_2-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="33" HiVel="33" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_20_3-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="34" HiVel="34" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_20_4-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="35" HiVel="35" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_loud_20_5-2.wav" Duplicate="0" Volume="3" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_00_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_00_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_00_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_00_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_00_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_01_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_01_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_01_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_01_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_01_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_02_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_02_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_02_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_02_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_02_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_03_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_03_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_03_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_03_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_03_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_04_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_04_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_04_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_04_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_04_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_05_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_05_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_05_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_05_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_05_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_06_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_06_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_06_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_06_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_06_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_07_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_07_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_07_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_07_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_07_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_08_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_08_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_08_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_08_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_08_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_09_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_09_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_09_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_09_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_09_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_10_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_10_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_10_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_10_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_10_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_11_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_11_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_11_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_11_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_11_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_12_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_12_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_12_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_12_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_12_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_13_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_13_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_13_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_13_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_13_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_14_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_14_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_14_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_14_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_14_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_15_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_15_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_15_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_15_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_15_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_16_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_16_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_16_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_16_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_16_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_17_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_17_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_17_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_17_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_17_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_18_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_18_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_18_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_18_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_18_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_19_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_19_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_19_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_19_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_19_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="21" HiVel="21" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_20_1-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="22" HiVel="22" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_20_2-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="23" HiVel="23" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_20_3-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="24" HiVel="24" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_20_4-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="25" HiVel="25" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Noise Up/127_6_pnu_mid_20_5-2.wav" Duplicate="0" Volume="3.2" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_00_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_00_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_00_3-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_00_4-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_00_5-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_01_1-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_01_2-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_01_3-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_01_4-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_01_5-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_02_1-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_02_2-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_02_3-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_02_4-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_02_5-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_03_1-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_03_2-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_03_3-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_03_4-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_03_5-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_04_1-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_04_2-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_04_3-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_04_4-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_04_5-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_05_1-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_05_2-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_05_3-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_05_4-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_05_5-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_06_1-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_06_2-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_06_3-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_06_4-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_06_5-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_07_1-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_07_2-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_07_3-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_07_4-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_07_5-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_08_1-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_08_2-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_08_3-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_08_4-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_08_5-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_09_1-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_09_2-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_09_3-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_09_4-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_09_5-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_10_1-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_10_2-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_10_3-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_10_4-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_10_5-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_11_1-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_11_2-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_11_3-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_11_4-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_11_5-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_12_1-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_12_2-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_12_3-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_12_4-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_12_5-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_13_1-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_13_2-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_13_3-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_13_4-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_13_5-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_14_1-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_14_2-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_14_3-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_14_4-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_14_5-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_15_1-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_15_2-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_15_3-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_15_4-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_15_5-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_16_1-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_16_2-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_16_3-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_16_4-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_16_5-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_17_1-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_17_2-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_17_3-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_17_4-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_17_5-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_18_1-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_18_2-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_18_3-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_18_4-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_18_5-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_19_1-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_19_2-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_19_3-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_19_4-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_19_5-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="41" HiVel="41" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_20_1-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="42" HiVel="42" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_20_2-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="43" HiVel="43" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_20_3-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="44" HiVel="44" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_20_4-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="45" HiVel="45" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Down/153_6_pkbz_d_20_5-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_00_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_00_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_00_3-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_00_4-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_00_5-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_01_1-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_01_2-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_01_3-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_01_4-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_01_5-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_02_1-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_02_2-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_02_3-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_02_4-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_02_5-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_03_1-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_03_2-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_03_3-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_03_4-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_03_5-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_04_1-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_04_2-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_04_3-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_04_4-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_04_5-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_05_1-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_05_2-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_05_3-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_05_4-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_05_5-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_06_1-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_06_2-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_06_3-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_06_4-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_06_5-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_07_1-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_07_2-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_07_3-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_07_4-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_07_5-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_08_1-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_08_2-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_08_3-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_08_4-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_08_5-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_09_1-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_09_2-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_09_3-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_09_4-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_09_5-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_10_1-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_10_2-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_10_3-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_10_4-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_10_5-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_11_1-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_11_2-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_11_3-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_11_4-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_11_5-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_12_1-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_12_2-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_12_3-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_12_4-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_12_5-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_13_1-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_13_2-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_13_3-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_13_4-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_13_5-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_14_1-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_14_2-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_14_3-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_14_4-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_14_5-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_15_1-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_15_2-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_15_3-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_15_4-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_15_5-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_16_1-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_16_2-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_16_3-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_16_4-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_16_5-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_17_1-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_17_2-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_17_3-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_17_4-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_17_5-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_18_1-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_18_2-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_18_3-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_18_4-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_18_5-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_19_1-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_19_2-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_19_3-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_19_4-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_19_5-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="51" HiVel="51" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_20_1-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="52" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_20_2-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="53" HiVel="53" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_20_3-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_20_4-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Buzz Up/153_6_pkbz_u_20_5-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_04_1-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_04_2-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_05_1-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_05_2-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_06_1-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_06_2-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_07_1-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_07_2-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_08_1-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_08_2-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_09_1-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_09_2-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_10_1-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_10_2-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_11_1-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_11_2-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_12_1-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_12_2-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_13_1-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_13_2-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_14_1-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_14_2-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_15_1-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_15_2-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_16_1-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_16_2-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_17_1-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_17_2-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_18_1-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_18_2-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_19_1-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_19_2-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_20_1-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_20_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_00_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_00_2-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_01_1-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_01_2-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_02_1-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_02_2-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="61" HiVel="61" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_03_1-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="62" HiVel="62" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Pick Stop/127_6_pstop_03_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_00_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_00_3-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_01_1-2.wav" Duplicate="0" />
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_01_3-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_02_1-2.wav" Duplicate="0" />
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_02_3-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_03_1-2.wav" Duplicate="0" />
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_03_3-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_04_1-2.wav" Duplicate="0" />
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_04_3-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_05_1-2.wav" Duplicate="0" />
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_05_3-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_06_1-2.wav" Duplicate="0" />
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_06_3-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_07_1-2.wav" Duplicate="0" />
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_07_3-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_08_1-2.wav" Duplicate="0" />
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_08_3-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_09_1-2.wav" Duplicate="0" />
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_09_3-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_10_1-2.wav" Duplicate="0" />
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_10_3-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_11_1-2.wav" Duplicate="0" />
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_11_3-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_12_1-2.wav" Duplicate="0" />
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_12_3-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_13_1-2.wav" Duplicate="0" />
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_13_3-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_14_1-2.wav" Duplicate="0" />
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_14_3-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_15_1-2.wav" Duplicate="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_15_3-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_16_1-2.wav" Duplicate="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_16_3-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_17_1-2.wav" Duplicate="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_17_3-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_18_1-2.wav" Duplicate="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_18_3-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_19_1-2.wav" Duplicate="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_19_3-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="71" HiVel="71" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_20_1-2.wav" Duplicate="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="72" HiVel="72" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise/135_6_frn_20_3-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="0" HiKey="0" LoVel="0" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_1f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="1" HiKey="1" LoVel="0" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_1f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="0" HiKey="0" LoVel="32" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_2f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="1" HiKey="1" LoVel="32" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_2f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="0" HiKey="0" LoVel="53" HiVel="73" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_3f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="1" HiKey="1" LoVel="53" HiVel="73" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_3f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="0" HiKey="0" LoVel="74" HiVel="95" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_4f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="1" HiKey="1" LoVel="74" HiVel="95" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_4f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="0" HiKey="0" LoVel="96" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_5f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="1" HiKey="1" LoVel="96" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_5f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="0" HiKey="0" LoVel="114" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_6f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="1" HiKey="1" LoVel="114" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Down/133_6_fnd_6f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="2" HiKey="2" LoVel="0" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_1f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="3" HiKey="3" LoVel="0" HiVel="31" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_1f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="2" HiKey="2" LoVel="32" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_2f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="3" HiKey="3" LoVel="32" HiVel="52" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_2f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="2" HiKey="2" LoVel="53" HiVel="73" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_3f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="3" HiKey="3" LoVel="53" HiVel="73" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_3f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="2" HiKey="2" LoVel="74" HiVel="95" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_4f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="3" HiKey="3" LoVel="74" HiVel="95" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_4f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="2" HiKey="2" LoVel="96" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_5f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="3" HiKey="3" LoVel="96" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_5f_2-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="2" HiKey="2" LoVel="114" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_6f_1-2.wav" Duplicate="0" />
+  <sample Root="40" LoKey="3" HiKey="3" LoVel="114" HiVel="127" RRGroup="1" FileName="{PROJECT_FOLDER}String/String6/Fret Noise Up/133_6_fnu_6f_2-2.wav" Duplicate="0" />
+</samplemap>

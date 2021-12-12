@@ -1,30 +1,23 @@
-include('Namespaces/Articulations.js');
-include('Namespaces/CCs.js');
-include('Namespaces/Keys.js');
-include('Namespaces/LeftHand.js');
-include('Namespaces/MIDI.js');
-include('Namespaces/Noises.js');
-include('Namespaces/NoteTrigger.js');
+include("Namespaces/Articulations.js");
+include("Namespaces/Delays.js");
+include("Namespaces/EventChaser.js");
+include("Namespaces/LeftHand.js");
+include("Namespaces/MIDI.js");
+include("Namespaces/Noises.js");
+include("Namespaces/NoteTrigger.js");
 
 namespace String {
-  reg string = null;
-  reg pressedNotes = [];
-  reg midiList = Engine.createMidiList();
-  reg holder = Engine.createMessageHolder();
-
-  inline function parseState(note) {
-    switch (note) {
-      case Keys.mute:
-        string.setPalmMute(note);
-        break;
-    }
-  }
+  const var name = Synth.getIdList('Container')[0];
+  const var string = g_strings[parseInt(name.substring(6, 7))];
+  const var midiList = Engine.createMidiList();
+  const var holder = Engine.createMessageHolder();
+  const var pressedNotes = [];
 
   inline function getArticulation() {
     return (
-      string.isMuted ? Articulations.muted :
-      string.isPalmMuted ? Articulations.palmMuted :
-      Articulations.sustain
+      string.isMuted ? Articulations.MUTED :
+      string.isPalmMuted ? Articulations.PALMMUTED :
+      Articulations.SUSTAIN
     );
   }
 
@@ -32,53 +25,27 @@ namespace String {
     return channel != string.index;
   }
 
-  inline function isOffString(number) {
+  inline function isOffString() {
     return !string.isMuted && (
-      number < string.openNote || number > string.topNote
+      MIDI.number < string.openNote || MIDI.number > string.topNote
     );
   }
 
-  inline function setPalmMute(value) {
-    if (value > 100) {
-      string.palmMuteToggle = !string.palmMuteToggle;
-    }
-    string.isPalmMuted = string.palmMuteToggle || value;
-  }
-
-  inline function setMuted(isMuted) {
-    string.isMuted = isMuted;
-  }
-
-  inline function notCurrentNote() {
+  inline function notCurrentEvent() {
     return (
       (g_controlEventId != -1) &&
       (string.triggerEventId != g_controlEventId)
     );
   }
 
-  inline function parseNote(isNoteOff) {
-    if (
-      (isNoteoff && NoteTrigger.isPendingAttackEvent()) ||
-      NoteTrigger.isPendingReleaseEvent()
-    ) {
-      return;
+  inline function parseKeySwitch() {
+    switch (MIDI.number) {
+      case g_keys["mute"]:
+        string.setArticulation(Articulations.PALMMUTED, MIDI.value);
+        return 1;
+      default:
+        return 0;
     }
-
-    Message.ignoreEvent(true);
-    if (String.isOtherString(Message.getChannel())) { return; }
-
-    isNoteOff ? MIDI.parseNoteOff() : MIDI.parseNoteOn();
-    if (isOffString(MIDI.number)) { return; }
-
-    return 1;
-  }
-
-  inline function parseNoteOn() {
-    return parseNote(0);
-  }
-
-  inline function parseNoteOff() {
-    return parseNote(1);
   }
 
   inline function isPressed(number) {
@@ -87,81 +54,105 @@ namespace String {
 
   inline function clearFret() {
     string.fret = -1;
-    string.isMuted = false;
     pressedNotes.clear();
-    midiList.fill(0);
+    midiList.fill(-1);
     LeftHand.unpressString(string);
-    NoteTrigger.clearPendingAttackNoteOff();
+    EventChaser.clearPendingAttackNoteOff();
   }
 
-  inline function pressFret(noteNumber) {
-    local fret = noteNumber - string.openNote;
+  inline function pressFret() {
+    local fret = MIDI.number - string.openNote;
     if (fret < 0 || fret > 20) { return; }
 
     string.fret = fret;
-    string.isMuted = false;
-    pressedNotes.push(noteNumber);
-    midiList.setValue(noteNumber, MIDI.value);
+    pressedNotes.push(MIDI.number);
+    midiList.setValue(MIDI.number, MIDI.value);
     LeftHand.pressString(string);
-    NoteTrigger.clearPendingReleaseNoteOff();
+    EventChaser.clearPendingReleaseNoteOff();
   }
 
-  inline function releaseFret(noteNumber) {
+  inline function releaseFret() {
     if (!pressedNotes.length) {
-      NoteTrigger.clearPendingAttackNoteOff();
-      return;
+      EventChaser.clearPendingAttackNoteOff();
+      return 0;
     }
 
     local topNote = pressedNotes[pressedNotes.length - 1];
-    pressedNotes.remove(noteNumber);
-    midiList.setValue(noteNumber, 0);
+    pressedNotes.remove(MIDI.number);
+    midiList.setValue(MIDI.number, -1);
     if (!pressedNotes.length) {
-      NoteTrigger.release();
+      playNoise();
       clearFret();
-      return;
+      return 0;
     }
 
     MIDI.number = pressedNotes[pressedNotes.length - 1];
-    if (MIDI.number == topNote) { return; }
-
-    pressFret(MIDI.number);
+    if (MIDI.number == topNote) { return 0; }
     MIDI.value = midiList.getValue(MIDI.number);
-    NoteTrigger.trigger(getArticulation());
-    NoteTrigger.clearPendingAttackNoteOff();
+    pressedNotes.remove(MIDI.number);
+
+    pressFret();
+    playNote();
+    return 1
+  }
+
+  inline function playNote() {
+    EventChaser.clearPendingAttackNoteOff();
+
+    local articulation = getArticulation();
+    switch (articulation) {
+      case Articulations.SUSTAIN:
+      case Articulations.PALMMUTED:
+        NoteTrigger.triggerPreAttack();
+        NoteTrigger.triggerPickBuzz();
+        MIDI.timestamp += Delays.pickNoteSamples();
+        NoteTrigger.triggerBody(articulation);
+        break;
+      case Articulations.MUTED:
+        NoteTrigger.triggerPreAttack();
+        NoteTrigger.triggerPickBuzz();
+        break;
+    }
+
+    string.reset();
+  }
+
+  inline function playNoise() {
+    NoteTrigger.triggerFretNoise();
+    // NoteTrigger.triggerPickStop();
+    // NoteTrigger.triggerOpenstring();
   }
 
   inline function triggerNoteOn() {
-    // g_debug.printMIDI();
-    if (MIDI.number == Keys.mute) {
-      string.setPalmMute(MIDI.value);
-      return;
-    }
+    if (EventChaser.isPendingAttackEvent()) { return; }
 
-    NoteTrigger.clearPendingReleaseNoteOff();
-    if (string.isMuted) {
-      NoteTrigger.trigger(Articulations.muted);
-      string.isMuted = false;
-      return;
-    }
+    Message.ignoreEvent(true);
 
-    pressFret(MIDI.number);
-    NoteTrigger.trigger(getArticulation());
+    if (isOtherString(Message.getChannel())) { return; }
+
+    MIDI.parseNoteOn();
+
+    if (notCurrentEvent()) { return; }
+    if (parseKeySwitch()) { return; }
+
+    if (isOffString()) { return; }
+
+    pressFret();
+    playNote();
   }
 
   inline function triggerNoteOff() {
-    if (MIDI.number == Keys.mute) {
-      string.setPalmMute(0);
-      return;
-    }
+    if (EventChaser.isPendingReleaseEvent()) { return; }
 
-    // g_debug.printMIDI();
-    if (string.isMuted) {
-      clearFret();
-      return;
-    }
+    Message.ignoreEvent(true);
 
-    releaseFret(MIDI.number);
-    NoteTrigger.release();
+    if (isOtherString(Message.getChannel())) { return; }
+
+    MIDI.parseNoteOff();
+
+    if (parseKeySwitch()) { return; }
+
+    if (releaseFret()) { playNoise(); }
   }
 
   inline function triggerController() {

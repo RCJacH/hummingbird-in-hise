@@ -18,9 +18,8 @@ function changePosition(frets) {
 function GuitarString(index) {
   var obj = {
     index: parseInt(index),
+    articulation: 1,
     isMuted: false,
-    isPalmMuted: false,
-    palmMuteToggle: false,
     fret: -1,
     openNote: standardTuning[index],
     topNote: standardTuning[index] + 20,
@@ -38,6 +37,18 @@ function GuitarString(index) {
 
   obj.releaseStrum = function() {
     Synth.addNoteOff(this.index, this.openNote, 0);
+  };
+
+  obj.setArticulation = function(index, velocity) {
+    this.articulation = index * (
+      Math.ceil(velocity / g_settings["keyswitchThreshold"])
+      );
+  };
+
+  obj.reset = function() {
+    if (!(this.articulation % 2)) { return; }
+
+    this.articulation = 1;
   };
 
   return obj;

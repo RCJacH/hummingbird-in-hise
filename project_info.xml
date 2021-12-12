@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ProjectSettings>
-  <Name value="Hummingbird-s"/>
-  <Version value="1.0.0"/>
+  <Name value="Hummingbird"/>
+  <Version value="0.0.1"/>
   <Description value=""/>
-  <BundleIdentifier value="com.myCompany.product"/>
+  <BundleIdentifier value="com.RCJacH.Hummingbird"/>
   <PluginCode value="Abcd"/>
-  <EmbedAudioFiles value="Yes"/>
+  <EmbedAudioFiles value="1"/>
   <SupportFullDynamicsHLAC value="1"/>
   <AdditionalDspLibraries value=""/>
   <OSXStaticLibs value=""/>
@@ -19,4 +19,13 @@
   <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
   <SupportMonoFX value="No"/>
   <UseRawFrontend value="No"/>
+  <EmbedImageFiles value="Yes"/>
+  <ExtraDefinitionsLinux value=""/>
+  <EnableMidiInputFX value="No"/>
+  <VST3Support value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value=""/>
+  <LinkExpansionsToProject value="No"/>
+  <EnableSoundGeneratorsFX value="No"/>
+  <ReadOnlyFactoryPresets value="No"/>
 </ProjectSettings>

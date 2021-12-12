@@ -4,24 +4,17 @@ namespace Humanizer {
   reg baseRnd = 0;
 
   inline function setBaseDelay() {
-    baseDelay = Math.pow(
-      Engine.getSamplesForMilliSeconds(32), g_rh.speed
-    );
+    baseDelay = Math.pow(Delays.inSamples(32), g_rh.speed);
   }
 
-  inline function setBaseVel(velocity) {
-    local range = g_rh.bottomString - g_rh.topString;
-    baseVel = (
-      velocity * (
-        Math.random() * g_rh.humanize * g_rh.crescendo
-        )
-      - velocity
-    ) / range;
+  inline function setBaseVel(velocity, range) {
+    local rand = Math.random() * g_rh.humanize - g_rh.humanize * 0.5;
+    baseVel = (velocity * g_rh.crescendo - velocity) / range + velocity * rand;
   }
 
-  inline function setStrum(velocity) {
+  inline function setStrum(velocity, range) {
     setBaseDelay();
-    setBaseVel(velocity);
+    setBaseVel(velocity, range);
   }
 
   inline function humanizeDelay(index) {

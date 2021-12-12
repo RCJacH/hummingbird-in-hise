@@ -1,0 +1,3070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="" RRGroupAmount="3" MicPositions=";">
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_00_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_01_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_02_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_03_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_04_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_05_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_06_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_07_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_08_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_09_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_10_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_11_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_12_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_13_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_14_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_15_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_16_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_17_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_18_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_19_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="1" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="2" HiVel="2" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="3" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="4" HiVel="4" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="5" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="6" HiVel="6" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="7" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="8" HiVel="8" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="9" HiVel="9" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="10" HiVel="10" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="11" HiVel="11" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="12" HiVel="12" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="13" HiVel="13" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="14" HiVel="14" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="15" HiVel="15" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="16" HiVel="16" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Down/01_1_sd_20_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_00_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_01_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_02_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_03_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_04_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_05_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_06_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_07_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_08_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_09_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_10_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_11_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_12_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_13_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_14_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_15_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_16_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_17_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_18_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_19_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="17" HiVel="17" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_01-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="18" HiVel="18" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_02-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="19" HiVel="19" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_03-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="20" HiVel="20" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_04-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="21" HiVel="21" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_05-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="22" HiVel="22" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_06-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="23" HiVel="23" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_07-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="24" HiVel="24" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_08-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="25" HiVel="25" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_09-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="26" HiVel="26" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_10-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="27" HiVel="27" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_11-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="28" HiVel="28" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_12-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="29" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_13-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="30" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_14-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="31" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_15-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="32" HiVel="32" RRGroup="1"
+          FileName="{PROJECT_FOLDER}String/String1/Sustain Up/01_1_su_20_16-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_00_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_01_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_02_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_03_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_04_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_05_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_06_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_07_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_08_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_09_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_10_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_11_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_12_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_13_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_14_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_15_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_16_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_17_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_18_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_19_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="1" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="2" HiVel="2" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="3" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="4" HiVel="4" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="5" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="6" HiVel="6" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="7" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="8" HiVel="8" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Down/29_1_mdm_20_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_00_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_01_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_02_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_03_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_04_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_05_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_06_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_07_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_08_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_09_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_10_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_11_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_12_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_13_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_14_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_15_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_16_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_17_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_18_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_19_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="9" HiVel="9" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="10" HiVel="10" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="11" HiVel="11" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_3-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="12" HiVel="12" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_4-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="13" HiVel="13" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_5-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="14" HiVel="14" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_6-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="15" HiVel="15" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_7-2.wav"
+          Duplicate="0"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="16" HiVel="16" RRGroup="2"
+          FileName="{PROJECT_FOLDER}String/String1/Muted Up/29_1_mum_20_8-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="1" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_03_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="2" HiVel="2" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_03_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="1" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_05_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="2" HiVel="2" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_05_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="1" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_07_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="2" HiVel="2" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_07_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="1" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_09_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="2" HiVel="2" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_09_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="1" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_12_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="2" HiVel="2" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_12_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="1" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_19_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="2" HiVel="2" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_19_2-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="1" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_sh_1-2.wav"
+          Duplicate="0"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="2" HiVel="2" RRGroup="3"
+          FileName="{PROJECT_FOLDER}String/String2/Harmonic/600_2_nharm_sh_2-2.wav"
+          Duplicate="0"/>
+</samplemap>
