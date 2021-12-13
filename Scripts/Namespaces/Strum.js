@@ -24,17 +24,11 @@ namespace Strum {
     return strings;
   }
 
-  inline function _getBarMuteNote(item, fret) {
-    local string = item[1];
-    string.setArticulation(Articulations.MUTED, 127);
-    item.push(string.openNote + fret);
-  }
-
   inline function _getFrettedNote(item, lastFret) {
     local string = item[1];
     local fret = string.fret;
     if (fret == -1) {
-      string.setArticulation(Articulations.MUTED, 127);
+      StringParser.setArticulation(string, Articulations.MUTED, 1);
       fret = lastFret;
     }
     item.push(string.openNote + fret);
@@ -46,11 +40,7 @@ namespace Strum {
     local lastFret = fret;
     local strings = _getStrings(bottom, top, direction);
     local isEmpty = !g_lh.pressedStrings.length;
-    if (isEmpty) {
-      for (item in strings) {;_getBarMuteNote(item, fret);}
-    } else {
-      for (item in strings) {lastFret = _getFrettedNote(item, lastFret);}
-    }
+    for (item in strings) {lastFret = _getFrettedNote(item, lastFret);}
     return strings;
   }
 
@@ -84,7 +74,7 @@ namespace Strum {
       string.triggerEventId = Message.getEventId();
       Message.store(string.pending);
       vel = Humanizer.humanizeVelocity(index, velocity);
-      string.trigger(note, vel, delay);
+      StringParser.pick(string, note, vel, delay);
       delay += Humanizer.humanizeDelay(index);
     }
   }
@@ -96,7 +86,7 @@ namespace Strum {
     g_pressedKeys.clear();
     for (string in g_strings) {
       if (string == null) { continue; }
-      string.releaseStrum();
+      StringParser.stop(string, MIDI.timestamp);
     }
   }
 }

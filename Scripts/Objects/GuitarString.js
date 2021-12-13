@@ -20,36 +20,18 @@ function GuitarString(index) {
     index: parseInt(index),
     articulation: 1,
     isMuted: false,
-    fret: -1,
+    fret: 0,
     openNote: standardTuning[index],
     topNote: standardTuning[index] + 20,
     pending: Engine.createMessageHolder(),
+    midiList: Engine.createMidiList(),
+    attackEventIds: Engine.createUnorderedStack(),
+    releaseEventIds: Engine.createUnorderedStack(),
+    pressedNotes: [],
     triggerEventId: 0,
   };
 
-  obj.getNote = function() {
-    return (this.fret == -1 ? 0 : this.openNote + this.fret);
-  };
-
-  obj.trigger = function(note, vel, delay) {
-    return Synth.addNoteOn(this.index, note, vel, delay);
-  };
-
-  obj.releaseStrum = function() {
-    Synth.addNoteOff(this.index, this.openNote, 0);
-  };
-
-  obj.setArticulation = function(index, velocity) {
-    this.articulation = index * (
-      Math.ceil(velocity / g_settings["keyswitchThreshold"])
-      );
-  };
-
-  obj.reset = function() {
-    if (!(this.articulation % 2)) { return; }
-
-    this.articulation = 1;
-  };
+  obj.pressedNotes.reserve(64);
 
   return obj;
 }

@@ -6,6 +6,10 @@ namespace EventParser {
     return MIDI.number <=84 && (g_lh.isSilent || MIDI.number >= 40)
   }
 
+  inline function parseKeySwitch() {
+
+  }
+
   inline function triggerControlNoteOn() {
     if (_isNote()) {
       ChordParser.analyze();
@@ -104,14 +108,24 @@ namespace EventParser {
   }
 
   inline function triggerNoteOn() {
+    Message.ignoreEvent(true);
 
+    if (parseKeySwitch()) { return; }
+    local string = g_strings[MIDI.channel];
+    StringParser.pressFret(string, StringParser.getFret(string));
   }
 
   inline function triggerNoteOff() {
+    Message.ignoreEvent(true);
 
+    if (parseKeySwitch()) { return; }
+    local string = g_strings[MIDI.channel];
+    StringParser.releaseFret(string, StringParser.getFret(string));
   }
 
   inline function parseNoteOn() {
+    if (Message.isArtificial()) { return; }
+
     switch (Message.getChannel()) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:
@@ -133,6 +147,8 @@ namespace EventParser {
   }
 
   inline function parseNoteOff() {
+    if (Message.isArtificial()) { return; }
+
     switch (Message.getChannel()) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:

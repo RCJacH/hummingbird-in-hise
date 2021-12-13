@@ -1,12 +1,18 @@
 namespace NoteTrigger {
+  const var string = g_strings[
+    parseInt(Synth.getIdList('Container')[0].substring(6, 7))
+  ];
+
   inline function triggerAttack(articulation) {
-    EventChaser.addAttackEvent(
+    EventChaser.addEvent(
+      string.attackEventIds,
       Synth.addNoteOn(articulation, MIDI.number, MIDI.value, MIDI.timestamp)
     );
   }
 
   inline function triggerRelease(articulation) {
-    EventChaser.addReleaseEvent(
+    EventChaser.addEvent(
+      string.releaseEventIds,
       Synth.addNoteOn(articulation, MIDI.number, MIDI.value, MIDI.timestamp)
     );
   }

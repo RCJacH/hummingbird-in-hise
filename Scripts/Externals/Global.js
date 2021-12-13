@@ -1,6 +1,9 @@
+include("Namespaces/Global/ChordParser.js");
 include("Namespaces/Global/EventParser.js");
+include("Namespaces/Global/StringParser.js");
 include("Namespaces/GlobalModulations.js");
 include("Namespaces/Delays.js");
+include("Namespaces/EventChaser.js");
 include("Namespaces/Humanizer.js");
 include("Namespaces/LeftHand.js");
 include("Namespaces/MIDI.js");
