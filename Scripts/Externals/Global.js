@@ -1,14 +1,17 @@
-include("Namespaces/Global/ChordParser.js");
-include("Namespaces/Global/EventParser.js");
-include("Namespaces/Global/StringParser.js");
+global g_settings = Engine.loadFromJSON('settings.json');
+global g_keys = Engine.loadFromJSON('keys.json');
+global g_cc = Engine.loadFromJSON('cc.json');
+global g_rr = Engine.loadFromJSON('rr.json');
+global g_velocity = Engine.loadFromJSON('velocity.json');
+global g_pressedKeys = Engine.createMidiList();
+global g_strumTimer = Engine.createTimerObject();
+global g_controlEventId = -1;
 include("Namespaces/GlobalModulations.js");
+global g_mod = GlobalModulations.init();
+
+include("Namespaces/MIDI.js");
 include("Namespaces/Delays.js");
 include("Namespaces/EventChaser.js");
-include("Namespaces/Humanizer.js");
-include("Namespaces/LeftHand.js");
-include("Namespaces/MIDI.js");
-include("Namespaces/RightHand.js");
-include("Namespaces/Strum.js");
 include("Namespaces/GuitarString.js");
 global g_strings = [
   null,
@@ -19,24 +22,19 @@ global g_strings = [
   GuitarString.create(5),
   GuitarString.create(6)
 ];
+
 include("Objects/LH.js");
-include('Objects/Noises.js');
 include("Objects/RH.js");
+include('Objects/Noises.js');
+include("Namespaces/LeftHand.js");
+include("Namespaces/RightHand.js");
 
+include("Namespaces/Humanizer.js");
+include("Namespaces/Strum.js");
+include("Namespaces/Global/ChordParser.js");
+include("Namespaces/Global/EventParser.js");
 
-global g_lh = LH();
-global g_rh = RH();
-
-global g_pressedKeys = Engine.createMidiList();
-global g_strumTimer = Engine.createTimerObject();
-global g_controlEventId = -1;
-
-global g_settings = Engine.loadFromJSON('settings.json');
-global g_keys = Engine.loadFromJSON('keys.json');
-global g_cc = Engine.loadFromJSON('cc.json');
-global g_rr = Engine.loadFromJSON('rr.json');
-global g_velocity = Engine.loadFromJSON('velocity.json');
-global g_mod = GlobalModulations.init();
+Content.makeFrontInterface(700, 400);
 
 function onNoteOn() {
   EventParser.parseNoteOn();
