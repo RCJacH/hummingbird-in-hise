@@ -1,4 +1,24 @@
-namespace StringParser {
+namespace GuitarString {
+  inline function create(index) {
+    local stringSettings = g_settings["string"];
+    local string = {
+      index: index,
+      articulation: 1,
+      fret: 0,
+      openNote: stringSettings["tuning"][index],
+      topNote: stringSettings["tuning"][index] + stringSettings["frets"],
+      pending: Engine.createMessageHolder(),
+      midiList: Engine.createMidiList(),
+      attackEventIds: Engine.createUnorderedStack(),
+      releaseEventIds: Engine.createUnorderedStack(),
+      pressedNotes: [],
+      triggerEventId: 0,
+    };
+
+    string.pressedNotes.reserve(64);
+    return string
+  }
+
   inline function setArticulation(string, artIndex, velocity) {
     string.articulation = artIndex * (
       1 + velocity > g_settings["keyswitchThreshold"]
@@ -44,7 +64,7 @@ namespace StringParser {
     EventChaser.clearPendingNoteOff(string.releaseEventIds);
     if (g_lh.isSilent) { return; }
     EventChaser.clearPendingNoteOff(string.attackEventIds);
-    StringParser.pick(string, getNote(string), MIDI.value, MIDI.timestamp);
+    pick(string, getNote(string), MIDI.value, MIDI.timestamp);
   }
 
   inline function releaseFret(string, fret) {

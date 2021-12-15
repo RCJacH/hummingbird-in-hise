@@ -28,7 +28,7 @@ namespace Strum {
     local string = item[1];
     local fret = string.fret;
     if (fret == -1) {
-      StringParser.setArticulation(string, Articulations.MUTED, 1);
+      GuitarString.setArticulation(string, Articulations.MUTED, 1);
       fret = lastFret;
     }
     item.push(string.openNote + fret);
@@ -74,7 +74,7 @@ namespace Strum {
       string.triggerEventId = Message.getEventId();
       Message.store(string.pending);
       vel = Humanizer.humanizeVelocity(index, velocity);
-      StringParser.pick(string, note, vel, delay);
+      GuitarString.pick(string, note, vel, delay);
       delay += Humanizer.humanizeDelay(index);
     }
   }
@@ -86,7 +86,7 @@ namespace Strum {
     g_pressedKeys.clear();
     for (string in g_strings) {
       if (string == null) { continue; }
-      StringParser.stop(string, MIDI.timestamp);
+      GuitarString.stop(string, MIDI.timestamp);
     }
   }
 }

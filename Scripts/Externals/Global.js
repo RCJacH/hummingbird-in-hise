@@ -9,18 +9,20 @@ include("Namespaces/LeftHand.js");
 include("Namespaces/MIDI.js");
 include("Namespaces/RightHand.js");
 include("Namespaces/Strum.js");
+include("Namespaces/GuitarString.js");
+global g_strings = [
+  null,
+  GuitarString.create(1),
+  GuitarString.create(2),
+  GuitarString.create(3),
+  GuitarString.create(4),
+  GuitarString.create(5),
+  GuitarString.create(6)
+];
 include("Objects/LH.js");
 include('Objects/Noises.js');
 include("Objects/RH.js");
-include("Objects/GuitarString.js");
 
-global g_string1 = GuitarString(1);
-global g_string2 = GuitarString(2);
-global g_string3 = GuitarString(3);
-global g_string4 = GuitarString(4);
-global g_string5 = GuitarString(5);
-global g_string6 = GuitarString(6);
-global g_strings = [null, g_string1, g_string2, g_string3, g_string4, g_string5, g_string6];
 
 global g_lh = LH();
 global g_rh = RH();

@@ -112,7 +112,7 @@ namespace EventParser {
 
     if (parseKeySwitch()) { return; }
     local string = g_strings[MIDI.channel];
-    StringParser.pressFret(string, StringParser.getFret(string));
+    GuitarString.pressFret(string, GuitarString.getFret(string));
   }
 
   inline function triggerNoteOff() {
@@ -120,12 +120,10 @@ namespace EventParser {
 
     if (parseKeySwitch()) { return; }
     local string = g_strings[MIDI.channel];
-    StringParser.releaseFret(string, StringParser.getFret(string));
+    GuitarString.releaseFret(string, GuitarString.getFret(string));
   }
 
   inline function parseNoteOn() {
-    if (Message.isArtificial()) { return; }
-
     switch (Message.getChannel()) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:
@@ -147,8 +145,6 @@ namespace EventParser {
   }
 
   inline function parseNoteOff() {
-    if (Message.isArtificial()) { return; }
-
     switch (Message.getChannel()) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:
