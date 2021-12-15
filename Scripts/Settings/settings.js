@@ -1,4 +1,4 @@
-{
+global g_settings = {
   "keyswitchThreshold": 100,
   "chordMode": false,
   "hvThreshold": 127,
@@ -13,4 +13,4 @@
     "tuning": [0, 64, 59, 55, 50, 45, 40],
     "frets": 20,
   }
-}
+};

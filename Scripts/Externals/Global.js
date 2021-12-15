@@ -1,13 +1,13 @@
-global g_settings = Engine.loadFromJSON('settings.json');
-global g_keys = Engine.loadFromJSON('keys.json');
-global g_cc = Engine.loadFromJSON('cc.json');
-global g_rr = Engine.loadFromJSON('rr.json');
-global g_velocity = Engine.loadFromJSON('velocity.json');
+include("Settings/settings.js");
+include("Settings/keys.js");
+include("Settings/cc.js");
+include("Settings/rr.js");
+include("Settings/velocity.js");
+include("Namespaces/GlobalModulations.js");
+global g_mod = GlobalModulations.init();
 global g_pressedKeys = Engine.createMidiList();
 global g_strumTimer = Engine.createTimerObject();
 global g_controlEventId = -1;
-include("Namespaces/GlobalModulations.js");
-global g_mod = GlobalModulations.init();
 
 include("Namespaces/MIDI.js");
 include("Namespaces/Delays.js");
