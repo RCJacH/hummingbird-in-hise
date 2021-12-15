@@ -17,7 +17,7 @@ namespace LeftHand {
 
   inline function pressString(string) {
     if (isStringPressed(string)) { return; }
-    g_lh.pressedStrings.push(string);
+    g_lh.pressedStrings.insert(string);
   }
 
   inline function unpressString(string) {

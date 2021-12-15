@@ -84,6 +84,8 @@ namespace Strum {
     if (!g_pressedKeys.isEmpty()) { return; }
 
     g_pressedKeys.clear();
+    if (!g_lh.isSilent && !g_lh.pressedStrings.isEmpty()) { return; }
+
     for (string in g_strings) {
       if (string == null) { continue; }
       GuitarString.stop(string, MIDI.timestamp);
