@@ -15,7 +15,6 @@ namespace EventParser {
       ChordParser.analyze();
       return;
     }
-    Message.ignoreEvent(true);
     switch (MIDI.number) {
       case g_keys["addString"]:
         RightHand.setAddString(MIDI.value);
@@ -78,7 +77,6 @@ namespace EventParser {
     if (_isNote()) {
       return;
     }
-    Message.ignoreEvent(true);
     switch (MIDI.number) {
       case g_keys["addString"]:
         g_rh.addString = 0;
@@ -108,26 +106,23 @@ namespace EventParser {
   }
 
   inline function triggerNoteOn() {
-    Message.ignoreEvent(true);
-
     if (parseKeySwitch()) { return; }
     local string = g_strings[MIDI.channel];
     GuitarString.pressFret(string, GuitarString.getFret(string));
   }
 
   inline function triggerNoteOff() {
-    Message.ignoreEvent(true);
-
     if (parseKeySwitch()) { return; }
     local string = g_strings[MIDI.channel];
     GuitarString.releaseFret(string, GuitarString.getFret(string));
   }
 
   inline function parseNoteOn() {
-    switch (Message.getChannel()) {
+    Message.ignoreEvent(true);
+    MIDI.parseNoteOn();
+    switch (MIDI.channel) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:
-        MIDI.parseNoteOn();
         triggerControlNoteOn();
         break;
       case 1:
@@ -136,19 +131,17 @@ namespace EventParser {
       case 4:
       case 5:
       case 6:
-        MIDI.parseNoteOn();
         triggerNoteOn();
         break;
-      default:
-        Message.ignoreEvent(true);
     }
   }
 
   inline function parseNoteOff() {
-    switch (Message.getChannel()) {
+    Message.ignoreEvent(true);
+    MIDI.parseNoteOff();
+    switch (MIDI.channel) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:
-        MIDI.parseNoteOff();
         triggerControlNoteOff();
         break;
       case 1:
@@ -157,11 +150,8 @@ namespace EventParser {
       case 4:
       case 5:
       case 6:
-        MIDI.parseNoteOff();
         triggerNoteOff();
         break;
-      default:
-        Message.ignoreEvent(true);
     }
   }
 
