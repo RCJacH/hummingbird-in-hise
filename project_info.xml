@@ -22,7 +22,7 @@
   <EmbedImageFiles value="Yes"/>
   <ExtraDefinitionsLinux value=""/>
   <EnableMidiInputFX value="No"/>
-  <VST3Support value="No"/>
+  <VST3Support value="1"/>
   <ExpansionType value="Disabled"/>
   <EncryptionKey value=""/>
   <LinkExpansionsToProject value="No"/>
