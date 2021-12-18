@@ -8,11 +8,13 @@ namespace Articulations {
   const var TAP = 7;
   const var SLIDE = 8;
   const var VIBRATO = 9;
-  const var PICKNOISE = 10;
-  const var PICKBUZZ = 11;
-  const var PICKSTOP = 12;
-  const var FRETNOISE = 13;
-  const var FRETSLIDENOISE = 14;
+  const var CHORD = 10;
+  const var PICKNOISE = 11;
+  const var PICKBUZZ = 12;
+  const var PICKSTOP = 13;
+  const var FRETNOISE = 14;
+  const var FRETSLIDENOISE = 15;
+  const var GLIDEDOWN = 16;
 
   const var articulations = [
     "sustain",
@@ -24,11 +26,13 @@ namespace Articulations {
     "tap",
     "slide",
     "vibrato",
+    "chord",
     "pickNoise",
     "pickBuzz",
     "pickStop",
     "fretNoise",
     "fretSlideNoise",
+    "glideDown",
   ]
 
   inline function fromIndex(channel) {
@@ -74,6 +78,10 @@ namespace Articulations {
       case 'fn':
       case 'fret slide noise':
         return FRETSLIDENOISE;
+      case 'sgdwn':
+      case 'glide down':
+        return GLIDEDOWN
+
     }
   }
 
@@ -83,6 +91,7 @@ namespace Articulations {
       case MUTED:
       case HARMONIC:
       case TAP:
+      case CHORD:
         return true;
       default:
         return false;
@@ -96,6 +105,7 @@ namespace Articulations {
       case PICKSTOP:
       case FRETNOISE:
       case FRETSLIDENOISE:
+      case GLIDEDOWN:
         return true;
       default:
         return false;
