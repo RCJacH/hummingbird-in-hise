@@ -3,6 +3,7 @@ include("Settings/keys.js");
 include("Settings/cc.js");
 include("Settings/rr.js");
 include("Settings/velocity.js");
+include('Settings/Noises.js');
 include("Namespaces/GlobalModulations.js");
 global g_mod = GlobalModulations.init();
 global g_pressedKeys = Engine.createMidiList();
@@ -25,7 +26,6 @@ global g_strings = [
 
 include("Objects/LH.js");
 include("Objects/RH.js");
-include('Objects/Noises.js');
 include("Namespaces/LeftHand.js");
 include("Namespaces/RightHand.js");
 

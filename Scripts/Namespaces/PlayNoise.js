@@ -23,18 +23,20 @@ namespace PlayNoise {
         linear = 0.4 + 0.6 * g_mod["linear"][velocity];
         break;
       case Articulations.FRETNOISE:
-      case Articulations.FretSlide:
+      case Articulations.FINGERRELEASE:
         linear = 0.5 + 0.5 * g_mod["linear"][velocity];
         break;
+      case Articulations.GLIDEDOWN:
+        linear = g_mod["linear"][velocity];
     }
-    return Engine.getDecibelsForGainFactor(linear)
+    return Message.getGain() + Engine.getDecibelsForGainFactor(linear)
   }
 
   inline function getLP(articulation, velocity) {
     local freq = 20000;
     switch (articulation) {
       case Articulations.PICKNOISE:
-        freq = 20000 * g_mod["doubleRamp"][velocity];
+        freq *= g_mod["doubleRamp"][velocity];
     }
 
     return freq
@@ -57,11 +59,13 @@ namespace PlayNoise {
         Message.setVelocity(61 + RR.get(articulation));
         break;
       case Articulations.FRETNOISE:
-        Message.setVelocity(71 + RR.get(articulation));
-        break;
-      case Articulations.FretSlide:
         Message.setNoteNumber(RR.get(articulation) + direction * 2);
         break;
+      case Articulations.FINGERRELEASE:
+        Message.setVelocity(71 + RR.get(articulation));
+        break;
+      case Articulations.GLIDEDOWN:
+        Message.setVelocity(121 + RR.get(articulation));
       default:
         Message.ignoreEvent(true);
     }

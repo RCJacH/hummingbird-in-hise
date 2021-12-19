@@ -6,5 +6,6 @@ global g_rr = {
   "pickBuzz": 5,
   "pickStop": 2,
   "fretNoise": 2,
-  "fretSlideNoise": 2,
+  "fingerRelease": 2,
+  "glideDown": 3,
 };

@@ -11,11 +11,11 @@ namespace GuitarString {
       midiList: Engine.createMidiList(),
       attackEventIds: Engine.createUnorderedStack(),
       releaseEventIds: Engine.createUnorderedStack(),
-      pressedNotes: [],
+      pressedFrets: [],
       triggerEventId: 0,
     };
 
-    string.pressedNotes.reserve(64);
+    string.pressedFrets.reserve(64);
     return string
   }
 
@@ -37,6 +37,15 @@ namespace GuitarString {
     return MIDI.number - string.openNote
   }
 
+  inline function setNoise(string, delay) {
+    return Synth.addController(
+      string.index,
+      Internal.NOISES_FLAG_CC,
+      0,
+      delay
+    )
+  }
+
   inline function pick(string, note, vel, delay) {
     return Synth.addNoteOn(string.index, note, vel, delay)
   }
@@ -49,7 +58,7 @@ namespace GuitarString {
   inline function clearFret(string) {
     EventChaser.clearPendingNoteOff(string.attackEventIds);
     stop(string, MIDI.timestamp);
-    string.pressedNotes.clear();
+    string.pressedFrets.clear();
     string.fret = 0;
     LeftHand.unpressString(string);
   }
@@ -58,7 +67,7 @@ namespace GuitarString {
     if (fret < 0 || fret > 20) { return; }
 
     string.fret = fret;
-    string.pressedNotes.push(fret);
+    string.pressedFrets.push(fret);
     string.midiList.setValue(fret, MIDI.value);
     LeftHand.pressString(string);
     EventChaser.clearPendingNoteOff(string.releaseEventIds);
@@ -70,25 +79,25 @@ namespace GuitarString {
   inline function releaseFret(string, fret) {
     if (fret < 0 || fret > 20) { return; }
 
-    local pressedNotes = string.pressedNotes;
-    if (!pressedNotes.length) {
+    local pressedFrets = string.pressedFrets;
+    if (!pressedFrets.length) {
       clearFret(string);
       return;
     }
 
-    local lastFret = pressedNotes[pressedNotes.length - 1];
+    local lastFret = pressedFrets[pressedFrets.length - 1];
     local midiList = string.midiList;
-    pressedNotes.remove(fret);
+    pressedFrets.remove(fret);
     midiList.setValue(fret, -1);
-    if (!pressedNotes.length) {
+    if (!pressedFrets.length) {
       clearFret(string);
       return;
     }
 
-    local newFret = pressedNotes[pressedNotes.length - 1];
+    local newFret = pressedFrets[pressedFrets.length - 1];
     if (newFret == lastFret) { return 0; }
     MIDI.value = midiList.getValue(newFret);
-    pressedNotes.remove(newFret);
+    pressedFrets.remove(newFret);
 
     pressFret(string, newFret);
   }

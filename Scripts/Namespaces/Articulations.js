@@ -13,7 +13,7 @@ namespace Articulations {
   const var PICKBUZZ = 12;
   const var PICKSTOP = 13;
   const var FRETNOISE = 14;
-  const var FRETSLIDENOISE = 15;
+  const var FINGERRELEASE = 15;
   const var GLIDEDOWN = 16;
 
   const var articulations = [
@@ -31,7 +31,7 @@ namespace Articulations {
     "pickBuzz",
     "pickStop",
     "fretNoise",
-    "fretSlideNoise",
+    "fingerRelease",
     "glideDown",
   ]
 
@@ -66,7 +66,7 @@ namespace Articulations {
       case 'pkbz':
       case 'pick buzz':
         return PICKBUZZ;
-      case 'frn':
+      case 'fn':
       case 'fret noise':
         return FRETNOISE;
       case 'svdf':
@@ -75,9 +75,9 @@ namespace Articulations {
       case 'pstop':
       case 'pick stop':
         return PICKSTOP;
-      case 'fn':
-      case 'fret slide noise':
-        return FRETSLIDENOISE;
+      case 'frn':
+      case 'finger release':
+        return FINGERRELEASE;
       case 'sgdwn':
       case 'glide down':
         return GLIDEDOWN
@@ -104,7 +104,7 @@ namespace Articulations {
       case PICKBUZZ:
       case PICKSTOP:
       case FRETNOISE:
-      case FRETSLIDENOISE:
+      case FINGERRELEASE:
       case GLIDEDOWN:
         return true;
       default:

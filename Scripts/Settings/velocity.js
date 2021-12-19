@@ -6,7 +6,8 @@ global g_velocity = {
   "pickBuzz": [0],
   "pickStop": [0],
   "fretNoise": [114, 96, 74, 53, 32, 0],
-  "fretSlideNoise": [0],
+  "fingerRelease": [0],
+  "glideDown": [0],
   "other": [111, 0],
   "muted": [0],
   "none": [0]

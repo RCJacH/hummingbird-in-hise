@@ -3,21 +3,26 @@ namespace NoteTrigger {
     parseInt(Synth.getIdList('Container')[0].substring(6, 7))
   ];
 
-  inline function triggerAttack(articulation) {
+  inline function trigger(eventIds, articulation) {
+    string.pending.ignoreEvent(false);
+    string.pending.setChannel(articulation);
+    string.pending.setNoteNumber(MIDI.number);
+    string.pending.setVelocity(MIDI.value);
+    string.pending.setTimestamp(MIDI.timestamp);
     EventChaser.addEvent(
-      string.attackEventIds,
-      Synth.addNoteOn(articulation, MIDI.number, MIDI.value, MIDI.timestamp)
+      eventIds,
+      Synth.addMessageFromHolder(string.pending)
     );
+  }
+  inline function triggerAttack(articulation) {
+    trigger(string.attackEventIds, articulation);
   }
 
   inline function triggerRelease(articulation) {
-    EventChaser.addEvent(
-      string.releaseEventIds,
-      Synth.addNoteOn(articulation, MIDI.number, MIDI.value, MIDI.timestamp)
-    );
+    trigger(string.releaseEventIds, articulation);
   }
 
-  function triggerPreAttack() {
+  function triggerPickNoise() {
     triggerAttack(Articulations.PICKNOISE);
   }
 
@@ -35,6 +40,10 @@ namespace NoteTrigger {
 
   function triggerPickStop() {
     triggerRelease(Articulations.PICKSTOP);
+  }
+
+  function triggerGlideDown() {
+    triggerRelease(Articulations.GLIDEDOWN);
   }
 
   function triggerOpenstring() {

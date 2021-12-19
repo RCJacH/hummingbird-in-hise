@@ -21,27 +21,53 @@ namespace String {
     );
   }
 
+  inline function playNoise(flags) {
+    for (i=0; i<7; i++) {
+      if (flags&(1<<i)) {
+        Noises.trigger(string, i);
+      }
+    }
+  }
+
   inline function playNote() {
     local articulation = Math.ceil(string.articulation / 2);
     switch (articulation) {
       case Articulations.SUSTAIN:
       case Articulations.PALMMUTED:
-        NoteTrigger.triggerPreAttack();
-        NoteTrigger.triggerPickBuzz();
-        MIDI.timestamp += Delays.pickNoteSamples();
+      case Articulations.VIBRATO:
+        playNoise(7);
+        string.pending.setGain(0);
+        MIDI.timestamp = Message.getTimestamp() + Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
         break;
       case Articulations.MUTED:
-        NoteTrigger.triggerPreAttack();
-        NoteTrigger.triggerPickBuzz();
+        playNoise(7);
+        break;
+      case Articulations.CHORD:
+        playNoise(6);
+        string.pending.setGain(0);
+        MIDI.timestamp = Message.getTimestamp() + Delays.pickNoteSamples();
+        NoteTrigger.triggerBody(articulation);
+        break;
+      case Articulation.HARMONIC:
+        playNoise(1);
+        string.pending.setGain(0);
+        MIDI.timestamp = Message.getTimestamp() + Delays.pickNoteSamples();
+        NoteTrigger.triggerBody(articulation);
+        break;
+      case Articulations.TAP:
+        playNoise(2);
+        string.pending.setGain(0);
+        NoteTrigger.triggerBody(articulation);
         break;
     }
+    Message.ignoreEvent(true);
   }
 
-  inline function playNoise() {
-    NoteTrigger.triggerFretNoise();
-    // NoteTrigger.triggerPickStop();
-    // NoteTrigger.triggerOpenstring();
+  inline function playRelease() {
+    local pressedFrets = string.pressedFrets;
+    MIDI.number = pressedFrets[pressedFrets.length - 1] + string.openNote;
+    playNoise(248);
   }
 
   inline function triggerNoteOn() {
@@ -50,9 +76,10 @@ namespace String {
     if (isOtherString(Message.getChannel())) { return; }
 
     MIDI.parseNoteOn();
+    Message.store(string.pending);
 
     if (!MIDI.number) {
-      playNoise();
+      playRelease();
     } else {
       playNote();
     }
