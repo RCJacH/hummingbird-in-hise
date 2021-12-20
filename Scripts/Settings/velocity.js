@@ -1,6 +1,8 @@
 global g_velocity = {
   "sustain": [124, 119, 114, 109, 104, 99, 94, 89, 82, 75, 68, 59, 49, 34, 19, 0],
   "palmMuted": [117, 107, 95, 81, 66, 48, 28, 0],
+  "vibrato": [117, 109, 0],
+  "chord": [110, 0],
   "harmonc": [0],
   "pickNoise": [0],
   "pickBuzz": [0],

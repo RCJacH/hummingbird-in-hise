@@ -62,6 +62,14 @@ namespace GlobalModulations {
     return a
   }
 
+  inline function chordVel2LP() {
+    local a = [];
+    a.reserve(128);
+    for (i=0; i<128; i++) {
+      a[i] = 2000 * Math.min(1, 0.4 + 0.7 * Math.pow(i / 82, 1.5));
+    }
+  }
+
   inline function harmonicVel2Gain() {
     local a = [];
     a.reserve(128);
@@ -110,6 +118,7 @@ namespace GlobalModulations {
       "doubleRamp": doubleRamp(),
       "strumNoiseCCGain": strumNoiseCCGain(),
       "mutedVel2Gain": mutedVel2Gain(),
+      "chordVel2LP": chordVel2LP(),
       "harmonicVel2Gain": harmonicVel2Gain(),
       "harmonicVel2LP": harmonicVel2LP(),
       "pickBuzzVel2Gain": pickBuzzVel2Gain(),

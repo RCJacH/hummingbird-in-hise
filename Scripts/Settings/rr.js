@@ -1,6 +1,8 @@
 global g_rr = {
   "sustain": 1,
   "muted": 1,
+  "chord": 5,
+  "vibrato": 1,
   "harmonic": 2,
   "pickNoise": 5,
   "pickBuzz": 5,
