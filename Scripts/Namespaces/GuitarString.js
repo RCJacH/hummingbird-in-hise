@@ -36,28 +36,17 @@ namespace GuitarString {
   inline function getFret(string) {
     return MIDI.number - string.openNote
   }
-
-  inline function setNoise(string, delay) {
-    return Synth.addController(
-      string.index,
-      Internal.NOISES_FLAG_CC,
-      0,
-      delay
-    )
-  }
-
   inline function pick(string, note, vel, delay) {
     return Synth.addNoteOn(string.index, note, vel, delay)
   }
 
-  inline function stop(string, delay) {
+  inline function stop(string, vel, delay) {
     EventChaser.clearPendingNoteOff(string.attackEventIds);
-    return Synth.addNoteOn(string.index, 0, 0, delay)
+    return Synth.addNoteOn(string.index, 0, vel, delay)
   }
 
   inline function clearFret(string) {
-    EventChaser.clearPendingNoteOff(string.attackEventIds);
-    stop(string, MIDI.timestamp);
+    stop(string, 0, MIDI.timestamp);
     string.pressedFrets.clear();
     string.fret = 0;
     LeftHand.unpressString(string);

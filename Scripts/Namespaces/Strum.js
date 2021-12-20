@@ -88,7 +88,7 @@ namespace Strum {
 
     for (string in g_strings) {
       if (string == null) { continue; }
-      GuitarString.stop(string, MIDI.timestamp);
+      GuitarString.stop(string, 0, MIDI.timestamp);
     }
   }
 }
