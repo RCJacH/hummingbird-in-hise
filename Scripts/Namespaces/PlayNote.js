@@ -85,13 +85,11 @@ namespace PlayNote {
         return;
       }
 
-    local velLayer = Velocity.getLayer(articulation ,velocity);
+    local velLayer = Velocity.getLayer(articulation, velocity);
     local totalRR = RR.total(articulation);
     Message.setVelocity(
       baseVel
-      + (Velocity.total(articulation) + totalRR) * direction
-      + velLayer * totalRR
-      + velLayer
+      + totalRR * (Velocity.total(articulation) * direction + velLayer)
       + RR.get(articulation)
     );
     RR.next(articulation);
