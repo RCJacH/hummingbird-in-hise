@@ -4,6 +4,7 @@ namespace GuitarString {
     local string = {
       index: index,
       articulation: 1,
+      lastArticulation: 1,
       fret: 0,
       openNote: stringSettings.tuning[index],
       topNote: stringSettings.tuning[index] + stringSettings.frets,
@@ -20,13 +21,15 @@ namespace GuitarString {
   }
 
   inline function setArticulation(string, artIndex, velocity) {
-    string.articulation = artIndex * (
-      1 + velocity > g_settings.keyswitchThreshold
+    string.lastArticulation = string.articulation;
+    string.articulation = artIndex * 2 - (
+      velocity < g_settings.keyswitchThreshold
     );
   }
 
   inline function resetArticulation(string) {
-    if (string.articulation % 2) { string.articulation = 1; }
+    if (string.articulation % 2) { return; }
+    string.articulation = 1;
   }
 
   inline function getNote(string) {
@@ -36,8 +39,13 @@ namespace GuitarString {
   inline function getFret(string) {
     return MIDI.number - string.openNote
   }
-  inline function pick(string, note, vel, delay) {
-    return Synth.addNoteOn(string.index, note, vel, delay)
+
+  inline function pick(string, note, vel) {
+    string.pending.ignoreEvent(false);
+    string.pending.setChannel(string.index);
+    string.pending.setNoteNumber(note);
+    string.pending.setVelocity(vel);
+    return Synth.addMessageFromHolder(string.pending);
   }
 
   inline function stop(string, vel, delay) {
@@ -58,11 +66,12 @@ namespace GuitarString {
     string.fret = fret;
     string.pressedFrets.push(fret);
     string.midiList.setValue(fret, MIDI.value);
+    Message.store(string.pending);
     LeftHand.pressString(string);
     EventChaser.clearPendingNoteOff(string.releaseEventIds);
     if (g_lh.isSilent) { return; }
     EventChaser.clearPendingNoteOff(string.attackEventIds);
-    pick(string, getNote(string), MIDI.value, MIDI.timestamp);
+    pick(string, getNote(string), MIDI.value);
   }
 
   inline function releaseFret(string, fret) {

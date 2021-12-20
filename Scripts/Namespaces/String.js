@@ -48,6 +48,7 @@ namespace String {
         string.pending.setGain(0);
         MIDI.timestamp = Message.getTimestamp() + Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
+        string.articulation = string.lastArticulation;
         break;
       case Articulation.HARMONIC:
         playNoise(1);

@@ -68,6 +68,8 @@ namespace GlobalModulations {
     for (i=0; i<128; i++) {
       a[i] = 2000 * Math.min(1, 0.4 + 0.7 * Math.pow(i / 82, 1.5));
     }
+
+    return a
   }
 
   inline function harmonicVel2Gain() {

@@ -8,8 +8,10 @@ include("Namespaces/GlobalModulations.js");
 global g_mod = GlobalModulations.init();
 global g_pressedKeys = Engine.createMidiList();
 global g_strumTimer = Engine.createTimerObject();
+global g_message = Engine.createMessageHolder();
 global g_controlEventId = -1;
 
+include("Namespaces/Articulations.js");
 include("Namespaces/MIDI.js");
 include("Namespaces/Delays.js");
 include("Namespaces/EventChaser.js");

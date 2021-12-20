@@ -57,25 +57,26 @@ namespace Strum {
     local velocity = MIDI.value;
     g_pressedKeys.setValue(MIDI.number, velocity);
     g_controlEventId = Message.getEventId();
-    Humanizer.setStrum(velocity, bottomString-topString);
     _addNoise(g_lh.position, Message.getVelocity(), Message.getTimestamp());
     if (MIDI.channel == STRUM_CHANNEL) { return; }
 
+    Humanizer.setStrum(velocity, bottomString-topString);
     local items = _getNotes(bottomString, topString, direction);
-    local delay = 0;
-    local vel = 0;
-    local note = 0;
-    local string = null;
-    local index = 0;
+    local string;
+    local index;
+    local note;
+    local vel;
     for (item in items) {
       index = item[0];
       string = item[1];
       note = item[2];
-      string.triggerEventId = Message.getEventId();
       Message.store(string.pending);
       vel = Humanizer.humanizeVelocity(index, velocity);
-      GuitarString.pick(string, note, vel, delay);
-      delay += Humanizer.humanizeDelay(index);
+      if (index) {
+        GuitarString.setArticulation(string, Articulations.CHORD, 1);
+      }
+      GuitarString.pick(string, note, vel);
+      Message.delayEvent(Humanizer.humanizeDelay(index));
     }
   }
 
