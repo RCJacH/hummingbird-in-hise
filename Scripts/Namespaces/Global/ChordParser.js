@@ -8,7 +8,7 @@ namespace ChordParser {
   }
 
   inline function analyze() {
-    if (g_settings["chordMode"]) {
+    if (g_settings.chordMode) {
       analyzeChords();
     } else {
       analyzeNotes();

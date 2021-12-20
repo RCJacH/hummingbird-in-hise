@@ -14,20 +14,20 @@ namespace PlayNoise {
     local linear = 1;
     switch (articulation) {
       case Articulations.PICKNOISE:
-        linear = g_mod["doubleRamp"][velocity];
+        linear = g_mod.doubleRamp[velocity];
         break;
       case Articulations.PICKBUZZ:
-        linear = 0.8 + 0.2 * g_mod["linear"][velocity];
+        linear = 0.8 + 0.2 * g_mod.linear[velocity];
         break;
       case Articulations.PICKSTOP:
-        linear = 0.4 + 0.6 * g_mod["linear"][velocity];
+        linear = 0.4 + 0.6 * g_mod.linear[velocity];
         break;
       case Articulations.FRETNOISE:
       case Articulations.FINGERRELEASE:
-        linear = 0.5 + 0.5 * g_mod["linear"][velocity];
+        linear = 0.5 + 0.5 * g_mod.linear[velocity];
         break;
       case Articulations.GLIDEDOWN:
-        linear = g_mod["linear"][velocity];
+        linear = g_mod.linear[velocity];
     }
     return Message.getGain() + Engine.getDecibelsForGainFactor(linear)
   }
@@ -36,7 +36,7 @@ namespace PlayNoise {
     local freq = 20000;
     switch (articulation) {
       case Articulations.PICKNOISE:
-        freq *= g_mod["doubleRamp"][velocity];
+        freq *= g_mod.doubleRamp[velocity];
     }
 
     return freq

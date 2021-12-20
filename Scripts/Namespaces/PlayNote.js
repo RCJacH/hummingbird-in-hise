@@ -17,19 +17,19 @@ namespace PlayNote {
     local linear = 1;
     switch (articulation) {
       case Articulations.SUSTAIN:
-        linear = 0.2 + g_mod["linear"][velocity] * 0.8;
+        linear = 0.2 + g_mod.linear[velocity] * 0.8;
         break;
       case Articulations.PALMMUTED:
-        linear = 0.5 + g_mod["linear"][velocity] * 0.5;
+        linear = 0.5 + g_mod.linear[velocity] * 0.5;
         break;
       case Articulations.VIBRATO:
-        linear = 0.25 + g_mod["linear"][velocity] * 0.75;
+        linear = 0.25 + g_mod.linear[velocity] * 0.75;
         break;
       case Articulations.CHORD:
-        linear = Math.min(1, 0.5 + g_mod["linear"][velocity] * 0.58);
+        linear = Math.min(1, 0.5 + g_mod.linear[velocity] * 0.58);
         break;
       case Articulations.HARMONIC:
-        linear = g_mod["harmonicVel2Gain"][velocity];
+        linear = g_mod.harmonicVel2Gain[velocity];
         break;
     }
     return Engine.getDecibelsForGainFactor(linear)
@@ -42,9 +42,9 @@ namespace PlayNote {
       case Articulations.VIBRATO:
         return 20000;
       case Articulations.CHORD:
-        return g_mod["chordVel2LP"][velocity];
+        return g_mod.chordVel2LP[velocity];
       case Articulations.HARMONIC:
-        return g_mod["harmonicVel2LP"][velocity];
+        return g_mod.harmonicVel2LP[velocity];
     }
   }
 

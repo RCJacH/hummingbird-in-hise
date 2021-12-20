@@ -1,12 +1,12 @@
 namespace GuitarString {
   inline function create(index) {
-    local stringSettings = g_settings["string"];
+    local stringSettings = g_settings.string;
     local string = {
       index: index,
       articulation: 1,
       fret: 0,
-      openNote: stringSettings["tuning"][index],
-      topNote: stringSettings["tuning"][index] + stringSettings["frets"],
+      openNote: stringSettings.tuning[index],
+      topNote: stringSettings.tuning[index] + stringSettings.frets,
       pending: Engine.createMessageHolder(),
       midiList: Engine.createMidiList(),
       attackEventIds: Engine.createUnorderedStack(),
@@ -21,7 +21,7 @@ namespace GuitarString {
 
   inline function setArticulation(string, artIndex, velocity) {
     string.articulation = artIndex * (
-      1 + velocity > g_settings["keyswitchThreshold"]
+      1 + velocity > g_settings.keyswitchThreshold
     );
   }
 

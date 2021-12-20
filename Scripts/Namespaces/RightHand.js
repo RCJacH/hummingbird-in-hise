@@ -19,11 +19,11 @@ namespace RightHand {
   }
 
   inline function setAddString(value) {
-    g_rh.addString = Math.ceil(value / g_settings["keyswitchThreshold"]);
+    g_rh.addString = Math.ceil(value / g_settings.keyswitchThreshold);
   }
 
   inline function setMissString(value) {
-    g_rh.missString = Math.ceil(value / g_settings["keyswitchThreshold"]);
+    g_rh.missString = Math.ceil(value / g_settings.keyswitchThreshold);
   }
 
   inline function setSpeed(float) {
