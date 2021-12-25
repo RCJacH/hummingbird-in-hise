@@ -1,35 +1,38 @@
 namespace GuitarString {
-  inline function create(index) {
-    local stringSettings = g_settings.string;
-    local string = {
-      index: index,
-      articulation: 1,
-      lastArticulation: 1,
-      fret: 0,
-      openNote: stringSettings.tuning[index],
-      topNote: stringSettings.tuning[index] + stringSettings.frets,
-      pending: Engine.createMessageHolder(),
-      midiList: Engine.createMidiList(),
-      attackEventIds: Engine.createUnorderedStack(),
-      releaseEventIds: Engine.createUnorderedStack(),
-      pressedFrets: [],
-      triggerEventId: 0,
-    };
 
-    string.pressedFrets.reserve(64);
-    return string
+  inline function forAllStrings(func) {
+    for (string in g_strings) {
+      if (!string) { continue; }
+      func(string);
+    }
+  }
+
+  inline function forPressedStrings(func) {
+    local pressedStrings = LeftHand.pressedStrings();
+    for (i=0;pressedStrings.size();i++) {
+      func(g_strings[pressedStrings[i]]);
+    }
   }
 
   inline function setArticulation(string, artIndex, velocity) {
     string.lastArticulation = string.articulation;
-    string.articulation = artIndex * 2 - (
+    string.articulation = (artIndex << 1) - (
       velocity < g_settings.keyswitchThreshold
-    );
+      );
+    }
+
+  inline function getArticulation(string) {
+    return ((string.articulation + 1) >> 1)
   }
 
   inline function resetArticulation(string) {
-    if (string.articulation % 2) { return; }
-    string.articulation = 1;
+    if (string.articulation % 2) { string.articulation = 1; }
+  }
+
+  inline function releaseArticulation(string, artIndex) {
+    if (getArticulation(string) == artIndex) {
+      resetArticulation(string);
+    }
   }
 
   inline function getNote(string) {
@@ -40,11 +43,33 @@ namespace GuitarString {
     return MIDI.number - string.openNote
   }
 
+  inline function setMuted(string) {
+    if (getArticulation(string) == Articulations.MUTED) {
+      resetArticulation(string);
+    }
+  }
+
+  inline function setPalmMuted(string) {
+    if (getArticulation(string) == Articulations.PALMMUTED) {
+      resetArticulation(string);
+    }
+  }
+
+  inline function changePosition(string) {
+    string.pendingPosChange = false;
+    return Synth.addNoteOn(string.index, 1, 127, MIDI.timestamp)
+  }
+
+  inline function preparePositionChange(string) {
+    string.pendingPosChange = true;
+  }
+
   inline function pick(string, note, vel) {
     string.pending.ignoreEvent(false);
     string.pending.setChannel(string.index);
     string.pending.setNoteNumber(note);
     string.pending.setVelocity(vel);
+    EventChaser.clearPendingNoteOff(string.attackEventIds);
     return Synth.addMessageFromHolder(string.pending);
   }
 
@@ -53,24 +78,28 @@ namespace GuitarString {
     return Synth.addNoteOn(string.index, 0, vel, delay)
   }
 
-  inline function clearFret(string) {
+  inline function clearFret(string, fret) {
+    string.lastFret = fret;
     stop(string, 0, MIDI.timestamp);
     string.pressedFrets.clear();
-    string.fret = 0;
-    LeftHand.unpressString(string);
+    string.fret = -1;
+    LeftHand.unpressString(string.index);
+    if (string.pendingPosChange) {
+      changePosition(string);
+    }
   }
 
   inline function pressFret(string, fret) {
     if (fret < 0 || fret > 20) { return; }
 
+    string.lastFret = string.fret;
     string.fret = fret;
     string.pressedFrets.push(fret);
     string.midiList.setValue(fret, MIDI.value);
     Message.store(string.pending);
-    LeftHand.pressString(string);
+    LeftHand.pressString(string.index);
     EventChaser.clearPendingNoteOff(string.releaseEventIds);
-    if (g_lh.isSilent) { return; }
-    EventChaser.clearPendingNoteOff(string.attackEventIds);
+    if (LeftHand.isSilent()) { return; }
     pick(string, getNote(string), MIDI.value);
   }
 
@@ -79,16 +108,17 @@ namespace GuitarString {
 
     local pressedFrets = string.pressedFrets;
     if (!pressedFrets.length) {
-      clearFret(string);
+      string.pendingPosChange = false;
       return;
     }
 
     local lastFret = pressedFrets[pressedFrets.length - 1];
     local midiList = string.midiList;
     pressedFrets.remove(fret);
-    midiList.setValue(fret, -1);
+    midiList.setValue(fret, 0);
     if (!pressedFrets.length) {
-      clearFret(string);
+      if (!g_strumKeys.isEmpty()) { return; }
+      clearFret(string, fret);
       return;
     }
 

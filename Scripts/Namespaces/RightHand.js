@@ -1,22 +1,7 @@
 namespace RightHand {
-  reg pressedKeys = [];
-
-  inline function create() {
-    local rh = {
-      direction: 0,
-      division: 0.5,
-      speed: 0.6,
-      bottomString: 6,
-      topString: 1,
-      accelleration: 1,
-      crescendo: 1,
-      humanize: 0.2,
-      addString: 0,
-      missString: 0,
-    };
-
-    return rh;
-  }
+  reg startTime = 0;
+  reg time = Engine.getMilliSecondsForQuarterBeats(0.5);
+  const var pressedKeys = [];
 
   inline function setAddString(value) {
     g_rh.addString = Math.ceil(value / g_settings.keyswitchThreshold);
@@ -24,6 +9,14 @@ namespace RightHand {
 
   inline function setMissString(value) {
     g_rh.missString = Math.ceil(value / g_settings.keyswitchThreshold);
+  }
+
+  inline function setDivision() {
+    g_rh.division = Engine.getQuarterBeatsForMilliSeconds(time);
+  }
+
+  inline function setDirection(direction) {
+    g_rh.direction = direction;
   }
 
   inline function setSpeed(float) {
@@ -40,5 +33,20 @@ namespace RightHand {
 
   inline function setHumanize(float) {
     g_rh.humanize = float;
+  }
+
+  inline function startDirectionDetection() {
+    startTime = Transport.getCurrentTime();
+  }
+
+  inline function stopDirectionDetection() {
+    time = Transport.getCurrentTime() - startTime;
+    setDivision();
+  }
+
+  inline function setDirectionFromBeatPosition(pos) {
+    g_rh.autoDirection = Math.fmod(
+      pos - g_rh.division / 2, g_rh.division * 2
+    ) >= g_rh.division;
   }
 }

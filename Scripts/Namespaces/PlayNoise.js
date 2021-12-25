@@ -8,7 +8,7 @@ namespace PlayNoise {
 
   const var name = Synth.getIdList("Sampler")[0];
   const var string = g_strings[parseInt(name.substring(3, 4))];
-  const var filter = Synth.getEffect("Str" + string.index + "Noises LP");
+  const var filter = Synth.getEffect(name +" LP");
 
   inline function getGain(articulation, velocity) {
     local linear = 1;
@@ -24,12 +24,15 @@ namespace PlayNoise {
         break;
       case Articulations.FRETNOISE:
       case Articulations.FINGERRELEASE:
-        linear = 0.5 + 0.5 * g_mod.linear[velocity];
+        linear = 0.5 + 0.2 * g_mod.linear[velocity];
         break;
       case Articulations.GLIDEDOWN:
         linear = g_mod.linear[velocity];
     }
-    return Message.getGain() + Engine.getDecibelsForGainFactor(linear)
+    return (
+      g_settings.volume.noises +
+      Message.getGain() + Engine.getDecibelsForGainFactor(linear)
+    )
   }
 
   inline function getLP(articulation, velocity) {
@@ -43,7 +46,7 @@ namespace PlayNoise {
   }
 
   inline function setSample(articulation, velocity) {
-    local direction = g_rh.direction;
+    local direction = g_rh.direction == -1 ? g_rh.autoDirection : g_rh.direction;
     switch (articulation) {
       case Articulations.PICKNOISE:
         Message.setVelocity(
@@ -59,13 +62,21 @@ namespace PlayNoise {
         Message.setVelocity(61 + RR.get(articulation));
         break;
       case Articulations.FRETNOISE:
-        Message.setNoteNumber(RR.get(articulation) + direction * 2);
+        Message.setNoteNumber(Message.getNoteNumber() + RR.get(articulation));
         break;
       case Articulations.FINGERRELEASE:
         Message.setVelocity(71 + RR.get(articulation));
         break;
       case Articulations.GLIDEDOWN:
-        Message.setVelocity(121 + RR.get(articulation));
+        Message.setVelocity(121 + g_settings.glideSpeed);
+        local rate = MIDI.value / 127;
+        Synth.addVolumeFade(
+          Message.getEventId(),
+          200 - 100 * rate,
+          Message.getGain() - 3 - 3 * rate
+        );
+        Message.setGain(-32);
+        break;
       default:
         Message.ignoreEvent(true);
     }

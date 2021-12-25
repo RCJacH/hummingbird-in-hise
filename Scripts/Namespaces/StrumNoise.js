@@ -27,16 +27,14 @@ namespace StrumNoise {
 
   inline function getStrumType() {
     local type = NONE;
-    local bottomString = g_rh.bottomString;
-    local topstring = g_rh.topString;
 
-    switch (bottomString - topstring) {
+    switch (g_rh.bottomString - g_rh.topString) {
       case 0:
       case 1:
         break;
       case 2:
       case 3:
-        type = (bottomString < 4) ? UPPER : LOWER;
+        type = (g_rh.bottomString < 4) ? UPPER : LOWER;
         break;
       case 4:
       case 5:

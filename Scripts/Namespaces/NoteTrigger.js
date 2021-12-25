@@ -3,51 +3,27 @@ namespace NoteTrigger {
     parseInt(Synth.getIdList('Container')[0].substring(6, 7))
   ];
 
-  inline function trigger(eventIds, articulation) {
+  inline function trigger(eventIds, articulation, note, velocity, timestamp) {
     string.pending.ignoreEvent(false);
     string.pending.setChannel(articulation);
-    string.pending.setNoteNumber(MIDI.number);
-    string.pending.setVelocity(MIDI.value);
-    string.pending.setTimestamp(MIDI.timestamp);
+    string.pending.setNoteNumber(note);
+    string.pending.setVelocity(velocity);
+    string.pending.setTimestamp(timestamp);
     EventChaser.addEvent(
       eventIds,
       Synth.addMessageFromHolder(string.pending)
     );
   }
-  inline function triggerAttack(articulation) {
-    trigger(string.attackEventIds, articulation);
+  inline function triggerAttack(articulation, note, velocity, timestamp) {
+    trigger(string.attackEventIds, articulation, note, velocity, timestamp);
   }
 
-  inline function triggerRelease(articulation) {
-    trigger(string.releaseEventIds, articulation);
-  }
-
-  function triggerPickNoise() {
-    triggerAttack(Articulations.PICKNOISE);
-  }
-
-  function triggerPickBuzz() {
-    triggerAttack(Articulations.PICKBUZZ);
+  inline function triggerRelease(articulation, note, velocity, timestamp) {
+    trigger(string.releaseEventIds, articulation, note, velocity, timestamp);
   }
 
   function triggerBody(articulation) {
-    triggerAttack(articulation);
-  }
-
-  function triggerFretNoise() {
-    triggerRelease(Articulations.FRETNOISE);
-  }
-
-  function triggerPickStop() {
-    triggerRelease(Articulations.PICKSTOP);
-  }
-
-  function triggerGlideDown() {
-    triggerRelease(Articulations.GLIDEDOWN);
-  }
-
-  function triggerOpenstring() {
-    triggerRelease(Articulations.VIBRATO);
-    }
+    MIDI.value = Message.getVelocity();
+    triggerAttack(articulation, MIDI.number, MIDI.value, MIDI.timestamp);
   }
 }

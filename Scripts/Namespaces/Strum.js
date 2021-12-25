@@ -3,12 +3,11 @@ namespace Strum {
   const var UPSTROKE = 1;
 
   inline function setup(bottom, top, direction) {
-    local rh = g_rh;
-    rh.direction = direction;
-    local b = bottom + (rh.direction ? rh.addString : -rh.missString);
-    local t = top + (rh.direction ? -rh.missString : rh.addString);
-    rh.bottomString = Math.range(b, Math.max(t, 1), 6);
-    rh.topString = Math.range(top, 1, Math.min(6, b));
+    g_rh.direction = direction;
+    local b = bottom + (g_rh.direction ? g_rh.addString : -g_rh.missString);
+    local t = top + (g_rh.direction ? -g_rh.missString : g_rh.addString);
+    g_rh.bottomString = Math.range(b, Math.max(t, 1), 6);
+    g_rh.topString = Math.range(top, 1, Math.min(6, b));
   }
 
   inline function _getStrings(bottom, top, direction) {
@@ -21,23 +20,19 @@ namespace Strum {
       stringIndex = bottom - index;
       strings.push([index, g_strings[stringIndex]]);
     }
+    if (direction) { strings.reverse(); }
     return strings;
   }
 
   inline function _getFrettedNote(item, lastFret) {
     local string = item[1];
-    local fret = string.fret;
-    if (fret == -1) {
-      GuitarString.setArticulation(string, Articulations.MUTED, 1);
-      fret = lastFret;
-    }
+    local fret = string.fret == -1 ? lastFret : string.fret;
     item.push(string.openNote + fret);
     return fret;
   }
 
   inline function _getNotes(bottom, top, direction) {
-    local fret = g_lh.position;
-    local lastFret = fret;
+    local lastFret = g_lh.position;
     local strings = _getStrings(bottom, top, direction);
     local isEmpty = !g_lh.pressedStrings.length;
     for (item in strings) {lastFret = _getFrettedNote(item, lastFret);}
@@ -55,9 +50,11 @@ namespace Strum {
 
     setup(bottomString, topString, direction);
     local velocity = MIDI.value;
-    g_pressedKeys.setValue(MIDI.number, velocity);
+    g_strumKeys.insert(MIDI.number);
     g_controlEventId = Message.getEventId();
-    _addNoise(g_lh.position, Message.getVelocity(), Message.getTimestamp());
+    if (g_rh.speed < 0.8) {
+      _addNoise(g_lh.position, Message.getVelocity(), Message.getTimestamp());
+    }
     if (MIDI.channel == STRUM_CHANNEL) { return; }
 
     Humanizer.setStrum(velocity, bottomString-topString);
@@ -66,30 +63,39 @@ namespace Strum {
     local index;
     local note;
     local vel;
+    local isStrummed = false;
     for (item in items) {
       index = item[0];
       string = item[1];
       note = item[2];
       Message.store(string.pending);
       vel = Humanizer.humanizeVelocity(index, velocity);
-      if (index) {
-        GuitarString.setArticulation(string, Articulations.CHORD, 1);
-      }
+      string.isStrummed = isStrummed;
       GuitarString.pick(string, note, vel);
       Message.delayEvent(Humanizer.humanizeDelay(index));
+      if (g_rh.speed < 0.8 && string.fret != -1) { continue; }
+      isStrummed = true;
     }
   }
 
   inline function noteOff(number) {
-    g_pressedKeys.setValue(number, -1);
-    if (!g_pressedKeys.isEmpty()) { return; }
+    g_strumKeys.remove(number);
+    if (!g_strumKeys.isEmpty()) { return; }
 
-    g_pressedKeys.clear();
-    if (!g_lh.isSilent && !g_lh.pressedStrings.isEmpty()) { return; }
+    if (!LeftHand.isOffString()) { return; }
 
-    for (string in g_strings) {
-      if (string == null) { continue; }
-      GuitarString.stop(string, 0, MIDI.timestamp);
+    if (LeftHand.isSilent()) {
+      GuitarString.forAllStrings(
+        function (string) {
+          GuitarString.stop(string, 0, MIDI.timstamp);
+        }
+      );
+      return;
     }
+    GuitarString.forAllStrings(
+      function (string) {
+        GuitarString.clearFret(string, string.fret);
+      }
+    );
   }
 }

@@ -1,7 +1,6 @@
 include("Namespaces/Articulations.js");
 include("Namespaces/Delays.js");
 include("Namespaces/EventChaser.js");
-include("Namespaces/LeftHand.js");
 include("Namespaces/MIDI.js");
 include("Namespaces/Noises.js");
 include("Namespaces/NoteTrigger.js");
@@ -21,43 +20,53 @@ namespace String {
     );
   }
 
-  inline function playNoise(flags) {
-    for (i=0; i<7; i++) {
+  inline function playNoise(flags, func) {
+    for (i=0; i<Noises.TOTALARTICULATIONS; i++) {
       if (flags&(1<<i)) {
-        Noises.trigger(string, i);
+        Noises.trigger(string, i+1, func);
       }
     }
   }
 
   inline function playNote() {
-    local articulation = Math.ceil(string.articulation / 2);
+    local articulation = (
+      string.fret == -1 ?
+      Articulations.MUTED :
+      Math.ceil(string.articulation / 2)
+    );
+    if (
+      articulation == Articulations.SUSTAIN &&
+      string.isStrummed
+    ) {
+      articulation = Articulations.CHORD;
+    }
+    local func = NoteTrigger.triggerAttack;
     switch (articulation) {
       case Articulations.SUSTAIN:
       case Articulations.PALMMUTED:
       case Articulations.VIBRATO:
-        playNoise(7);
+        playNoise(Noises.PICKnBUZZFLAG, func);
         string.pending.setGain(0);
-        MIDI.timestamp = Message.getTimestamp() + Delays.pickNoteSamples();
+        MIDI.timestamp += Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
         break;
       case Articulations.MUTED:
-        playNoise(7);
+        playNoise(Noises.PICKnBUZZFLAG, func);
         break;
       case Articulations.CHORD:
-        playNoise(6);
+        playNoise(Noises.BUZZFLAG, func);
         string.pending.setGain(0);
-        MIDI.timestamp = Message.getTimestamp() + Delays.pickNoteSamples();
+        MIDI.timestamp += Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
-        string.articulation = string.lastArticulation;
+        string.isStrummed = false;
         break;
       case Articulation.HARMONIC:
-        playNoise(1);
+        playNoise(Noises.PICKFLAG, func);
         string.pending.setGain(0);
-        MIDI.timestamp = Message.getTimestamp() + Delays.pickNoteSamples();
+        MIDI.timestamp += Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
         break;
       case Articulations.TAP:
-        playNoise(2);
         string.pending.setGain(0);
         NoteTrigger.triggerBody(articulation);
         break;
@@ -66,9 +75,30 @@ namespace String {
   }
 
   inline function playRelease() {
-    local pressedFrets = string.pressedFrets;
-    MIDI.number = pressedFrets[pressedFrets.length - 1] + string.openNote;
-    playNoise(248);
+    MIDI.number = string.lastFret + string.openNote;
+    string.pending.setGain(g_settings.volume.release);
+    playNoise(Noises.RELEASEFLAG, NoteTrigger.triggerRelease);
+  }
+
+  inline function playPosShift() {
+    if (!g_lh.position || !string.lastFret) { return; }
+
+    local flag;
+    local rangePct = (g_lh.position - string.lastFret) / 20;
+
+    switch (Math.sign(rangePct)) {
+      case 0:
+        return;
+      case 1:
+        flag = Noises.FRETNOISEUP;
+        break;
+      case -1:
+        flag = Noises.FRETNOISEDOWN;
+        break;
+    }
+    MIDI.value = Math.abs(rangePct) * 127;
+    MIDI.timestamp += Delays.inSamples(80 - 60 * (MIDI.value / 127));
+    playNoise(1<<(flag - 1), NoteTrigger.triggerRelease);
   }
 
   inline function triggerNoteOn() {
@@ -79,10 +109,16 @@ namespace String {
     MIDI.parseNoteOn();
     Message.store(string.pending);
 
-    if (!MIDI.number) {
-      playRelease();
-    } else {
-      playNote();
+    switch (MIDI.number) {
+      case 0:
+        playRelease();
+        break;
+      case 1:
+        playPosShift();
+        break;
+      default:
+        playNote();
+        break;
     }
   }
 

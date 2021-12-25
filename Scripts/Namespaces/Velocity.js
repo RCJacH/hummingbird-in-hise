@@ -7,7 +7,7 @@ namespace Velocity {
     local splitPoints = g_velocity[Articulations.fromIndex(index)];
     for (vel in splitPoints) {
       if (velocity > vel) {
-        return splitPoints.indexOf(vel) + 1;
+        return splitPoints.indexOf(vel);
       }
     }
   }

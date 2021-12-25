@@ -114,17 +114,17 @@ namespace GlobalModulations {
 
   inline function init() {
     return {
-      "linear": linear(),
-      "linearGain": linearGain(),
-      "max": max(),
-      "doubleRamp": doubleRamp(),
-      "strumNoiseCCGain": strumNoiseCCGain(),
-      "mutedVel2Gain": mutedVel2Gain(),
-      "chordVel2LP": chordVel2LP(),
-      "harmonicVel2Gain": harmonicVel2Gain(),
-      "harmonicVel2LP": harmonicVel2LP(),
-      "pickBuzzVel2Gain": pickBuzzVel2Gain(),
-      "pickStopHOPOVel2Gain": pickStopHOPOVel2Gain(),
+      linear: linear(),
+      linearGain: linearGain(),
+      max: max(),
+      doubleRamp: doubleRamp(),
+      strumNoiseCCGain: strumNoiseCCGain(),
+      mutedVel2Gain: mutedVel2Gain(),
+      chordVel2LP: chordVel2LP(),
+      harmonicVel2Gain: harmonicVel2Gain(),
+      harmonicVel2LP: harmonicVel2LP(),
+      pickBuzzVel2Gain: pickBuzzVel2Gain(),
+      pickStopHOPOVel2Gain: pickStopHOPOVel2Gain(),
     }
   }
 }

@@ -4,53 +4,97 @@ namespace Noises {
   const var PICKBUZZ = 3;
   const var PICKSTOP = 4;
   const var FRETNOISE = 5;
-  const var FINGERRELEASE = 6;
-  const var GLIDEDOWN = 7;
-  const var OPENSTRING= 8;
+  const var FRETNOISEDOWN = 6;
+  const var FRETNOISEUP = 7;
+  const var FINGERRELEASE = 8;
+  const var GLIDEDOWN = 9;
+  const var OPENSTRING = 10;
 
-  inline function trigger(string, index) {
-    local func;
+  const var TOTALARTICULATIONS = 11;
+
+  inline function _initFlags(indice) {
+    local i = 0;
+    for (index in indice) {
+      i |= 1 << (index - 1);
+    }
+    return i
+  }
+
+  const var PICKFLAG = _initFlags([PICKNOISE]);
+  const var BUZZFLAG = _initFlags([PICKBUZZ]);
+  const var PICKnBUZZFLAG = PICKFLAG + BUZZFLAG;
+
+  const var RELEASEFLAG = _initFlags([
+    PICKBUZZ, PICKSTOP, FRETNOISE, FINGERRELEASE, GLIDEDOWN, OPENSTRING
+  ]);
+
+  inline function trigger(string, index, func) {
     local settings;
+    local articulation;
+    local note = MIDI.number;
+    local velocity = MIDI.value;
+    local delay = 0;
     switch (index) {
       case WEAKBUZZ:
-        func = NoteTrigger.triggerPickBuzz;
+        articulation = Articulations.PICKBUZZ;
         settings = g_noises.weakBuzz;
+        velocity = g_pressedKeys.getValue(g_keys.releaseWeakBuzz);
         break;
       case PICKBUZZ:
-        func = NoteTrigger.triggerPickBuzz;
+        articulation = Articulations.PICKBUZZ;
         settings = g_noises.pickBuzz;
         break;
       case PICKNOISE:
-        func = NoteTrigger.triggerPickNoise;
+        articulation = Articulations.PICKNOISE;
         settings = g_noises.pickNoise;
         break;
       case PICKSTOP:
-        func = NoteTrigger.triggerPickStop;
+        articulation = Articulations.PICKSTOP;
         settings = g_noises.pickStop;
+        velocity = g_pressedKeys.getValue(g_keys.releasePickStop);
         break;
       case FRETNOISE:
-        func = NoteTrigger.triggerFretNoise;
+        articulation = Articulations.FRETNOISE;
         settings = g_noises.fretNoise;
+        velocity = g_pressedKeys.getValue(g_keys.releaseFretNoise);
+        note = 0 + (Math.random() >= 0.5) * 2;
+        delay = Delays.inSamples(80 - 60 * (velocity / 127));
+        break;
+      case FRETNOISEDOWN:
+        articulation = Articulations.FRETNOISE;
+        settings = g_noises.positionChange;
+        note = 0;
+        break;
+      case FRETNOISEUP:
+        articulation = Articulations.FRETNOISE;
+        settings = g_noises.positionChange;
+        note = 2;
         break;
       case FINGERRELEASE:
-        func = NoteTrigger.triggerFingerRelease;
+        articulation = Articulations.FINGERRELEASE;
         settings = g_noises.fingerRelease;
+        velocity = g_pressedKeys.getValue(g_keys.releaseFingerRelease);
         break;
       case GLIDEDOWN:
-        func = NoteTrigger.triggerGlideDown;
+        articulation = Articulations.GLIDEDOWN;
         settings = g_noises.glideDown;
+        velocity = g_pressedKeys.getValue(g_keys.releaseGlideDown);
+        if (velocity == -1) {
+          velocity = g_pressedKeys.getValue(g_keys.glideDown);
+        }
         break;
       case OPENSTRING:
-        func = NoteTrigger.triggerOpenString;
+        articulation = Articulations.SUSTAIN;
         settings = g_noises.openString;
+        velocity = g_pressedKeys.getValue(g_keys.releaseOpenString);
+        note = string.openNote;
         break;
       default:
         return;
     }
     if (shouldTrigger(settings)) {
-      string.pending.setGain(getVolume(settings));
-      MIDI.timestamp += getDelay(settings);
-      func();
+      string.pending.setGain(string.pending.getGain + getVolume(settings));
+      func(articulation, note, velocity, MIDI.timestamp + delay + getDelay(settings));
     }
   }
 
@@ -58,8 +102,7 @@ namespace Noises {
     return (
       (!settings.threshold ||
       (
-      (settings.threshold > 0 && MIDI.value > settings.threshold) ||
-      (settings.threshold < 0 && MIDI.value < -settings.threshold)
+        Math.sign(settings.threshold) * MIDI.value - settings.threshold > 0
       )) &&
       Math.random() < settings.probability
     )

@@ -1007,288 +1007,498 @@
   <sample Root="75" LoKey="75" HiKey="75" LoVel="54" HiVel="54" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Muted Up/29_3_mum_20_6-2.wav" Duplicate="0" />
   <sample Root="75" LoKey="75" HiKey="75" LoVel="55" HiVel="55" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Muted Up/29_3_mum_20_7-2.wav" Duplicate="0" />
   <sample Root="75" LoKey="75" HiKey="75" LoVel="56" HiVel="56" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Muted Up/29_3_mum_20_8-2.wav" Duplicate="0" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_01_1-2" Volume="-5" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_01_2-2" Volume="0" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_01_3-2" Volume="0" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_02_1-2" Volume="-2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_02_2-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_02_3-2" Volume="0" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_03_1-2" Volume="-6" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_03_2-2" Volume="-1" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_03_3-2" Volume="0" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_04_1-2" Volume="-2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_04_2-2" Volume="-2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_04_3-2" Volume="0" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_05_1-2" Volume="-4" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_05_2-2" Volume="-2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_05_3-2" Volume="0" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_06_1-2" Volume="-3" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_06_2-2" Volume="-1" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_06_3-2" Volume="0" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_07_1-2" Volume="-1" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_07_2-2" Volume="0" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_07_3-2" Volume="3" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_08_1-2" Volume="-2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_08_2-2" Volume="-1" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_08_3-2" Volume="0" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_09_1-2" Volume="-2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_09_2-2" Volume="0" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_09_3-2" Volume="0" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_10_1-2" Volume="-3" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_10_2-2" Volume="1" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_10_3-2" Volume="0" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_11_1-2" Volume="-2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_11_2-2" Volume="-1" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_11_3-2" Volume="0" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_12_1-2" Volume="-2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_12_2-2" Volume="-2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_12_3-2" Volume="0" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_13_1-2" Volume="-2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_13_2-2" Volume="1" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_13_3-2" Volume="0" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_14_1-2" Volume="-2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_14_2-2" Volume="1" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_14_3-2" Volume="1" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_15_1-2" Volume="-4" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_15_2-2" Volume="-2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_15_3-2" Volume="0" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_16_1-2" Volume="-2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_16_2-2" Volume="-2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_16_3-2" Volume="0" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_17_1-2" Volume="-2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_17_2-2" Volume="0" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_17_3-2" Volume="1" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_18_1-2" Volume="-4" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_18_2-2" Volume="-2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_18_3-2" Volume="0" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_19_1-2" Volume="-1" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_19_2-2" Volume="0" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_19_3-2" Volume="0" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_20_1-2" Volume="-2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_20_2-2" Volume="-2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}STRING/String3/Vibrato/02_3_svdf_20_3-2" Volume="0" />
-  <sample Root="0" LoKey="0" HiKey="0" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_03_1-2" Volume="0" />
-  <sample Root="0" LoKey="0" HiKey="0" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_03_2-2" Volume="0" />
-  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_05_1-2" Volume="0" />
-  <sample Root="1" LoKey="1" HiKey="1" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_05_2-2" Volume="0" />
-  <sample Root="2" LoKey="2" HiKey="2" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_07_1-2" Volume="0" />
-  <sample Root="2" LoKey="2" HiKey="2" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_07_2-2" Volume="0" />
-  <sample Root="3" LoKey="3" HiKey="3" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_09_1-2" Volume="0" />
-  <sample Root="3" LoKey="3" HiKey="3" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_09_2-2" Volume="0" />
-  <sample Root="4" LoKey="4" HiKey="4" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_12_1-2" Volume="0" />
-  <sample Root="4" LoKey="4" HiKey="4" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_12_2-2" Volume="0" />
-  <sample Root="5" LoKey="5" HiKey="5" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_19_1-2" Volume="0" />
-  <sample Root="5" LoKey="5" HiKey="5" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_19_2-2" Volume="0" />
-  <sample Root="6" LoKey="6" HiKey="6" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_sh_1-2" Volume="0" />
-  <sample Root="6" LoKey="6" HiKey="6" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Harmonic/600_3_nharm_sh_2-2" Volume="0" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_00_01-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_00_02-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_00_03-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_00_04-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_00_05-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_01_01-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_01_02-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_01_03-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_01_04-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_01_05-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_02_01-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_02_02-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_02_03-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_02_04-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_02_05-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_03_01-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_03_02-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_03_03-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_03_04-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_03_05-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_04_01-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_04_02-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_04_03-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_04_04-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_04_05-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_05_01-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_05_02-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_05_03-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_05_04-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_05_05-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_06_01-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_06_02-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_06_03-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_06_04-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_06_05-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_07_01-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_07_02-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_07_03-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_07_04-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_07_05-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_08_01-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_08_02-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_08_03-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_08_04-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_08_05-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_09_01-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_09_02-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_09_03-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_09_04-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_09_05-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_10_01-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_10_02-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_10_03-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_10_04-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_10_05-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_11_01-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_11_02-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_11_03-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_11_04-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_11_05-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_12_01-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_12_02-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_12_03-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_12_04-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_12_05-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_13_01-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_13_02-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_13_03-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_13_04-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_13_05-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_14_01-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_14_02-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_14_03-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_14_04-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_14_05-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_15_01-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_15_02-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_15_03-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_15_04-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_15_05-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_16_01-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_16_02-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_16_03-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_16_04-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_16_05-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_17_01-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_17_02-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_17_03-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_17_04-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_17_05-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_18_01-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_18_02-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_18_03-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_18_04-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_18_05-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_19_01-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_19_02-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_19_03-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_19_04-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_19_05-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_20_01-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_20_02-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_20_03-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_20_04-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_sdchd_20_05-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_00_01-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_00_02-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_00_03-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_00_04-2" Volume="2" />
-  <sample Root="55" LoKey="55" HiKey="55" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_00_05-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_01_01-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_01_02-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_01_03-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_01_04-2" Volume="2" />
-  <sample Root="56" LoKey="56" HiKey="56" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_01_05-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_02_01-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_02_02-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_02_03-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_02_04-2" Volume="2" />
-  <sample Root="57" LoKey="57" HiKey="57" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_02_05-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_03_01-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_03_02-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_03_03-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_03_04-2" Volume="2" />
-  <sample Root="58" LoKey="58" HiKey="58" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_03_05-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_04_01-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_04_02-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_04_03-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_04_04-2" Volume="2" />
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_04_05-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_05_01-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_05_02-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_05_03-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_05_04-2" Volume="2" />
-  <sample Root="60" LoKey="60" HiKey="60" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_05_05-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_06_01-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_06_02-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_06_03-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_06_04-2" Volume="2" />
-  <sample Root="61" LoKey="61" HiKey="61" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_06_05-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_07_01-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_07_02-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_07_03-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_07_04-2" Volume="2" />
-  <sample Root="62" LoKey="62" HiKey="62" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_07_05-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_08_01-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_08_02-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_08_03-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_08_04-2" Volume="2" />
-  <sample Root="63" LoKey="63" HiKey="63" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_08_05-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_09_01-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_09_02-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_09_03-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_09_04-2" Volume="2" />
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_09_05-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_10_01-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_10_02-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_10_03-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_10_04-2" Volume="2" />
-  <sample Root="65" LoKey="65" HiKey="65" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_10_05-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_11_01-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_11_02-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_11_03-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_11_04-2" Volume="2" />
-  <sample Root="66" LoKey="66" HiKey="66" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_11_05-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_12_01-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_12_02-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_12_03-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_12_04-2" Volume="2" />
-  <sample Root="67" LoKey="67" HiKey="67" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_12_05-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_13_01-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_13_02-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_13_03-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_13_04-2" Volume="2" />
-  <sample Root="68" LoKey="68" HiKey="68" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_13_05-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_14_01-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_14_02-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_14_03-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_14_04-2" Volume="2" />
-  <sample Root="69" LoKey="69" HiKey="69" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_14_05-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_15_01-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_15_02-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_15_03-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_15_04-2" Volume="2" />
-  <sample Root="70" LoKey="70" HiKey="70" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_15_05-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_16_01-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_16_02-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_16_03-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_16_04-2" Volume="2" />
-  <sample Root="71" LoKey="71" HiKey="71" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_16_05-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_17_01-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_17_02-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_17_03-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_17_04-2" Volume="2" />
-  <sample Root="72" LoKey="72" HiKey="72" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_17_05-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_18_01-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_18_02-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_18_03-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_18_04-2" Volume="2" />
-  <sample Root="73" LoKey="73" HiKey="73" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_18_05-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_19_01-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_19_02-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_19_03-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_19_04-2" Volume="2" />
-  <sample Root="74" LoKey="74" HiKey="74" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_19_05-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_20_01-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_20_02-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_20_03-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_20_04-2" Volume="2" />
-  <sample Root="75" LoKey="75" HiKey="75" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}STRING/String3/Chord/01_3_suchd_20_05-2" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_01_1-2.wav" Volume="-5" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_01_2-2.wav" Volume="0" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_01_3-2.wav" Volume="0" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_02_1-2.wav" Volume="-2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_02_2-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_02_3-2.wav" Volume="0" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_03_1-2.wav" Volume="-6" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_03_2-2.wav" Volume="-1" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_03_3-2.wav" Volume="0" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_04_1-2.wav" Volume="-2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_04_2-2.wav" Volume="-2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_04_3-2.wav" Volume="0" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_05_1-2.wav" Volume="-4" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_05_2-2.wav" Volume="-2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_05_3-2.wav" Volume="0" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_06_1-2.wav" Volume="-3" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_06_2-2.wav" Volume="-1" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_06_3-2.wav" Volume="0" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_07_1-2.wav" Volume="-1" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_07_2-2.wav" Volume="0" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_07_3-2.wav" Volume="3" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_08_1-2.wav" Volume="-2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_08_2-2.wav" Volume="-1" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_08_3-2.wav" Volume="0" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_09_1-2.wav" Volume="-2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_09_2-2.wav" Volume="0" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_09_3-2.wav" Volume="0" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_10_1-2.wav" Volume="-3" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_10_2-2.wav" Volume="1" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_10_3-2.wav" Volume="0" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_11_1-2.wav" Volume="-2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_11_2-2.wav" Volume="-1" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_11_3-2.wav" Volume="0" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_12_1-2.wav" Volume="-2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_12_2-2.wav" Volume="-2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_12_3-2.wav" Volume="0" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_13_1-2.wav" Volume="-2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_13_2-2.wav" Volume="1" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_13_3-2.wav" Volume="0" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_14_1-2.wav" Volume="-2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_14_2-2.wav" Volume="1" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_14_3-2.wav" Volume="1" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_15_1-2.wav" Volume="-4" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_15_2-2.wav" Volume="-2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_15_3-2.wav" Volume="0" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_16_1-2.wav" Volume="-2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_16_2-2.wav" Volume="-2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_16_3-2.wav" Volume="0" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_17_1-2.wav" Volume="-2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_17_2-2.wav" Volume="0" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_17_3-2.wav" Volume="1" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_18_1-2.wav" Volume="-4" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_18_2-2.wav" Volume="-2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_18_3-2.wav" Volume="0" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_19_1-2.wav" Volume="-1" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_19_2-2.wav" Volume="0" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_19_3-2.wav" Volume="0" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="81" HiVel="81" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_20_1-2.wav" Volume="-2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="82" HiVel="82" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_20_2-2.wav" Volume="-2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="83" HiVel="83" RRGroup="2" FileName="{PROJECT_FOLDER}String/String3/Vibrato/02_3_svdf_20_3-2.wav" Volume="0" />
+  <sample Root="0" LoKey="0" HiKey="0" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_03_1-2.wav" Volume="0" />
+  <sample Root="0" LoKey="0" HiKey="0" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_03_2-2.wav" Volume="0" />
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_05_1-2.wav" Volume="0" />
+  <sample Root="1" LoKey="1" HiKey="1" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_05_2-2.wav" Volume="0" />
+  <sample Root="2" LoKey="2" HiKey="2" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_07_1-2.wav" Volume="0" />
+  <sample Root="2" LoKey="2" HiKey="2" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_07_2-2.wav" Volume="0" />
+  <sample Root="3" LoKey="3" HiKey="3" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_09_1-2.wav" Volume="0" />
+  <sample Root="3" LoKey="3" HiKey="3" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_09_2-2.wav" Volume="0" />
+  <sample Root="4" LoKey="4" HiKey="4" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_12_1-2.wav" Volume="0" />
+  <sample Root="4" LoKey="4" HiKey="4" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_12_2-2.wav" Volume="0" />
+  <sample Root="5" LoKey="5" HiKey="5" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_19_1-2.wav" Volume="0" />
+  <sample Root="5" LoKey="5" HiKey="5" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_19_2-2.wav" Volume="0" />
+  <sample Root="6" LoKey="6" HiKey="6" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_sh_1-2.wav" Volume="0" />
+  <sample Root="6" LoKey="6" HiKey="6" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Harmonic/600_3_nharm_sh_2-2.wav" Volume="0" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_01-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_02-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_03-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_04-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_05-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_01-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_02-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_03-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_04-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_05-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_01-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_02-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_03-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_04-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_05-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_01-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_02-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_03-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_04-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_05-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_01-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_02-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_03-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_04-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_05-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_01-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_02-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_03-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_04-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_05-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_01-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_02-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_03-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_04-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_05-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_01-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_02-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_03-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_04-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_05-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_01-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_02-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_03-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_04-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_05-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_01-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_02-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_03-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_04-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_05-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_01-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_02-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_03-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_04-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_05-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_01-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_02-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_03-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_04-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_05-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_01-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_02-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_03-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_04-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_05-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_01-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_02-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_03-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_04-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_05-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_01-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_02-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_03-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_04-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_05-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_01-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_02-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_03-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_04-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_05-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_01-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_02-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_03-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_04-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_05-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_01-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_02-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_03-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_04-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_05-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_01-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_02-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_03-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_04-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_05-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_01-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_02-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_03-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_04-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_05-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="106" HiVel="106" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_01-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="107" HiVel="107" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_02-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="108" HiVel="108" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_03-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="109" HiVel="109" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_04-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="110" HiVel="110" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_05-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_01-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_02-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_03-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_04-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_00_05-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_01-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_02-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_03-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_04-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_01_05-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_01-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_02-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_03-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_04-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_02_05-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_01-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_02-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_03-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_04-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_03_05-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_01-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_02-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_03-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_04-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_04_05-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_01-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_02-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_03-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_04-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_05_05-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_01-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_02-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_03-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_04-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_06_05-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_01-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_02-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_03-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_04-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_07_05-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_01-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_02-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_03-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_04-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_08_05-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_01-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_02-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_03-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_04-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_09_05-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_01-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_02-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_03-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_04-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_10_05-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_01-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_02-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_03-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_04-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_11_05-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_01-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_02-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_03-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_04-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_12_05-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_01-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_02-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_03-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_04-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_13_05-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_01-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_02-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_03-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_04-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_14_05-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_01-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_02-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_03-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_04-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_15_05-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_01-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_02-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_03-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_04-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_16_05-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_01-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_02-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_03-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_04-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_17_05-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_01-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_02-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_03-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_04-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_18_05-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_01-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_02-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_03-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_04-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_19_05-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="101" HiVel="101" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_01-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="102" HiVel="102" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_02-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="103" HiVel="103" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_03-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="104" HiVel="104" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_04-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="105" HiVel="105" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Down/01_3_sdchd_20_05-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_01-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_02-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_03-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_04-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_05-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_01-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_02-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_03-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_04-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_05-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_01-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_02-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_03-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_04-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_05-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_01-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_02-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_03-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_04-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_05-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_01-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_02-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_03-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_04-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_05-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_01-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_02-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_03-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_04-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_05-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_01-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_02-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_03-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_04-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_05-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_01-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_02-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_03-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_04-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_05-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_01-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_02-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_03-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_04-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_05-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_01-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_02-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_03-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_04-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_05-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_01-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_02-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_03-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_04-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_05-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_01-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_02-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_03-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_04-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_05-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_01-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_02-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_03-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_04-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_05-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_01-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_02-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_03-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_04-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_05-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_01-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_02-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_03-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_04-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_05-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_01-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_02-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_03-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_04-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_05-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_01-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_02-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_03-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_04-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_05-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_01-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_02-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_03-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_04-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_05-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_01-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_02-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_03-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_04-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_05-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_01-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_02-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_03-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_04-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_05-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="116" HiVel="116" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_01-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="117" HiVel="117" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_02-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="118" HiVel="118" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_03-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="119" HiVel="119" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_04-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="120" HiVel="120" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_05-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_01-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_02-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_03-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_04-2.wav" Volume="2" />
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_00_05-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_01-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_02-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_03-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_04-2.wav" Volume="2" />
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_01_05-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_01-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_02-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_03-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_04-2.wav" Volume="2" />
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_02_05-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_01-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_02-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_03-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_04-2.wav" Volume="2" />
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_03_05-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_01-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_02-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_03-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_04-2.wav" Volume="2" />
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_04_05-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_01-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_02-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_03-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_04-2.wav" Volume="2" />
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_05_05-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_01-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_02-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_03-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_04-2.wav" Volume="2" />
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_06_05-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_01-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_02-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_03-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_04-2.wav" Volume="2" />
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_07_05-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_01-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_02-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_03-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_04-2.wav" Volume="2" />
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_08_05-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_01-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_02-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_03-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_04-2.wav" Volume="2" />
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_09_05-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_01-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_02-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_03-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_04-2.wav" Volume="2" />
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_10_05-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_01-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_02-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_03-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_04-2.wav" Volume="2" />
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_11_05-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_01-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_02-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_03-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_04-2.wav" Volume="2" />
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_12_05-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_01-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_02-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_03-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_04-2.wav" Volume="2" />
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_13_05-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_01-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_02-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_03-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_04-2.wav" Volume="2" />
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_14_05-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_01-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_02-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_03-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_04-2.wav" Volume="2" />
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_15_05-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_01-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_02-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_03-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_04-2.wav" Volume="2" />
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_16_05-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_01-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_02-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_03-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_04-2.wav" Volume="2" />
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_17_05-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_01-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_02-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_03-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_04-2.wav" Volume="2" />
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_18_05-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_01-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_02-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_03-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_04-2.wav" Volume="2" />
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_19_05-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="111" HiVel="111" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_01-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="112" HiVel="112" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_02-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="113" HiVel="113" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_03-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="114" HiVel="114" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_04-2.wav" Volume="2" />
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="115" HiVel="115" RRGroup="1" FileName="{PROJECT_FOLDER}String/String3/Chord Up/01_3_suchd_20_05-2.wav" Volume="2" />
 </samplemap>

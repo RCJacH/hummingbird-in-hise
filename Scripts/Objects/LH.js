@@ -2,7 +2,7 @@ global g_lh = {
   position: 0,
   reach: 5,
   topSpeed: 128,
-  isSilent: false,
+  isSilent: 0,
   pressedStrings: Engine.createUnorderedStack(),
   vibrato: {},
   pitchbend: {},

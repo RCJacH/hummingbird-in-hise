@@ -8,7 +8,7 @@ namespace PlayNote {
 
   const var name = Synth.getIdList("Sampler")[0];
   const var string = g_strings[parseInt(name.substring(3, 4))];
-  const var filter = Synth.getEffect("Str" + string.index + "Body LP");
+  const var filter = Synth.getEffect(name + " LP");
   const var nharmFrets = [
     [3, 31], [5, 24], [7, 19], [9, 28], [12, 12], [15, 28], [17, 19], [19, 28], [20, 24]
   ];
@@ -58,7 +58,6 @@ namespace PlayNote {
   }
 
   inline function setSample(articulation, velocity) {
-    local direction = g_rh.direction;
     local baseVel;
     switch (articulation) {
       case Articulations.SUSTAIN:
@@ -85,11 +84,13 @@ namespace PlayNote {
         return;
       }
 
+    local totalVel = Velocity.total(articulation);
     local velLayer = Velocity.getLayer(articulation, velocity);
     local totalRR = RR.total(articulation);
+    local direction = g_rh.direction == -1 ? g_rh.autoDirection : g_rh.direction;
     Message.setVelocity(
       baseVel
-      + totalRR * (Velocity.total(articulation) * direction + velLayer)
+      + totalRR * (totalVel * direction + velLayer)
       + RR.get(articulation)
     );
     RR.next(articulation);

@@ -6,13 +6,99 @@ namespace EventParser {
     return MIDI.number <=84 && (g_lh.isSilent || MIDI.number >= 40)
   }
 
-  inline function parseKeySwitch() {
+  inline function parseKeySwitchOn() {
+    local string = g_strings[MIDI.channel];
+    local isKS = 1;
+    switch (MIDI.number) {
+      case g_keys.glideDown:
+        g_noises.glideDown.probability += 1;
+        GuitarString.forAllStrings(
+          function (string) { GuitarString.clearFret(string, string.fret); }
+        );
+        break;
+      case g_keys.releaseWeakBuzz:
+        g_noises.weakBuzz.probability += 1;
+        break;
+      case g_keys.releasePickStop:
+        g_noises.pickStop.probability += 1;
+        break;
+      case g_keys.releaseFretNoise:
+        g_noises.fretNoise.probability += 1;
+        break;
+      case g_keys.releaseFingerRelease:
+        g_noises.fingerRelease.probability += 1;
+        break;
+      case g_keys.releaseGlideDown:
+        g_noises.glideDown.probability += 1;
+        break;
+      case g_keys.releaseOpenString:
+        g_noises.openString.probability += 1;
+        break;
+      case g_keys.sustain:
+        GuitarString.setArticulation(string, Articulations.SUSTAIN, 1);
+        break;
+      case g_keys.muted:
+      case g_keys.muted2:
+        GuitarString.setArticulation(string, Articulations.MUTED, MIDI.value);
+        break;
+      case g_keys.palmMuted:
+      case g_keys.palmMuted2:
+        GuitarString.setArticulation(string, Articulations.PALMMUTED, MIDI.value);
+        break;
+      case g_keys.silent:
+        LeftHand.setSilent(MIDI.value);
+        break;
+      default:
+        isKS = 0;
+    }
+    return isKS
+  }
 
+  inline function parseKeySwitchOff() {
+    local string = g_strings[MIDI.channel];
+    local isKS = 1;
+    switch (MIDI.number) {
+      case g_keys.glideDown:
+        g_noises.glideDown.probability %= 1;
+        break;
+      case g_keys.releaseWeakBuzz:
+        g_noises.weakBuzz.probability %= 1;
+        break;
+      case g_keys.releasePickStop:
+        g_noises.pickStop.probability %= 1;
+        break;
+      case g_keys.releaseFretNoise:
+        g_noises.fretNoise.probability %= 1;
+        break;
+      case g_keys.releaseFingerRelease:
+        g_noises.fingerRelease.probability %= 1;
+        break;
+      case g_keys.glideDown:
+      case g_keys.releaseGlideDown:
+        g_noises.glideDown.probability %= 1;
+        break;
+      case g_keys.releaseOpenString:
+        g_noises.openString.probability %= 1;
+        break;
+      case g_keys.muted:
+      case g_keys.muted2:
+        GuitarString.releaseArticulation(string, Articulations.MUTED);
+        break;
+      case g_keys.palmMuted:
+      case g_keys.palmMuted2:
+        GuitarString.releaseArticulation(string, Articulations.PALMMUTED);
+        break;
+      case g_keys.silent:
+        LeftHand.setSilent(MIDI.value);
+        break;
+      default:
+        isKS = 0;
+    }
+    return isKS
   }
 
   inline function triggerControlNoteOn() {
     if (_isNote()) {
-      ChordParser.analyze();
       return;
     }
     switch (MIDI.number) {
@@ -70,6 +156,65 @@ namespace EventParser {
       case g_keys.string6:
         Strum.noteOn(6, 6, Strum.DOWNSTROKE);
         break;
+      case g_keys.repeatD:
+        Strum.noteOn(null, null, Strum.DOWNSTROKE);
+        break;
+      case g_keys.repeatU:
+        Strum.noteOn(null, null, Strum.UPSTROKE);
+        break;
+      case g_keys.glideDown:
+        g_noises.glideDown.probability += 1;
+        GuitarString.forAllStrings(
+          function (string) { GuitarString.clearFret(string, string.fret); }
+        );
+        break;
+      case g_keys.releaseWeakBuzz:
+        g_noises.weakBuzz.probability += 1;
+        break;
+      case g_keys.releasePickStop:
+        g_noises.pickStop.probability += 1;
+        break;
+      case g_keys.releaseFretNoise:
+        g_noises.fretNoise.probability += 1;
+        break;
+      case g_keys.releaseFingerRelease:
+        g_noises.fingerRelease.probability += 1;
+        break;
+      case g_keys.releaseGlideDown:
+        g_noises.glideDown.probability += 1;
+        break;
+      case g_keys.releaseOpenString:
+        g_noises.openString.probability += 1;
+        break;
+      case g_keys.sustain:
+        GuitarString.forAllStrings(
+          function (string) {
+            GuitarString.setArticulation(string, Articulations.SUSTAIN, 1);
+          }
+        );
+        break;
+      case g_keys.muted:
+      case g_keys.muted2:
+        GuitarString.forAllStrings(
+          function (string) {
+            GuitarString.setArticulation(string, Articulations.MUTED, MIDI.value);
+          }
+        );
+        break;
+      case g_keys.palmMuted:
+      case g_keys.palmMuted2:
+        GuitarString.forAllStrings(
+          function (string) {
+            GuitarString.setArticulation(string, Articulations.PALMMUTED, MIDI.value);
+          }
+        );
+        break;
+      case g_keys.silent:
+        LeftHand.setSilent(MIDI.value);
+        break;
+      case g_keys.timeDirection:
+        RightHand.startDirectionDetection();
+        break;
     }
   }
 
@@ -100,26 +245,70 @@ namespace EventParser {
       case g_keys.string4:
       case g_keys.string5:
       case g_keys.string6:
+      case g_keys.repeatD:
+      case g_keys.repeatU:
         Strum.noteOff(MIDI.number);
+        break;
+      case g_keys.releaseWeakBuzz:
+        g_noises.weakBuzz.probability %= 1;
+        break;
+      case g_keys.releasePickStop:
+        g_noises.pickStop.probability %= 1;
+        break;
+      case g_keys.releaseFretNoise:
+        g_noises.fretNoise.probability %= 1;
+        break;
+      case g_keys.releaseFingerRelease:
+        g_noises.fingerRelease.probability %= 1;
+        break;
+      case g_keys.glideDown:
+      case g_keys.releaseGlideDown:
+        g_noises.glideDown.probability %= 1;
+        break;
+      case g_keys.releaseOpenString:
+        g_noises.openString.probability %= 1;
+        break;
+      case g_keys.muted:
+        GuitarString.forAllStrings(
+          function (string) {
+            GuitarString.releaseArticulation(string, Articulations.MUTED);
+          }
+        );
+        break;
+      case g_keys.palmMuted:
+        GuitarString.forAllStrings(
+          function (string) {
+            GuitarString.releaseArticulation(string, Articulations.PALMMUTED);
+          }
+        );
+        break;
+      case g_keys.silent:
+        LeftHand.setSilent(0);
+        break;
+      case g_keys.timeDirection:
+        RightHand.stopDirectionDetection();
         break;
     }
   }
 
   inline function triggerNoteOn() {
-    if (parseKeySwitch()) { return; }
+    if (parseKeySwitchOn()) { return; }
     local string = g_strings[MIDI.channel];
+    RightHand.setDirectionFromBeatPosition(Transport.getCurrentPosition());
     GuitarString.pressFret(string, GuitarString.getFret(string));
   }
 
   inline function triggerNoteOff() {
-    if (parseKeySwitch()) { return; }
+    if (parseKeySwitchOff()) { return; }
     local string = g_strings[MIDI.channel];
     GuitarString.releaseFret(string, GuitarString.getFret(string));
   }
 
   inline function parseNoteOn() {
+    Message.makeArtificial();
     Message.ignoreEvent(true);
     MIDI.parseNoteOn();
+    g_pressedKeys.setValue(MIDI.number, MIDI.value);
     switch (MIDI.channel) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:
@@ -137,8 +326,10 @@ namespace EventParser {
   }
 
   inline function parseNoteOff() {
+    Message.makeArtificial();
     Message.ignoreEvent(true);
     MIDI.parseNoteOff();
+    g_pressedKeys.setValue(MIDI.number, -1);
     switch (MIDI.channel) {
       case CONTROL_CHANNEL:
       case STRUM_CHANNEL:
@@ -161,7 +352,10 @@ namespace EventParser {
     Message.ignoreEvent(true);
     switch (MIDI.number) {
       case g_cc.frettingPosition:
-        LeftHand.changePosition(MIDI.value/127);
+        LeftHand.changePosition(MIDI.value);
+        break;
+      case g_cc.pickingDirection:
+        RightHand.setDirection(Math.ceil(MIDI.value/64) - 1);
         break;
       case g_cc.strumSpeed:
         RightHand.setSpeed(MIDI.value/127);
@@ -175,11 +369,30 @@ namespace EventParser {
       case g_cc.vibratoSpeed:
         LeftHand.setVibratoSpeed(MIDI.value/127);
         break;
-      case g_cc.palmMute:
-        LeftHand.setPalmMute(MIDI.value>=g_settings.keyswitchThreshold);
+      case g_cc.palmMuted:
+        GuitarString.forAllStrings(
+          function (string) {
+            if (MIDI.value < g_settings.keyswitchThreshold) {
+              GuitarString.releaseArticulation(string, Articulations.PALMMUTED);
+            } else {
+              GuitarString.setArticulation(string, Articulations.PALMMUTED, 1);
+            }
+          }
+        );
+        break;
+      case g_cc.muted:
+        GuitarString.forAllStrings(
+          function (string) {
+            if (MIDI.value < g_settings.keyswitchThreshold) {
+              GuitarString.releaseArticulation(string, Articulations.MUTED);
+            } else {
+              GuitarString.setArticulation(string, Articulations.MUTED, 1);
+            }
+          }
+        );
         break;
       case g_cc.silent:
-        LeftHand.setSilent(MIDI.value>=g_settings.keyswitchThreshold);
+        LeftHand.setSilent(MIDI.value >= g_settings.keyswitchThreshold);
         break;
       case g_cc.accelleration:
         RightHand.setAccelleration(MIDI.value/127);
@@ -187,8 +400,17 @@ namespace EventParser {
       case g_cc.crescendo:
         RightHand.setCrescendo(MIDI.value/127);
         break;
-      case g_cc.humanize:
+      case g_cc.humanizeRightHand:
         RightHand.setHumanize(MIDI.value/127);
+        break;
+      case g_cc.humanizeVelocity:
+        g_settings.humanize.velocity = MIDI.value/127;
+        break;
+      case g_cc.humanizeVolume:
+        g_settings.humanize.volume = MIDI.value/127;
+        break;
+      case g_cc.humanizeTiming:
+        g_settings.humanize.timing = MIDI.value/127;
         break;
     }
   }

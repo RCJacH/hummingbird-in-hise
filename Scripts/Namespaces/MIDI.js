@@ -24,4 +24,13 @@ namespace MIDI {
     value = Message.getControllerValue();
     timestamp = Message.getTimestamp();
   }
+
+  inline function dump() {
+    return (
+      "Channel: " + channel +
+      ", Number: " + number +
+      ", Value: " + value +
+      ", Timestamp: " + timestamp
+    )
+  }
 }

@@ -11,21 +11,53 @@ namespace LeftHand {
 
   }
 
-  inline function isStringPressed(string) {
-    return g_lh.pressedStrings.contains(string);
+  inline function isSilent() {
+    return g_lh.isSilent
   }
 
-  inline function pressString(string) {
-    if (isStringPressed(string)) { return; }
-    g_lh.pressedStrings.insert(string);
+  inline function setSilent(velocity) {
+    if (!velocity) {
+      g_lh.isSilent = g_lh.isSilent&2;
+    } else {
+      g_lh.isSilent = (
+        velocity < g_settings.keyswitchThreshold ?
+        g_lh.isSilent|1 : g_lh.isSilent^2
+      );
+    }
+  }
+  inline function isOffString() {
+    return g_lh.pressedStrings.isEmpty()
   }
 
-  inline function unpressString(string) {
-    g_lh.pressedStrings.remove(string);
+  inline function pressedStrings() {
+    return g_lh.pressedStrings
   }
 
-  inline function changePosition(string) {
-    
+  inline function isStringPressed(index) {
+    return g_lh.pressedStrings.contains(index);
   }
 
+  inline function pressString(index) {
+    if (isStringPressed(index)) { return; }
+    g_lh.pressedStrings.insert(index);
+  }
+
+  inline function unpressString(index) {
+    g_lh.pressedStrings.remove(index);
+  }
+
+  inline function changePosition(velocity) {
+    local pos = velocity > 120 ? velocity - 108 : Math.floor(velocity / 10);
+    g_lh.position = pos;
+    local func = (
+      g_lh.pressedStrings.isEmpty() ?
+      GuitarString.changePosition :
+      GuitarString.preparePositionChange
+    );
+    GuitarString.forAllStrings(
+      function (string) {
+        return func(string)
+      }
+    );
+  }
 }
