@@ -87,7 +87,7 @@ namespace Strum {
     if (LeftHand.isSilent()) {
       GuitarString.forAllStrings(
         function (string) {
-          GuitarString.stop(string, 0, MIDI.timstamp);
+          GuitarString.stop(string, 0, MIDI.timestamp);
         }
       );
       return;

@@ -45,6 +45,9 @@ namespace EventParser {
       case g_keys.palmMuted2:
         GuitarString.setArticulation(string, Articulations.PALMMUTED, MIDI.value);
         break;
+      case g_keys.stop:
+        GuitarString.stop(string, MIDI.value, MIDI.timestamp);
+        break;
       case g_keys.silent:
         LeftHand.setSilent(MIDI.value);
         break;
@@ -90,6 +93,9 @@ namespace EventParser {
         break;
       case g_keys.silent:
         LeftHand.setSilent(MIDI.value);
+        break;
+      case g_keys.stop:
+        GuitarString.setReleaseTime(string, 0);
         break;
       default:
         isKS = 0;
@@ -161,6 +167,14 @@ namespace EventParser {
         break;
       case g_keys.repeatU:
         Strum.noteOn(null, null, Strum.UPSTROKE);
+        break;
+      case g_keys.stop:
+        GuitarString.forAllStrings(
+          function (string) {
+            GuitarString.setReleaseTime(string, MIDI.value);
+            GuitarString.stop(string, MIDI.value, MIDI.timestamp);
+          }
+        );
         break;
       case g_keys.glideDown:
         g_noises.glideDown.probability += 1;
@@ -248,6 +262,11 @@ namespace EventParser {
       case g_keys.repeatD:
       case g_keys.repeatU:
         Strum.noteOff(MIDI.number);
+        break;
+      case g_keys.stop:
+        GuitarString.forAllStrings(
+          function (string) { GuitarString.setReleaseTime(string, 0); }
+        );
         break;
       case g_keys.releaseWeakBuzz:
         g_noises.weakBuzz.probability %= 1;

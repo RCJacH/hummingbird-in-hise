@@ -8,6 +8,8 @@ namespace PlayNote {
 
   const var name = Synth.getIdList("Sampler")[0];
   const var string = g_strings[parseInt(name.substring(3, 4))];
+  const var ar = Synth.getModulator(name + " AR");
+  ar.setAttribute(0, 0);
   const var filter = Synth.getEffect(name + " LP");
   const var nharmFrets = [
     [3, 31], [5, 24], [7, 19], [9, 28], [12, 12], [15, 28], [17, 19], [19, 28], [20, 24]
@@ -120,5 +122,7 @@ namespace PlayNote {
       Message.ignoreEvent(true);
       return;
     }
+
+    ar.setAttribute(3, string.releaseTime);
   }
 }

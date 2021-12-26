@@ -15,6 +15,7 @@ function _createGuitarString(index) {
     releaseEventIds: Engine.createUnorderedStack(),
     pressedFrets: [],
     triggerEventId: 0,
+    releaseTime: 11,
   };
 
   string.pressedFrets.reserve(64);

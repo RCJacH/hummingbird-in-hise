@@ -18,8 +18,8 @@ namespace GuitarString {
     string.lastArticulation = string.articulation;
     string.articulation = (artIndex << 1) - (
       velocity < g_settings.keyswitchThreshold
-      );
-    }
+    );
+  }
 
   inline function getArticulation(string) {
     return ((string.articulation + 1) >> 1)
@@ -62,6 +62,12 @@ namespace GuitarString {
 
   inline function preparePositionChange(string) {
     string.pendingPosChange = true;
+  }
+
+  inline function setReleaseTime(string, velocity) {
+    string.releaseTime = Math.exp(Math.round(
+      Math.log(10) + ((128 - velocity) / 127) * (Math.log(1000) - Math.log(10))
+    ));
   }
 
   inline function pick(string, note, vel) {
