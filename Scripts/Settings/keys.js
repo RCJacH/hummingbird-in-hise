@@ -19,7 +19,7 @@ global g_keys = {
   addString: 85,
   palmMuted2: 86,
   missString: 87,
-  muted1: 88,
+  muted2: 88,
   fullD: 89,
   fullU: 90,
   lowD: 91,

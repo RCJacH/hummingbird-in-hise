@@ -269,6 +269,7 @@ namespace EventParser {
         g_noises.openString.probability %= 1;
         break;
       case g_keys.muted:
+      case g_keys.muted2:
         GuitarString.forAllStrings(
           function (string) {
             GuitarString.releaseArticulation(string, Articulations.MUTED);
@@ -276,6 +277,7 @@ namespace EventParser {
         );
         break;
       case g_keys.palmMuted:
+      case g_keys.palmMuted2:
         GuitarString.forAllStrings(
           function (string) {
             GuitarString.releaseArticulation(string, Articulations.PALMMUTED);
