@@ -71,7 +71,7 @@
         <Processor Type="EffectChain" ID="FX" Bypassed="0">
           <ChildProcessors>
             <Processor Type="PolyphonicFilter" ID="BrPN LP" Bypassed="0" Gain="0.0"
-                       Frequency="6228.154296875" Q="1.0" Mode="9.0" Quality="1.0" BipolarIntensity="0.0">
+                       Frequency="20000.0" Q="1.0" Mode="9.0" Quality="1.0" BipolarIntensity="0.0">
               <ChildProcessors>
                 <Processor Type="ModulatorChain" ID="Frequency Modulation" Bypassed="0"
                            Intensity="1.0">
@@ -163,7 +163,7 @@
                 <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
                   <ChildProcessors>
                     <Processor Type="SimpleEnvelope" ID="Str1Body AR" Bypassed="0" Monophonic="0.0"
-                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="11.0" LinearMode="0.0">
+                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="10.0" LinearMode="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Attack Time Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -250,7 +250,7 @@
                 <Processor Type="EffectChain" ID="FX" Bypassed="0">
                   <ChildProcessors>
                     <Processor Type="PolyphonicFilter" ID="Str1Noises LP" Bypassed="0" Gain="0.0"
-                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="-8.98171456e8"
+                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="2.0"
                                BipolarIntensity="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Frequency Modulation" Bypassed="0"
@@ -383,7 +383,7 @@
                 <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
                   <ChildProcessors>
                     <Processor Type="SimpleEnvelope" ID="Str2Body AR" Bypassed="0" Monophonic="0.0"
-                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="11.0" LinearMode="0.0">
+                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="10.0" LinearMode="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Attack Time Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -470,7 +470,8 @@
                 <Processor Type="EffectChain" ID="FX" Bypassed="0">
                   <ChildProcessors>
                     <Processor Type="PolyphonicFilter" ID="Str2Noises LP" Bypassed="0" Gain="0.0"
-                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="0.0" BipolarIntensity="0.0">
+                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="2.0"
+                               BipolarIntensity="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Frequency Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -602,7 +603,7 @@
                 <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
                   <ChildProcessors>
                     <Processor Type="SimpleEnvelope" ID="Str3Body AR" Bypassed="0" Monophonic="0.0"
-                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="11.0" LinearMode="0.0">
+                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="10.0" LinearMode="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Attack Time Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -689,7 +690,8 @@
                 <Processor Type="EffectChain" ID="FX" Bypassed="0">
                   <ChildProcessors>
                     <Processor Type="PolyphonicFilter" ID="Str3Noises LP" Bypassed="0" Gain="0.0"
-                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="0.0" BipolarIntensity="0.0">
+                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="2.0"
+                               BipolarIntensity="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Frequency Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -820,8 +822,8 @@
                 </Processor>
                 <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
                   <ChildProcessors>
-                    <Processor Type="SimpleEnvelope" ID="Str4Body Env" Bypassed="0" Monophonic="0.0"
-                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="11.0" LinearMode="0.0">
+                    <Processor Type="SimpleEnvelope" ID="Str4Body AR" Bypassed="0" Monophonic="0.0"
+                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="10.0" LinearMode="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Attack Time Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -1039,8 +1041,8 @@
                 </Processor>
                 <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
                   <ChildProcessors>
-                    <Processor Type="SimpleEnvelope" ID="Str5Body Env" Bypassed="0" Monophonic="0.0"
-                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="11.0" LinearMode="0.0">
+                    <Processor Type="SimpleEnvelope" ID="Str5Body AR" Bypassed="0" Monophonic="0.0"
+                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="10.0" LinearMode="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Attack Time Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -1127,7 +1129,8 @@
                 <Processor Type="EffectChain" ID="FX" Bypassed="0">
                   <ChildProcessors>
                     <Processor Type="PolyphonicFilter" ID="Str5Noises LP" Bypassed="0" Gain="0.0"
-                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="0.0" BipolarIntensity="0.0">
+                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="2.0"
+                               BipolarIntensity="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Frequency Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -1258,8 +1261,8 @@
                 </Processor>
                 <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
                   <ChildProcessors>
-                    <Processor Type="SimpleEnvelope" ID="Str6Body Env" Bypassed="0" Monophonic="0.0"
-                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="11.0" LinearMode="0.0">
+                    <Processor Type="SimpleEnvelope" ID="Str6Body AR" Bypassed="0" Monophonic="0.0"
+                               Retrigger="1.0" Intensity="1.0" Attack="0.0" Release="10.0" LinearMode="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Attack Time Modulation" Bypassed="0"
                                    Intensity="1.0">
@@ -1346,7 +1349,8 @@
                 <Processor Type="EffectChain" ID="FX" Bypassed="0">
                   <ChildProcessors>
                     <Processor Type="PolyphonicFilter" ID="Str6Noises LP" Bypassed="0" Gain="0.0"
-                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="0.0" BipolarIntensity="0.0">
+                               Frequency="20000.0" Q="1.0" Mode="9.0" Quality="2.0"
+                               BipolarIntensity="0.0">
                       <ChildProcessors>
                         <Processor Type="ModulatorChain" ID="Frequency Modulation" Bypassed="0"
                                    Intensity="1.0">
