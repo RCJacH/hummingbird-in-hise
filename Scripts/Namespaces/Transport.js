@@ -33,6 +33,9 @@ namespace Transport {
       playPosition.stopTimer();
       Engine.allNotesOff();
     }
+    GuitarString.forAllStrings(
+      function (string) { GuitarString.clearFret(string, -1); }
+    );
   }
 
   transport.setOnBeatChange(true, onBeatChange);
