@@ -18,4 +18,6 @@ global g_cc = {
   humanizeVelocity: 103,
   humanizeVolume: 104,
   humanizeTiming: 105,
+  stopAllStrings: 121,
+  handsOff: 123,
 };

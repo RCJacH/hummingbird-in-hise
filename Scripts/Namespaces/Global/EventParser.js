@@ -169,18 +169,11 @@ namespace EventParser {
         Strum.noteOn(null, null, Strum.UPSTROKE);
         break;
       case g_keys.stop:
-        GuitarString.forAllStrings(
-          function (string) {
-            GuitarString.setReleaseTime(string, MIDI.value);
-            GuitarString.stop(string, MIDI.value, MIDI.timestamp);
-          }
-        );
+        Internal.stopAllStrings();
         break;
       case g_keys.glideDown:
         g_noises.glideDown.probability += 1;
-        GuitarString.forAllStrings(
-          function (string) { GuitarString.clearFret(string, string.fret); }
-        );
+        Internal.clearAllStrings();
         break;
       case g_keys.releaseWeakBuzz:
         g_noises.weakBuzz.probability += 1;
@@ -432,6 +425,12 @@ namespace EventParser {
         break;
       case g_cc.humanizeTiming:
         g_settings.humanize.timing = MIDI.value/127;
+        break;
+      case g_cc.stopAllStrings:
+        Internal.stopAllStrings();
+        break;
+      case g_cc.handsOff:
+        Internal.clearAllStrings();
         break;
     }
   }

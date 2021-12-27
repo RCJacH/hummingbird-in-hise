@@ -25,6 +25,7 @@ include("Objects/LH.js");
 include("Objects/RH.js");
 include("Namespaces/LeftHand.js");
 include("Namespaces/RightHand.js");
+include("Namespaces/Internal.js");
 
 include("Namespaces/Humanizer.js");
 include("Namespaces/Strum.js");
