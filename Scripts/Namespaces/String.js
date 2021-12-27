@@ -28,35 +28,36 @@ namespace String {
     }
   }
 
-  inline function playNote() {
-    local articulation = (
-      string.fret == -1 ?
-      Articulations.MUTED :
-      Math.ceil(string.articulation / 2)
-    );
-    if (
-      articulation == Articulations.SUSTAIN &&
-      string.isStrummed
-    ) {
-      articulation = Articulations.CHORD;
-    }
+  inline function playNote(articulation) {
     local func = NoteTrigger.triggerAttack;
     switch (articulation) {
       case Articulations.SUSTAIN:
-      case Articulations.PALMMUTED:
       case Articulations.VIBRATO:
+        if (string.isStrummed) { return playNote(Articulations.CHORD); }
+        if (string.fret == -1) { return playNote(Articulations.MUTED); }
+
         playNoise(Noises.PICKnBUZZFLAG, func);
         string.pending.setGain(0);
         MIDI.timestamp += Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
         break;
+      case Articulations.PALMMUTED:
+        if (!string.isStrummed) {
+          playNoise(Noises.PICKnBUZZFLAG, func);
+          string.pending.setGain(0);
+          MIDI.timestamp += Delays.pickNoteSamples();
+        }
+        NoteTrigger.triggerBody(articulation);
+        break;
       case Articulations.MUTED:
-        playNoise(Noises.PICKnBUZZFLAG, func);
+        playNoise(
+          string.isStrummed ? Noises.PICKnBUZZFLAG : Noises.BUZZFLAG,
+          func
+          );
         break;
       case Articulations.CHORD:
         playNoise(Noises.BUZZFLAG, func);
         string.pending.setGain(0);
-        MIDI.timestamp += Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
         string.isStrummed = false;
         break;
@@ -117,7 +118,7 @@ namespace String {
         playPosShift();
         break;
       default:
-        playNote();
+        playNote(Math.ceil(string.articulation / 2));
         break;
     }
   }

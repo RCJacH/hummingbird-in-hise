@@ -6,7 +6,7 @@ global g_settings = {
     base: 15,
     preAttack: -10,
     pickNote: 1,
-    strumNoise: 10,
+    strumNoise: 5,
     nextString: 15,
   },
   string: {
