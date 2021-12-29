@@ -3,5 +3,11 @@ Binaries/
 PooledResources/
 Presets/
 Reference/
-
 Samples/
+
+# Python
+__pycache__/
+
+# Sandbox
+sandbox/
+sandbox.*
