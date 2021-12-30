@@ -15,6 +15,15 @@ namespace Articulations {
   const var FRETNOISE = 14;
   const var FINGERRELEASE = 15;
   const var GLIDEDOWN = 16;
+  const var STRUM = 17;
+  const var SLOWSTRUM = 18;
+  const var MUTEDSTRUM = 19;
+  const var BRIDGEMUTE = 20;
+  const var POSITIONCHANGE = 21;
+  const var PALMHIT = 22;
+  const var FINGERHIT = 23;
+  const var STRINGMUTEBUZZ = 24;
+  const var PICKGUARDHIT = 25;
 
   const var articulations = [
     "sustain",
@@ -33,10 +42,19 @@ namespace Articulations {
     "fretNoise",
     "fingerRelease",
     "glideDown",
+    "strumNoise",
+    "slowStrumNoise",
+    "mutedStrumNoise",
+    "bridgeMute",
+    "positionChange",
+    "palmHit",
+    "fingerHit",
+    "stringMuteBuzz",
+    "pickguardHit",
   ]
 
-  inline function fromIndex(channel) {
-    return articulations[channel - 1]
+  inline function fromIndex(index) {
+    return articulations[index - 1]
   }
 
   inline function fromName(name) {

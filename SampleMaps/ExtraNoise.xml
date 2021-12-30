@@ -1,4 +1,4 @@
-<samplemap ID="" RRGroupAmount="4" MicPositions=";">
+<samplemap ID="" RRGroupAmount="1" MicPositions=";">
   <sample Root="1" LoKey="0" HiKey="1" LoVel="1" HiVel="1" RRGroup="1" FileName="{PROJECT_FOLDER}ExtraNoise/Strum Noise/130_6_brpndhm_loud_01_1-2.wav" Volume="0" />
   <sample Root="1" LoKey="0" HiKey="1" LoVel="2" HiVel="2" RRGroup="1" FileName="{PROJECT_FOLDER}ExtraNoise/Strum Noise/130_6_brpndhm_loud_01_2-2.wav" Volume="0" />
   <sample Root="1" LoKey="0" HiKey="1" LoVel="3" HiVel="3" RRGroup="1" FileName="{PROJECT_FOLDER}ExtraNoise/Strum Noise/130_6_brpndhm_loud_01_3-2.wav" Volume="0" />

@@ -13,7 +13,7 @@ namespace RR {
     return g_rr[Articulations.fromIndex(index)]
   }
 
-  inline function next(index) {
-    current[index] = (current[index] + 1) % total(index);
+  inline function next(index, totalRR) {
+    current[index] = (current[index] + 1) % totalRR;
   }
 }

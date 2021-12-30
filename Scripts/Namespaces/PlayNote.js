@@ -95,7 +95,7 @@ namespace PlayNote {
       + totalRR * (totalVel * direction + velLayer)
       + RR.get(articulation)
     );
-    RR.next(articulation);
+    RR.next(articulation, totalRR);
   }
 
   inline function setAudio(articulation, velocity) {

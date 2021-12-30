@@ -12,5 +12,14 @@ global g_velocity = {
   glideDown: [0],
   other: [111, 0],
   muted: [0],
-  none: [0]
+  none: [0],
+  strumNoise: [110, 0],
+  slowStrumNoise: [110, 0],
+  mutedStrumNoise: [110, 0],
+  positionChange: [0],
+  bridgeMute: [111, 64, 0],
+  palmHit: [120, 0],
+  fingerHit: [100, 0],
+  stringMuteBuzz: [125, 60, 0],
+  pickguardHit: [100, 0],
 };

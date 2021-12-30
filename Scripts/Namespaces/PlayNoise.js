@@ -80,7 +80,7 @@ namespace PlayNoise {
       default:
         Message.ignoreEvent(true);
     }
-    RR.next(articulation);
+    RR.next(articulation, RR.total(articualtion));
   }
 
   inline function setAudio(articulation, velocity) {
