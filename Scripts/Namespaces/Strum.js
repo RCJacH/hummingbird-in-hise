@@ -39,10 +39,6 @@ namespace Strum {
     return strings;
   }
 
-  inline function _addNoise(note, velocity, timestamp) {
-    Synth.addNoteOn(15, note, velocity, timestamp + Delays.noteStrumSamples());
-  }
-
   inline function noteOn(b, t, d) {
     local bottomString = b == null ? g_rh.bottomString : b;
     local topString = t == null ? g_rh.topString : t;
@@ -52,9 +48,11 @@ namespace Strum {
     local velocity = MIDI.value;
     g_strumKeys.insert(MIDI.number);
     g_controlEventId = Message.getEventId();
-    if (g_rh.speed < 0.8) {
-      _addNoise(g_lh.position, Message.getVelocity(), Message.getTimestamp());
-    }
+    ExtraNoise.strum(
+      g_lh.position,
+      Message.getVelocity(),
+      Message.getTimestamp() + Delays.noteStrumSamples()
+    );
     if (MIDI.channel == STRUM_CHANNEL) { return; }
 
     Humanizer.setStrum(velocity, bottomString-topString);

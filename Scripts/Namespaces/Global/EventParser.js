@@ -51,6 +51,18 @@ namespace EventParser {
       case g_keys.silent:
         LeftHand.setSilent(MIDI.value);
         break;
+      case g_keys.palmHit:
+        ExtraNoise.palmHit(MIDI.value, MIDI.timestamp);
+        break;
+      case g_keys.fingerHit:
+        ExtraNoise.fingerHit(MIDI.value, MIDI.timestamp);
+        break;
+      case g_keys.stringMuteBuzz:
+        ExtraNoise.stringMuteBuzz(MIDI.value, MIDI.timestamp);
+        break;
+      case g_keys.pickguardHit:
+        ExtraNoise.pickguardHit(MIDI.value, MIDI.timestamp);
+        break;
       default:
         isKS = 0;
     }
@@ -221,6 +233,18 @@ namespace EventParser {
         break;
       case g_keys.timeDirection:
         RightHand.startDirectionDetection();
+        break;
+      case g_keys.palmHit:
+        ExtraNoise.palmHit(MIDI.value, MIDI.timestamp);
+        break;
+      case g_keys.fingerHit:
+        ExtraNoise.fingerHit(MIDI.value, MIDI.timestamp);
+        break;
+      case g_keys.stringMuteBuzz:
+        ExtraNoise.stringMuteBuzz(MIDI.value, MIDI.timestamp);
+        break;
+      case g_keys.pickguardHit:
+        ExtraNoise.pickguardHit(MIDI.value, MIDI.timestamp);
         break;
     }
   }

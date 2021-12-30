@@ -4,15 +4,16 @@ include("Namespaces/RR.js");
 include("Namespaces/Velocity.js");
 
 namespace PlayExtraNoise {
-  const var STRUM = 0;
-  const var SLOWSTRUM = 1;
-  const var MUTEDSTRUM = 2;
-  const var BRIDGEMUTE = 3;
-  const var POSITIONCHANGE = 4;
-  const var PALMHIT = 5;
-  const var FINGERHIT = 6;
-  const var STRINGMUTEBUZZ = 7;
-  const var PICKGUARDHIT = 8;
+  const var NONE = 0;
+  const var STRUM = 1;
+  const var SLOWSTRUM = 2;
+  const var MUTEDSTRUM = 3;
+  const var BRIDGEMUTE = 4;
+  const var POSITIONCHANGE = 5;
+  const var PALMHIT = 6;
+  const var FINGERHIT = 7;
+  const var STRINGMUTEBUZZ = 8;
+  const var PICKGUARDHIT = 9;
 
   const var name = Synth.getIdList("Sampler")[0];
   const var ar = Synth.getModulator(name + " AR");
@@ -20,7 +21,7 @@ namespace PlayExtraNoise {
   const var filter = Synth.getEffect(name + " LP");
 
   inline function getStrumArticulation() {
-    return g_rh.speed > 1.2 ? SLOWSTRUM : STRUM
+    return g_rh.speed > 0.92 ? NONE : g_rh.speed > 0.7 ? SLOWSTRUM : STRUM
   }
 
   inline function getStrumType() {
@@ -93,7 +94,7 @@ namespace PlayExtraNoise {
 
   inline function setSample(articulation, velocity) {
     local baseVel = 1;
-    local articulationOffset = articulation + 17;
+    local articulationOffset = articulation + 16;
     local totalVel = Velocity.total(articulationOffset);
     local totalRR = RR.total(articulationOffset);
     local velLayer = Velocity.getLayer(articulationOffset, velocity);
@@ -166,6 +167,8 @@ namespace PlayExtraNoise {
         articulation = getStrumArticulation();
         break;
     }
+
+    if (!articulation) { Message.ignoreEvent(true); return; }
 
     setAudio(articulation, velocity);
     setSample(articulation, velocity);

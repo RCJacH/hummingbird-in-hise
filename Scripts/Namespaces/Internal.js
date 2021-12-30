@@ -12,5 +12,10 @@ namespace Internal {
         GuitarString.stop(string, MIDI.value, MIDI.timestamp);
       }
     );
+    if (MIDI.value > 64) {
+      ExtraNoise.stringMuteBuzz(MIDI.value, MIDI.timestamp);
+    } else {
+      ExtraNoise.bridgeMute(MIDI.value, MIDI.timestamp);
+    }
   }
 }
