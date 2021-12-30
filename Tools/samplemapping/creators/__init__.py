@@ -1,2 +1,2 @@
 from .base import SampleMapCreator
-from .generic import GenericSampleMapCreator
+from .extra_noise import ExtraNoiseSampleMapCreator

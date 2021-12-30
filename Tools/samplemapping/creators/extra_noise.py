@@ -1,10 +1,9 @@
 import pathlib
-import re
 from . import SampleMapCreator
 
 
-class GenericSampleMapCreator(SampleMapCreator):
-    TYPE = r'Generic'
+class ExtraNoiseSampleMapCreator(SampleMapCreator):
+    TYPE = r'ExtraNoise'
     STRUMNOISE = r'130_brpn{dir}{stroke}_{dyn}_{fret:02d}_{rr}'
     STRUMNOISEHM = r'130_6_brpn{dir}hm_{dyn}_{fret:02d}_{rr}'
     SLOWSTRUMNOISE = r'130_{stroke}_brpn{dir}_{dyn}_{fret:02d}_{rr}'
@@ -43,13 +42,14 @@ class GenericSampleMapCreator(SampleMapCreator):
                 **each_comb,
                 type=self.TYPE,
                 string='',
-                articulation='Extra Strum Noise',
+                articulation='Strum Noise',
                 tempstr=(
                     self.STRUMNOISEHM if each_comb['stroke'] == 'hm'
                     else self.STRUMNOISE
                 ),
-                LoKeyFunc=lambda f, b, **kwargs: b if f < 1 else f + b,
-                HiKeyFunc=lambda f, b, **kwargs: b + 20 if f >= 10 else f,
+                Root=each_comb['fret'],
+                LoKeyFunc=lambda f, b, **kwargs: 0 if f <= 1 else f,
+                HiKeyFunc=lambda f, b, **kwargs: 20 if f >= 10 else f,
                 VolumeFunc=get_volume
             )
 
@@ -77,11 +77,12 @@ class GenericSampleMapCreator(SampleMapCreator):
                 **each_comb,
                 type=self.TYPE,
                 string='',
-                articulation='Extra Slow Strum Noise',
+                articulation='Slow Strum Noise',
                 tempstr=self.SLOWSTRUMNOISE,
                 vel_offset=60,
-                LoKeyFunc=lambda f, b, **kwargs: b if f < 1 else f + b,
-                HiKeyFunc=lambda f, b, **kwargs: b + 20 if f >= 11 else f,
+                Root=each_comb['fret'],
+                LoKeyFunc=lambda f, b, **kwargs: 0 if f <= 1 else f,
+                HiKeyFunc=lambda f, b, **kwargs: 20 if f >= 11 else f,
                 VolumeFunc=get_volume
             )
 
@@ -100,6 +101,9 @@ class GenericSampleMapCreator(SampleMapCreator):
             frets=range(1, 11),
             rrs=5,
         ):
+            if (each_comb['dyn'] == '_ld' and each_comb['fret'] > 1):
+                continue
+
             self.add_sample(
                 **each_comb,
                 type=self.TYPE,
@@ -107,29 +111,35 @@ class GenericSampleMapCreator(SampleMapCreator):
                 articulation='Position Change',
                 tempstr=tempstr,
                 vel_offset=110,
-                LoKeyFunc=lambda f, b, **kwargs: b if f < 1 else f + b,
-                HiKeyFunc=lambda f, b, **kwargs: b + 20 if f >= 10 else f,
+                Root=each_comb['fret'],
+                LoKeyFunc=lambda f, b, **kwargs: 0 if f <= 1 else f,
+                HiKeyFunc=lambda f, b, **kwargs: 20 if f >= 10 else f,
             )
 
     def muted_strum_noise(self):
         tempstr = r'135_mbrsh_E_{dyn}_{rr}'
+        tempstr2 = r'135_mbrsh_E_{dyn}_{rr:02d}'
         for each_comb in self.get_all_samples(
             (
                 self.for_multiple_dynamics,
                 self.for_multiple_rr
             ),
             dyns=('loud', 'soft'),
-            rrs=7,
+            rrs=12,
         ):
+            tsr = tempstr2 if (
+                (each_comb['dyn_index'] and each_comb['rr_index'] > 6) or
+                (not each_comb['dyn_index'] and each_comb['rr_index'] > 7)
+            ) else tempstr
             self.add_sample(
                 **each_comb,
                 type=self.TYPE,
                 string='',
                 articulation='Muted Strum Noise',
-                tempstr=tempstr,
-                Root=0,
-                LoKey=0,
-                HiKey=0,
+                tempstr=tsr,
+                Root=21,
+                LoKey=21,
+                HiKey=21,
             )
 
     def bridge_mute_noise(self):
@@ -152,9 +162,9 @@ class GenericSampleMapCreator(SampleMapCreator):
                 string='',
                 articulation='Bridge Mute Noise',
                 tempstr=tempstr,
-                Root=1,
-                LoKey=1,
-                HiKey=1,
+                Root=22,
+                LoKey=22,
+                HiKey=22,
                 VolumeFunc=get_volume
             )
 
@@ -174,13 +184,13 @@ class GenericSampleMapCreator(SampleMapCreator):
                 string='',
                 articulation='Palm Hit',
                 tempstr=tempstr,
-                Root=2,
-                LoKey=2,
-                HiKey=2,
+                Root=23,
+                LoKey=23,
+                HiKey=23,
             )
 
     def finger_hit(self):
-        tempstr = r'135_perc_flwtrpfq{stroke}_{dyn}_{rr}'
+        tempstr = r'135_perc_flwtrpfg{stroke}_{dyn}_{rr}'
         for each_comb in self.get_all_samples(
             (
                 self.for_multiple_strokes,
@@ -197,9 +207,9 @@ class GenericSampleMapCreator(SampleMapCreator):
                 string='',
                 articulation='Finger Hit',
                 tempstr=tempstr,
-                Root=3,
-                LoKey=3,
-                HiKey=3,
+                Root=24,
+                LoKey=24,
+                HiKey=24,
             )
 
     def string_mute_buzz(self):
@@ -219,13 +229,13 @@ class GenericSampleMapCreator(SampleMapCreator):
                 string='',
                 articulation='String Mute Buzz',
                 tempstr=tempstr,
-                Root=4,
-                LoKey=4,
-                HiKey=4,
+                Root=25,
+                LoKey=25,
+                HiKey=25,
             )
 
     def pickguard_hit(self):
-        tempstr = r'135_pkgdhit_{dyn}_{rr}'
+        tempstr = r'135_pkgdhit_{dyn}_{rr:02d}'
         for each_comb in self.get_all_samples(
             (
                 self.for_multiple_dynamics,
@@ -240,7 +250,7 @@ class GenericSampleMapCreator(SampleMapCreator):
                 string='',
                 articulation='Pickguard Hit',
                 tempstr=tempstr,
-                Root=5,
-                LoKey=5,
-                HiKey=5,
+                Root=26,
+                LoKey=26,
+                HiKey=26,
             )
