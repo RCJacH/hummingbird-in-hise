@@ -6,23 +6,19 @@
   <ChildProcessors>
     <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
       <ChildProcessors>
-        <Processor Type="ScriptProcessor" ID="Global Script" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}Externals/Global.js">
-          <ChildProcessors/>
-          <Content/>
-          <UIData>
-            <ContentProperties DeviceType="Desktop">
-              <Component type="ScriptFloatingTile" id="Keyboard" x="0.0" y="0.0" ContentType="Keyboard"
-                         bgColour="4284769380" itemColour="452984831" itemColour2="4294967295"
-                         textColour="0" Data="{&#10;  &quot;KeyWidth&quot;: 14.0,&#10;  &quot;DisplayOctaveNumber&quot;: false,&#10;  &quot;LowKey&quot;: 40,&#10;  &quot;HiKey&quot;: 127,&#10;  &quot;CustomGraphics&quot;: false,&#10;  &quot;DefaultAppearance&quot;: true,&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#10;  &quot;ToggleMode&quot;: false,&#10;  &quot;MidiChannel&quot;: 1,&#10;  &quot;UseVectorGraphics&quot;: true,&#10;  &quot;UseFlatStyle&quot;: false,&#10;  &quot;MPEKeyboard&quot;: false,&#10;  &quot;MPEStartChannel&quot;: 2,&#10;  &quot;MPEEndChannel&quot;: 16&#10;}"
-                         width="600.0" height="120.0"/>
-            </ContentProperties>
-          </UIData>
-        </Processor>
         <Processor Type="ScriptProcessor" ID="Interface Script" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}Interface/Interface.js">
           <ChildProcessors/>
           <Content/>
           <UIData>
             <ContentProperties DeviceType="Desktop"/>
+          </UIData>
+        </Processor>
+        <Processor Type="ScriptProcessor" ID="Global Script" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}Externals/Global.js">
+          <ChildProcessors/>
+          <Content/>
+          <UIData>
+            <ContentProperties DeviceType="Desktop">
+            </ContentProperties>
           </UIData>
         </Processor>
       </ChildProcessors>
