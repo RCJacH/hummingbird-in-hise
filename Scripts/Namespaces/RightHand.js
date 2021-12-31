@@ -30,6 +30,7 @@ namespace RightHand {
 
   inline function setSpeedFromVelocity(velocity) {
     g_rh.speed = vel2speed[velocity];
+    Strum.setBaseDelay();
   }
 
   inline function setAcceleration(float) {

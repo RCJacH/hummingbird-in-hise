@@ -28,7 +28,6 @@ include("Namespaces/RightHand.js");
 include("Namespaces/ExtraNoise.js");
 include("Namespaces/Internal.js");
 
-include("Namespaces/Humanizer.js");
 include("Namespaces/Strum.js");
 include("Namespaces/Transport.js");
 include("Namespaces/Global/ChordParser.js");
