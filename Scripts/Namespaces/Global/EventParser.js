@@ -388,7 +388,7 @@ namespace EventParser {
         RightHand.setDirection(Math.ceil(MIDI.value/64) - 1);
         break;
       case g_cc.strumSpeed:
-        RightHand.setSpeed(MIDI.value/127);
+        RightHand.setSpeedFromVelocity(MIDI.value);
         break;
       case g_cc.strumDivision:
         RightHand.setStrumDivision(MIDI.value/127);

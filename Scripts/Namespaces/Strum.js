@@ -52,14 +52,14 @@ namespace Strum {
       Internal.setAllReleaseTime(10 + (127 - velocity) * 40);
       Internal.stopAllStrings();
     }
+    Humanizer.setStrum(velocity, bottomString-topString);
     ExtraNoise.strum(
       g_lh.position,
       Message.getVelocity(),
-      Message.getTimestamp() + Delays.noteStrumSamples()
+      Message.getTimestamp() + Humanizer.humanizeDelay(1)
     );
     if (MIDI.channel == STRUM_CHANNEL) { return; }
 
-    Humanizer.setStrum(velocity, bottomString-topString);
     local items = _getNotes(bottomString, topString, direction);
     local string;
     local index;

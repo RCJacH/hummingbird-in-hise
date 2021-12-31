@@ -3,6 +3,11 @@ namespace RightHand {
   reg time = Engine.getMilliSecondsForQuarterBeats(0.5);
   const var pressedKeys = [];
 
+  const var vel2speed = [];
+  for (i=0;i<=127;i++) {
+    vel2speed.push(.5 + Math.exp(Math.log(Math.pow(1 - (i - 1) / 126, 1.2))));
+  }
+
   inline function setAddString(value) {
     g_rh.addString = Math.ceil(value / g_settings.keyswitchThreshold);
   }
@@ -21,6 +26,10 @@ namespace RightHand {
 
   inline function setSpeed(float) {
     g_rh.speed = 1.5 - float;
+  }
+
+  inline function setSpeedFromVelocity(velocity) {
+    g_rh.speed = vel2speed[velocity];
   }
 
   inline function setAcceleration(float) {

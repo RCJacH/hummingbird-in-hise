@@ -21,7 +21,7 @@ namespace PlayExtraNoise {
   const var filter = Synth.getEffect(name + " LP");
 
   inline function getStrumArticulation() {
-    return g_rh.speed > 0.92 ? NONE : g_rh.speed > 0.7 ? SLOWSTRUM : STRUM
+    return g_rh.speed > 1.08 ? NONE : g_rh.speed > 0.7 ? SLOWSTRUM : STRUM
   }
 
   inline function getStrumType() {
@@ -50,10 +50,13 @@ namespace PlayExtraNoise {
     local linear = 1;
     switch (articulation) {
       case STRUM:
-      case SLOWSTRUM:
       case MUTEDSTRUM:
       case POSITIONCHANGE:
         linear = 0.4 + Math.pow(0.6 * g_mod.linear[velocity], 1.5);
+        break;
+      case SLOWSTRUM:
+        linear = 0.4 + Math.pow(0.6 * g_mod.linear[velocity], 1.5);
+        linear *= 1 - (g_rh.speed - 0.7) / 0.4;
         break;
       case BRIDGEMUTE:
         linear = 0.45 + 0.55 * g_mod.linear[velocity];
