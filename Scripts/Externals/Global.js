@@ -33,8 +33,6 @@ include("Namespaces/Transport.js");
 include("Namespaces/Global/ChordParser.js");
 include("Namespaces/Global/EventParser.js");
 
-Content.makeFrontInterface(700, 400);
-
 function onNoteOn() {
   EventParser.parseNoteOn();
 }

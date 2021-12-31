@@ -18,6 +18,13 @@
             </ContentProperties>
           </UIData>
         </Processor>
+        <Processor Type="ScriptProcessor" ID="Interface Script" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}Interface/Interface.js">
+          <ChildProcessors/>
+          <Content/>
+          <UIData>
+            <ContentProperties DeviceType="Desktop"/>
+          </UIData>
+        </Processor>
       </ChildProcessors>
     </Processor>
     <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
