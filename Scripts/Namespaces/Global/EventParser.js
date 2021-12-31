@@ -214,11 +214,7 @@ namespace EventParser {
         break;
       case g_keys.muted:
       case g_keys.muted2:
-        GuitarString.forAllStrings(
-          function (string) {
-            GuitarString.setArticulation(string, Articulations.MUTED, MIDI.value);
-          }
-        );
+        LeftHand.setMuted(MIDI.value);
         break;
       case g_keys.palmMuted:
       case g_keys.palmMuted2:
@@ -306,11 +302,7 @@ namespace EventParser {
         break;
       case g_keys.muted:
       case g_keys.muted2:
-        GuitarString.forAllStrings(
-          function (string) {
-            GuitarString.releaseArticulation(string, Articulations.MUTED);
-          }
-        );
+        LeftHand.setMuted(MIDI.value);
         break;
       case g_keys.palmMuted:
       case g_keys.palmMuted2:

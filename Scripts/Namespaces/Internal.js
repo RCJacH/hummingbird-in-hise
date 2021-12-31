@@ -18,4 +18,10 @@ namespace Internal {
       ExtraNoise.bridgeMute(MIDI.value, MIDI.timestamp);
     }
   }
+
+  inline function setAllReleaseTime(releaseTime) {
+    GuitarString.forAllStrings(
+      function (string) { string.releaseTime = releaseTime; }
+    );
+  }
 }

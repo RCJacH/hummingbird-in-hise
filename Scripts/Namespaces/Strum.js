@@ -48,6 +48,10 @@ namespace Strum {
     local velocity = MIDI.value;
     g_strumKeys.insert(MIDI.number);
     g_controlEventId = Message.getEventId();
+    if (g_lh.isMuted) {
+      Internal.setAllReleaseTime(10 + (127 - velocity) * 40);
+      Internal.stopAllStrings();
+    }
     ExtraNoise.strum(
       g_lh.position,
       Message.getVelocity(),

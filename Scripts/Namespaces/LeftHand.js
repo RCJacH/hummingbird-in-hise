@@ -1,4 +1,5 @@
 namespace LeftHand {
+
   inline function setVibratoDepth(float) {
 
   }
@@ -25,6 +26,18 @@ namespace LeftHand {
       );
     }
   }
+
+  inline function setMuted(velocity) {
+    if (!velocity) {
+      g_lh.isMuted = g_lh.isMuted&2;
+    } else {
+      g_lh.isMuted = (
+        velocity < g_settings.keyswitchThreshold ?
+        g_lh.isMuted|1 : g_lh.isMuted^2
+      );
+    }
+  }
+
   inline function isOffString() {
     return g_lh.pressedStrings.isEmpty()
   }

@@ -29,12 +29,19 @@ namespace String {
   }
 
   inline function playNote(articulation) {
+    if (
+      g_lh.isMuted &&
+      articulation != Articulations.MUTED
+    ) {
+      return playNote(Articulations.MUTED);
+    }
+
     local func = NoteTrigger.triggerAttack;
     switch (articulation) {
       case Articulations.SUSTAIN:
       case Articulations.VIBRATO:
-        if (string.isStrummed) { return playNote(Articulations.CHORD); }
         if (string.fret == -1) { return playNote(Articulations.MUTED); }
+        if (string.isStrummed) { return playNote(Articulations.CHORD); }
 
         playNoise(Noises.PICKnBUZZFLAG, func);
         string.pending.setGain(0);

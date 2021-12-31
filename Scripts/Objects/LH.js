@@ -3,6 +3,7 @@ global g_lh = {
   reach: 5,
   topSpeed: 128,
   isSilent: 0,
+  isMuted: 0,
   pressedStrings: Engine.createUnorderedStack(),
   vibrato: {},
   pitchbend: {},
