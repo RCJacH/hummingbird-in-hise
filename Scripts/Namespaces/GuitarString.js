@@ -96,7 +96,7 @@ namespace GuitarString {
   }
 
   inline function pressFret(string, fret) {
-    if (fret < 0 || fret > 20) { return; }
+    if (fret < -1 || fret > 20) { return; }
 
     string.lastFret = string.fret;
     string.fret = fret;
@@ -110,7 +110,7 @@ namespace GuitarString {
   }
 
   inline function releaseFret(string, fret) {
-    if (fret < 0 || fret > 20) { return; }
+    if (fret < -1 || fret > 20) { return; }
 
     local pressedFrets = string.pressedFrets;
     if (!pressedFrets.length) {
