@@ -39,24 +39,29 @@ namespace LeftHand {
   }
 
   inline function isOffString() {
-    return g_lh.pressedStrings.isEmpty()
+    return !g_lh.pressedStringsFlag
   }
 
   inline function pressedStrings() {
-    return g_lh.pressedStrings
+    local strings = [];
+    for (i=1; i<7; i++) {
+      if (isStringPressed(i)) { strings.push(g_stringsChannel[i]); }
+    }
+    return strings
   }
 
   inline function isStringPressed(index) {
-    return g_lh.pressedStrings.contains(index);
+    return g_lh.pressedStringsFlag & (1 << (index - 1))
   }
 
-  inline function pressString(index) {
-    if (isStringPressed(index)) { return; }
-    g_lh.pressedStrings.insert(index);
+  inline function pressString(string) {
+    g_lh.pressedStringsFlag |= string.flag;
+    GuitarString.pressFret(string, GuitarString.getFret(string));
   }
 
-  inline function unpressString(index) {
-    g_lh.pressedStrings.remove(index);
+  inline function unpressString(string) {
+    local isOff = GuitarString.releaseFret(string, GuitarString.getFret(string));
+    g_lh.pressedStringsFlag &= (63 - string.flag * isOff);
   }
 
   inline function changePosition(velocity) {

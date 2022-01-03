@@ -24,26 +24,39 @@ namespace PlayExtraNoise {
     return g_rh.speed > 1.08 ? NONE : g_rh.speed > 0.7 ? SLOWSTRUM : STRUM
   }
 
-  inline function getStrumType() {
-    local type;
-
+  inline function _getStrumType() {
     switch (g_rh.bottomString - g_rh.topString) {
       case 0:
       case 1:
-        type = -1;
-        break;
+        return -1;
       case 2:
       case 3:
       case 4:
-        type = (g_rh.bottomString < 4) ? 2 : 1;
-        break;
+        return (g_rh.bottomString < 4) ? 2 : 1;
       case 5:
       case 6:
-        type = 0;
-        break;
+        return 0;
     }
+  }
 
-    return type
+  inline function _getSlowStrumType() {
+    switch (g_rh.bottomString - 6) {
+      case 0:
+        return 0;
+      default:
+        return 1;
+    }
+  }
+
+  inline function getStrumType(articulation) {
+    switch (articulation) {
+      case STRUM:
+        return _getStrumType();
+      case SLOWSTRUM:
+        return _getSlowStrumType();
+      default:
+        return 0;
+    }
   }
 
   inline function getGain(articulation, velocity) {
@@ -102,12 +115,15 @@ namespace PlayExtraNoise {
     local totalRR = RR.total(articulationOffset);
     local velLayer = Velocity.getLayer(articulationOffset, velocity);
     local direction = g_rh.direction == -1 ? g_rh.autoDirection : g_rh.direction;
-    local strumType = getStrumType();
+    local strumType = getStrumType(articulation);
 
     switch (articulation) {
       case STRUM:
+        if (strumType == -1) { return; }
+        break;
       case MUTEDSTRUM:
         if (strumType == -1) { return; }
+        direction = 0;
         break;
       case SLOWSTRUM:
         if (strumType == -1) { return; }
@@ -115,6 +131,9 @@ namespace PlayExtraNoise {
         break;
       case POSITIONCHANGE:
         baseVel = 101;
+        direction = 0;
+        break;
+      default:
         direction = 0;
         break;
     }

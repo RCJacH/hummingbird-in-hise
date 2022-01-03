@@ -7,7 +7,7 @@ namespace PlayNote {
   sampler.enableRoundRobin(false);
 
   const var name = Synth.getIdList("Sampler")[0];
-  const var string = g_strings[parseInt(name.substring(3, 4))];
+  const var string = g_stringsChannel[parseInt(name.substring(3, 4))];
   const var ar = Synth.getModulator(name + " AR");
   ar.setAttribute(0, 0);
   const var filter = Synth.getEffect(name + " LP");

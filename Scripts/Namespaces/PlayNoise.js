@@ -7,7 +7,7 @@ namespace PlayNoise {
   sampler.enableRoundRobin(false);
 
   const var name = Synth.getIdList("Sampler")[0];
-  const var string = g_strings[parseInt(name.substring(3, 4))];
+  const var string = g_stringsChannel[parseInt(name.substring(3, 4))];
   const var filter = Synth.getEffect(name +" LP");
 
   inline function getGain(articulation, velocity) {
@@ -80,7 +80,7 @@ namespace PlayNoise {
       default:
         Message.ignoreEvent(true);
     }
-    RR.next(articulation, RR.total(articualtion));
+    RR.next(articulation, RR.total(articulation));
   }
 
   inline function setAudio(articulation, velocity) {

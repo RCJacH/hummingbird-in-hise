@@ -50,7 +50,7 @@ namespace Strum {
     for (i=0; i<=range; i++) {
       index = direction ? range - i : i;
       stringIndex = bottom - index;
-      strings.push([index, g_strings[stringIndex]]);
+      strings.push([index, g_stringsChannel[stringIndex]]);
     }
     if (direction) { strings.reverse(); }
     return strings;
@@ -66,7 +66,7 @@ namespace Strum {
   inline function _getNotes(bottom, top, direction) {
     local lastFret = g_lh.position;
     local strings = _getStrings(bottom, top, direction);
-    local isEmpty = !g_lh.pressedStrings.length;
+    local isEmpty = LeftHand.isOffString();
     for (item in strings) {lastFret = _getFrettedNote(item, lastFret);}
     return strings;
   }
@@ -81,14 +81,19 @@ namespace Strum {
     g_strumKeys.insert(MIDI.number);
     g_controlEventId = Message.getEventId();
     if (g_lh.isMuted) {
-      Internal.setAllReleaseTime(10 + (127 - velocity) * 40);
-      Internal.stopAllStrings();
+      GuitarString.stopAllStrings(velocity, MIDI.timstamp);
+      ExtraNoise.strum(
+        g_lh.position,
+        Message.getVelocity(),
+        Message.getTimestamp()
+      );
+    } else {
+      ExtraNoise.strum(
+        g_lh.position,
+        Message.getVelocity(),
+        Message.getTimestamp() + humanizeDelay(1)
+      );
     }
-    ExtraNoise.strum(
-      g_lh.position,
-      Message.getVelocity(),
-      Message.getTimestamp() + humanizeDelay(1)
-    );
     if (MIDI.channel == STRUM_CHANNEL) { return; }
 
     local items = _getNotes(bottomString, topString, direction);
@@ -119,17 +124,11 @@ namespace Strum {
     if (!LeftHand.isOffString()) { return; }
 
     if (LeftHand.isSilent()) {
-      GuitarString.forAllStrings(
-        function (string) {
-          GuitarString.stop(string, 0, MIDI.timestamp);
-        }
-      );
+      GuitarString.stopAllStrings(0, MIDI.timestamp);
+      g_lh.pressedStringsFlag = 0;
       return;
     }
-    GuitarString.forAllStrings(
-      function (string) {
-        GuitarString.clearFret(string, string.fret);
-      }
-    );
+    GuitarString.clearAllStrings();
+    ExtraNoise.stopStrum();
   }
 }

@@ -26,6 +26,7 @@ namespace Articulations {
   const var PICKGUARDHIT = 25;
 
   const var articulations = [
+    null,
     "sustain",
     "palmMuted",
     "muted",
@@ -54,7 +55,7 @@ namespace Articulations {
   ]
 
   inline function fromIndex(index) {
-    return articulations[index - 1]
+    return articulations[index]
   }
 
   inline function fromName(name) {

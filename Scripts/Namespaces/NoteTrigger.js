@@ -1,5 +1,5 @@
 namespace NoteTrigger {
-  const var string = g_strings[
+  const var string = g_stringsChannel[
     parseInt(Synth.getIdList('Container')[0].substring(6, 7))
   ];
 
@@ -9,11 +9,14 @@ namespace NoteTrigger {
     string.pending.setNoteNumber(note);
     string.pending.setVelocity(velocity);
     string.pending.setTimestamp(timestamp);
-    EventChaser.addEvent(
-      eventIds,
-      Synth.addMessageFromHolder(string.pending)
-    );
+    local eventId = Synth.addMessageFromHolder(string.pending);
+    if (eventIds != null) { EventChaser.addEvent(eventIds, eventId); }
   }
+
+  inline function triggerPreAttack(articulation, note, velocity, timestamp) {
+    trigger(null, articulation, note, velocity, timestamp);
+  }
+
   inline function triggerAttack(articulation, note, velocity, timestamp) {
     trigger(string.attackEventIds, articulation, note, velocity, timestamp);
   }
@@ -23,7 +26,6 @@ namespace NoteTrigger {
   }
 
   function triggerBody(articulation) {
-    MIDI.value = Message.getVelocity();
-    triggerAttack(articulation, MIDI.number, MIDI.value, MIDI.timestamp);
+    triggerAttack(articulation, MIDI.number, Message.getVelocity(), MIDI.timestamp);
   }
 }

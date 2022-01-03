@@ -5,6 +5,8 @@ global g_lh = {
   isSilent: 0,
   isMuted: 0,
   pressedStrings: Engine.createUnorderedStack(),
+  pressedStringsFlag: 0,
+  pendingStringFlag: 0,
   vibrato: {},
   pitchbend: {},
 };

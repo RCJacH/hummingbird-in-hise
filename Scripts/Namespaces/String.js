@@ -7,7 +7,7 @@ include("Namespaces/NoteTrigger.js");
 
 namespace String {
   const var name = Synth.getIdList('Container')[0];
-  const var string = g_strings[parseInt(name.substring(6, 7))];
+  const var string = g_stringsChannel[parseInt(name.substring(6, 7))];
 
   inline function isOtherString(channel) {
     return channel != string.index;
@@ -29,47 +29,48 @@ namespace String {
   }
 
   inline function playNote(articulation) {
-    if (
-      g_lh.isMuted &&
-      articulation != Articulations.MUTED
-    ) {
-      return playNote(Articulations.MUTED);
+    if (g_lh.isMuted && articulation != Articulations.MUTED) {
+      playNote(Articulations.MUTED);
+      return;
     }
 
-    local func = NoteTrigger.triggerAttack;
+    local preAttack = NoteTrigger.triggerPreAttack;
+    local attack = NoteTrigger.triggerAttack;
     switch (articulation) {
       case Articulations.SUSTAIN:
       case Articulations.VIBRATO:
         if (string.fret == -1) { return playNote(Articulations.MUTED); }
         if (string.isStrummed) { return playNote(Articulations.CHORD); }
 
-        playNoise(Noises.PICKnBUZZFLAG, func);
+        playNoise(Noises.PICKFLAG, preAttack);
+        playNoise(Noises.BUZZFLAG, attack);
         string.pending.setGain(0);
         MIDI.timestamp += Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
         break;
       case Articulations.PALMMUTED:
         if (!string.isStrummed) {
-          playNoise(Noises.PICKnBUZZFLAG, func);
+          playNoise(Noises.PICKFLAG, preAttack);
+          playNoise(Noises.BUZZFLAG, attack);
           string.pending.setGain(0);
           MIDI.timestamp += Delays.pickNoteSamples();
         }
         NoteTrigger.triggerBody(articulation);
         break;
       case Articulations.MUTED:
-        playNoise(
-          string.isStrummed ? Noises.PICKnBUZZFLAG : Noises.BUZZFLAG,
-          func
-          );
+        playNoise(Noises.BUZZFLAG, attack);
+        if (string.isStrummed) { return; }
+
+        playNoise(Noises.PICKFLAG, preAttack);
         break;
       case Articulations.CHORD:
-        playNoise(Noises.BUZZFLAG, func);
+        playNoise(Noises.BUZZFLAG, attack);
         string.pending.setGain(0);
         NoteTrigger.triggerBody(articulation);
         string.isStrummed = false;
         break;
       case Articulation.HARMONIC:
-        playNoise(Noises.PICKFLAG, func);
+        playNoise(Noises.PICKFLAG, preAttack);
         string.pending.setGain(0);
         MIDI.timestamp += Delays.pickNoteSamples();
         NoteTrigger.triggerBody(articulation);
@@ -78,8 +79,9 @@ namespace String {
         string.pending.setGain(0);
         NoteTrigger.triggerBody(articulation);
         break;
+      default:
+        Message.ignoreEvent(true);
     }
-    Message.ignoreEvent(true);
   }
 
   inline function playRelease() {
@@ -119,6 +121,7 @@ namespace String {
 
     switch (MIDI.number) {
       case 0:
+        EventChaser.clearPendingNoteOff(string.attackEventIds);
         playRelease();
         break;
       case 1:
@@ -134,6 +137,12 @@ namespace String {
     if (isOtherString(Message.getChannel())) { return; }
 
     MIDI.parseNoteOff();
+    switch (MIDI.number) {
+      case 0:
+        EventChaser.clearPendingNoteOff(string.attackEventIds);
+        EventChaser.clearPendingNoteOff(string.releaseEventIds);
+        break;
+    }
   }
 
   inline function triggerController() {

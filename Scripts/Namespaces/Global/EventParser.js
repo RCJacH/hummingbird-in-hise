@@ -7,7 +7,7 @@ namespace EventParser {
   }
 
   inline function parseKeySwitchOn() {
-    local string = g_strings[MIDI.channel];
+    local string = g_stringsChannel[MIDI.channel];
     local isKS = 1;
     switch (MIDI.number) {
       case g_keys.glideDown:
@@ -70,7 +70,7 @@ namespace EventParser {
   }
 
   inline function parseKeySwitchOff() {
-    local string = g_strings[MIDI.channel];
+    local string = g_stringsChannel[MIDI.channel];
     local isKS = 1;
     switch (MIDI.number) {
       case g_keys.glideDown:
@@ -181,11 +181,16 @@ namespace EventParser {
         Strum.noteOn(null, null, Strum.UPSTROKE);
         break;
       case g_keys.stop:
-        Internal.stopAllStrings();
+        GuitarString.stopAllStrings(MIDI.value, MIDI.timestamp);
+        if (MIDI.value > 64) {
+          ExtraNoise.stringMuteBuzz(MIDI.value, MIDI.timestamp);
+        } else {
+          ExtraNoise.bridgeMute(MIDI.value, MIDI.timestamp);
+        }
         break;
       case g_keys.glideDown:
         g_noises.glideDown.probability += 1;
-        Internal.clearAllStrings();
+        GuitarString.clearAllStrings();
         break;
       case g_keys.releaseWeakBuzz:
         g_noises.weakBuzz.probability += 1;
@@ -302,7 +307,7 @@ namespace EventParser {
         break;
       case g_keys.muted:
       case g_keys.muted2:
-        LeftHand.setMuted(MIDI.value);
+        LeftHand.setMuted(0);
         break;
       case g_keys.palmMuted:
       case g_keys.palmMuted2:
@@ -318,20 +323,30 @@ namespace EventParser {
       case g_keys.timeDirection:
         RightHand.stopDirectionDetection();
         break;
+      case g_keys.palmHit:
+        ExtraNoise.palmHit(0, MIDI.timestamp);
+        break;
+      case g_keys.fingerHit:
+        ExtraNoise.fingerHit(0, MIDI.timestamp);
+        break;
+      case g_keys.stringMuteBuzz:
+        ExtraNoise.stringMuteBuzz(0, MIDI.timestamp);
+        break;
+      case g_keys.pickguardHit:
+        ExtraNoise.pickguardHit(0, MIDI.timestamp);
+        break;
     }
   }
 
   inline function triggerNoteOn() {
     if (parseKeySwitchOn()) { return; }
-    local string = g_strings[MIDI.channel];
     RightHand.setDirectionFromBeatPosition(Transport.getCurrentPosition());
-    GuitarString.pressFret(string, GuitarString.getFret(string));
+    LeftHand.pressString(g_stringsChannel[MIDI.channel]);
   }
 
   inline function triggerNoteOff() {
     if (parseKeySwitchOff()) { return; }
-    local string = g_strings[MIDI.channel];
-    GuitarString.releaseFret(string, GuitarString.getFret(string));
+    LeftHand.unpressString(g_stringsChannel[MIDI.channel]);
   }
 
   inline function parseNoteOn() {
@@ -443,10 +458,10 @@ namespace EventParser {
         g_settings.humanize.timing = MIDI.value/127;
         break;
       case g_cc.stopAllStrings:
-        Internal.stopAllStrings();
+        GuitarString.stopAllStrings(MIDI.value, MIDI.timestamp);
         break;
       case g_cc.handsOff:
-        Internal.clearAllStrings();
+        GuitarString.clearAllStrings();
         break;
     }
   }
