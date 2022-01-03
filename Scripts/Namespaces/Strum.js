@@ -49,7 +49,7 @@ namespace Strum {
     local stringIndex = 0;
     for (i=0; i<=range; i++) {
       index = direction ? range - i : i;
-      stringIndex = bottom - index;
+      stringIndex = top + index;
       strings.push([index, g_stringsChannel[stringIndex]]);
     }
     if (direction) { strings.reverse(); }

@@ -13,9 +13,7 @@ namespace StrumNoise {
   reg currentRR = 1;
 
   inline function updateVel2LPTable(breakpoint) {
-    local i = 0;
-    local v = 0;
-    for (i; i < 128; i++) {
+    for (i=127;i--;) {
       if (i > (breakpoint)) {
         v = 0.5 + 0.5 * Math.pow((i - breakpoint + 1)/(126 - breakpoint), 2);
       } else {

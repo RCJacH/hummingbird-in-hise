@@ -44,7 +44,7 @@ namespace LeftHand {
 
   inline function pressedStrings() {
     local strings = [];
-    for (i=1; i<7; i++) {
+    for (i=6; i--;) {
       if (isStringPressed(i)) { strings.push(g_stringsChannel[i]); }
     }
     return strings

@@ -21,7 +21,7 @@ namespace String {
   }
 
   inline function playNoise(flags, func) {
-    for (i=0; i<Noises.TOTALARTICULATIONS; i++) {
+    for (i=Noises.TOTALARTICULATIONS-1; i--;) {
       if (flags&(1<<i)) {
         Noises.trigger(string, i+1, func);
       }
