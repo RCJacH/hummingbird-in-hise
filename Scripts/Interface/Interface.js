@@ -1,4 +1,4 @@
-Content.makeFrontInterface(600, 150);
+Content.makeFrontInterface(800, 150);
 include("Interface/GuitarFretboard.js");
 // Synth.deferCallbacks(true);
 Synth.startTimer(0.5);
