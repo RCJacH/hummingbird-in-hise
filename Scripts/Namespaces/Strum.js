@@ -45,9 +45,9 @@ namespace Strum {
   inline function _getStrings(bottom, top, direction) {
     local range = bottom - top;
     local strings = [];
-    local index = 0;
-    local stringIndex = 0;
-    for (i=0; i<=range; i++) {
+    local index;
+    local stringIndex;
+    for (i=range+1; i--;) {
       index = direction ? range - i : i;
       stringIndex = top + index;
       strings.push([index, g_stringsChannel[stringIndex]]);
