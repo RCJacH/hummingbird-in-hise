@@ -1,6 +1,4 @@
 namespace GuitarFretboard {
-  const var StringPanels = [];
-  const var PickPanels = [];
   const var fretMarkers = "                o     o     o        8        o     o     o       ";
   const var frets = [
     " |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - ",
@@ -33,13 +31,13 @@ namespace GuitarFretboard {
     local widget = Content.addPanel(widgetName, 0, 0);
     Content.setPropertiesFromJSON(widgetName, {
       width: 800,
-      height: 20,
+      height: 150,
       borderSize: 0,
       popupOnRightClick: false,
       holdIsRightClick: false,
     });
     widget.setPaintRoutine(function(g) {
-      g.fillAll(Colours.withAlpha(Colours.black, 1));
+      g.fillAll(Colours.withAlpha("0x252122", 1));
       g.setColour(Colours.withAlpha(Colours.white, 1));
       g.setFont("Lucida Console", 18);
       g.drawAlignedText(fretMarkers, this.getLocalBounds(0), "left");
@@ -62,7 +60,7 @@ namespace GuitarFretboard {
     widget.data.values = frets;
     widget.setValue(0);
     widget.setPaintRoutine(function(g) {
-      g.fillAll(Colours.withAlpha(Colours.black, 1));
+      g.fillAll(Colours.withAlpha("0x252122", 1));
       g.setColour(Colours.withAlpha(Colours.white, 1));
       g.setFont("Lucida Console", 18);
       g.drawAlignedText(frets[this.getValue()], this.getLocalBounds(0), "left");
@@ -73,7 +71,7 @@ namespace GuitarFretboard {
 
   inline function createPickPanel(index) {
     local widgetName = "Pick" + index + "Display";
-    local widget = Content.addPanel(widgetName, 760, 20 * index);
+    local widget = Content.addPanel(widgetName, 700, 20 * index);
     Content.setPropertiesFromJSON(widgetName, {
       width: 40,
       height: 20,
@@ -94,25 +92,23 @@ namespace GuitarFretboard {
     return widget
   }
 
-  inline function setFret(index, fret) {
-    local panel = StringPanels[index];
+  inline function setFret(panel, fret) {
     panel.setValue(fret + 1);
     panel.repaint();
   }
 
-  inline function setPick(index, value) {
-    local panel = PickPanels[index];
+  inline function setPick(panel, value) {
     panel.setValue(value);
     panel.repaint();
   }
 
-  inline function repaint() {
+  inline function update(fretboard) {
     for (string in g_strings) {
-      setFret(string.index, string.fret);
+      setFret(fretboard.strings[string.index], string.fret);
       // if (string.index <= g_rh.bottomString && string.index >= g_rh.topString) {
-      //   setPick(string.index, g_strumKeys.isEmpty() ? 0 : (1 + g_rh.direction == -1 ? g_rh.autoDirection : g_rh.direction));
+      //   setPick(fretboard.picks[string.index], g_strumKeys.isEmpty() ? 0 : (1 + g_rh.direction == -1 ? g_rh.autoDirection : g_rh.direction));
       // } else {
-      //   setPick(string.index, 0);
+      //   setPick(fretboard.picks[string.index], 0);
       // }
     }
   }
@@ -121,8 +117,17 @@ namespace GuitarFretboard {
     for (i=bottom-top; i--;) { setPick(i+top, 0); }
   }
 
-  const var fretmarker = createFretMarkerPanel();
-  fretmarker.repaint();
-  for (i=6; i--;) { StringPanels[i+1] = createStringPanel(i+1); }
-  for (i=6; i--;) { PickPanels[i+1] = createPickPanel(i+1); }
+  inline function createFretboard() {
+    local obj = {
+      fretmarkers: createFretMarkerPanel(),
+      strings: [],
+      picks: [],
+    };
+    obj.fretmarkers.repaint();
+    for (i=6; i--;) { obj.strings[i+1] = createStringPanel(i+1); }
+    for (i=6; i--;) { obj.picks[i+1] = createPickPanel(i+1); }
+
+    return obj
+  }
+
 }
