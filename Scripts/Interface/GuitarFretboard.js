@@ -1,5 +1,30 @@
 namespace GuitarFretboard {
   const var fretMarkers = "                o     o     o        8        o     o     o       ";
+  const var positions = [
+    "                                                               ",
+    " p                                                             ",
+    "    p                                                          ",
+    "       p                                                       ",
+    "          p                                                    ",
+    "             p                                                 ",
+    "                p                                              ",
+    "                   p                                           ",
+    "                      p                                        ",
+    "                         p                                     ",
+    "                            p                                  ",
+    "                               p                               ",
+    "                                  p                            ",
+    "                                     p                         ",
+    "                                        p                      ",
+    "                                           p                   ",
+    "                                              p                ",
+    "                                                 p             ",
+    "                                                    p          ",
+    "                                                       p       ",
+    "                                                          p    ",
+    "                                                             p ",
+  ];
+
   const var frets = [
     " |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - ",
     " 0  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - ",
@@ -36,11 +61,14 @@ namespace GuitarFretboard {
       popupOnRightClick: false,
       holdIsRightClick: false,
     });
+    widget.data.values = positions;
     widget.setPaintRoutine(function(g) {
       g.fillAll(Colours.withAlpha("0x252122", 1));
       g.setColour(Colours.withAlpha(Colours.white, 0.5));
       g.setFont("Lucida Console", 18);
       g.drawAlignedText(fretMarkers, this.getLocalBounds(0), "left");
+      g.setColour(Colours.withAlpha(Colours.white, .8));
+      g.drawAlignedText(positions[this.getValue()], this.getLocalBounds(0), "left");
     });
 
     return widget
@@ -111,6 +139,8 @@ namespace GuitarFretboard {
       //   setPick(fretboard.picks[string.index], 0);
       // }
     }
+    fretboard.fretmarkers.setValue(g_lh.position + 1);
+    fretboard.fretmarkers.repaint();
   }
 
   inline function setStrum(top, bottom) {

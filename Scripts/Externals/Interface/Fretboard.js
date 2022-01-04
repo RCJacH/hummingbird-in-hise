@@ -10,7 +10,7 @@ function onNoteOff() {
 }
 
 function onController() {
-
+  GuitarFretboard.update(g_panel_fretboard);
 }
 
 function onTimer() {
