@@ -31,14 +31,14 @@ namespace GuitarFretboard {
     local widget = Content.addPanel(widgetName, 0, 0);
     Content.setPropertiesFromJSON(widgetName, {
       width: 800,
-      height: 150,
+      height: 20,
       borderSize: 0,
       popupOnRightClick: false,
       holdIsRightClick: false,
     });
     widget.setPaintRoutine(function(g) {
       g.fillAll(Colours.withAlpha("0x252122", 1));
-      g.setColour(Colours.withAlpha(Colours.white, 1));
+      g.setColour(Colours.withAlpha(Colours.white, 0.5));
       g.setFont("Lucida Console", 18);
       g.drawAlignedText(fretMarkers, this.getLocalBounds(0), "left");
     });
@@ -123,7 +123,6 @@ namespace GuitarFretboard {
       strings: [],
       picks: [],
     };
-    obj.fretmarkers.repaint();
     for (i=6; i--;) { obj.strings[i+1] = createStringPanel(i+1); }
     for (i=6; i--;) { obj.picks[i+1] = createPickPanel(i+1); }
 
