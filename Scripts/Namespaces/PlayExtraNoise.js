@@ -85,7 +85,7 @@ namespace PlayExtraNoise {
       default:
         linear = g_mod.linear[velocity];
     }
-    return Engine.getDecibelsForGainFactor(linear)
+    return Message.getGain() + Engine.getDecibelsForGainFactor(linear)
   }
 
   inline function getLP(articulation, velocity) {

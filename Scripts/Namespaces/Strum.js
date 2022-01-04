@@ -128,6 +128,6 @@ namespace Strum {
       return;
     }
     GuitarString.clearAllStrings();
-    ExtraNoise.stopStrum();
+    ExtraNoise.release();
   }
 }

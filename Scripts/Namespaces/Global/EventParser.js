@@ -182,11 +182,7 @@ namespace EventParser {
         break;
       case g_keys.stop:
         GuitarString.stopAllStrings(MIDI.value, MIDI.timestamp);
-        if (MIDI.value > 64) {
-          ExtraNoise.stringMuteBuzz(MIDI.value, MIDI.timestamp);
-        } else {
-          ExtraNoise.bridgeMute(MIDI.value, MIDI.timestamp);
-        }
+        ExtraNoise.stop(MIDI.value, MIDI.timestamp);
         break;
       case g_keys.glideDown:
         g_noises.glideDown.probability += 1;
@@ -285,6 +281,7 @@ namespace EventParser {
         GuitarString.forAllStrings(
           function (string) { GuitarString.setReleaseTime(string, 0); }
         );
+        ExtraNoise.stop(0, MIDI.timestamp);
         break;
       case g_keys.releaseWeakBuzz:
         g_noises.weakBuzz.probability %= 1;
