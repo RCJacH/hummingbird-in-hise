@@ -66,7 +66,6 @@ namespace Strum {
   inline function _getNotes(bottom, top, direction) {
     local lastFret = g_lh.position;
     local strings = _getStrings(bottom, top, direction);
-    local isEmpty = LeftHand.isOffString();
     for (item in strings) {lastFret = _getFrettedNote(item, lastFret);}
     return strings;
   }

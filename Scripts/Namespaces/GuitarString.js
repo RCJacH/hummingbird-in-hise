@@ -131,9 +131,8 @@ namespace GuitarString {
     }
 
     local lastFret = string.pressedFrets[string.pressedFrets.length - 1];
-    local midiList = string.midiList;
     string.pressedFrets.remove(fret);
-    midiList.setValue(fret, 0);
+    string.midiList.setValue(fret, 0);
     if (!string.pressedFrets.length) {
       if (!g_strumKeys.isEmpty()) {
         string.lastFret = fret;
@@ -146,7 +145,7 @@ namespace GuitarString {
 
     local newFret = string.pressedFrets[string.pressedFrets.length - 1];
     if (newFret == lastFret) { return 0; }
-    MIDI.value = midiList.getValue(newFret);
+    MIDI.value = string.midiList.getValue(newFret);
     string.pressedFrets.remove(newFret);
 
     pressFret(string, newFret);
