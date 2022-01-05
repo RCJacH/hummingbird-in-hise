@@ -33,12 +33,43 @@ namespace Strum {
     );
   }
 
-  inline function setup(bottom, top, direction, velocity) {
+  inline function _getStringCases(input, nullcase, maxcase, limitcase) {
+    local resultString;
+    switch (input) {
+      case null:
+        resultString = nullcase;
+        break;
+      case -1:
+        resultString = g_rh.addString ? maxcase : limitcase;
+        break;
+      default:
+        resultString = input;
+    }
+    return resultString
+  }
+
+  inline function _getStringRange(b, t) {
+    local bottomString = _getStringCases(
+      b, g_rh.bottomString, 6, LeftHand.lowestPressedString()
+    );
+    local topString = _getStringCases(
+      t, g_rh.topString, 1, LeftHand.highestPressedString()
+    );
+    bottomString = Math.range(bottomString, Math.max(topString, 1), 6);
+    topString = Math.range(topString, 1, Math.min(6, bottomString));
+    return [bottomString, topString]
+  }
+
+  inline function _getDirection(d) {
+    local direction = d === null ? g_rh.strumDirection : d;
+    if (!(direction + 1)) { direction = 0; }
+    return direction
+  }
+
+  inline function setup(b, t, direction, velocity) {
     g_rh.direction = direction;
-    local b = bottom + (g_rh.direction ? g_rh.addString : -g_rh.missString);
-    local t = top + (g_rh.direction ? -g_rh.missString : g_rh.addString);
-    g_rh.bottomString = Math.range(b, Math.max(t, 1), 6);
-    g_rh.topString = Math.range(top, 1, Math.min(6, b));
+    g_rh.bottomString = Math.max(t, b);
+    g_rh.topString = Math.min(t, b);
     setBaseVel(velocity, g_rh.bottomString - g_rh.topString);
   }
 
@@ -71,10 +102,10 @@ namespace Strum {
   }
 
   inline function noteOn(b, t, d) {
-    local bottomString = b == null ? g_rh.bottomString : b;
-    local topString = t == null ? g_rh.topString : t;
-    local direction = d == null ? g_rh.direction : d;
-
+    local stringRange = _getStringRange(b, t);
+    local bottomString = stringRange[0];
+    local topString = stringRange[1];
+    local direction = _getDirection(d);
     RightHand.setStrumDirection(direction);
     local velocity = MIDI.value;
     setup(bottomString, topString, direction, velocity);
@@ -121,9 +152,9 @@ namespace Strum {
     g_strumKeys.remove(number);
     if (!g_strumKeys.isEmpty()) { return; }
 
+    RightHand.resetStrumDirection();
     if (!LeftHand.isOffString()) { return; }
 
-    RightHand.resetStrumDirection();
     if (LeftHand.isSilent()) {
       GuitarString.stopAllStrings(0, MIDI.timestamp);
       g_lh.pressedStringsFlag = 0;

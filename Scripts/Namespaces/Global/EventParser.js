@@ -127,10 +127,10 @@ namespace EventParser {
         RightHand.setMissString(MIDI.value);
         break;
       case g_keys.fullD:
-        Strum.noteOn(6, 1, Strum.DOWNSTROKE);
+        Strum.noteOn(-1, -1, Strum.DOWNSTROKE);
         break;
       case g_keys.fullU:
-        Strum.noteOn(6, 1, Strum.UPSTROKE);
+        Strum.noteOn(-1, -1, Strum.UPSTROKE);
         break;
       case g_keys.lowD:
         Strum.noteOn(6, 4, Strum.DOWNSTROKE);

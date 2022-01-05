@@ -64,6 +64,20 @@ namespace LeftHand {
     g_lh.pressedStringsFlag &= (63 - string.flag * isOff);
   }
 
+  inline function lowestPressedString() {
+    for (i=6;i--;) {
+      if (isStringPressed(i + 1)) { return i + 1; }
+    }
+    return 0
+  }
+
+  inline function highestPressedString() {
+    for (i=6;i--;) {
+      if (isStringPressed(6 - i)) { return 6 - i; }
+    }
+    return 0
+  }
+
   inline function changePosition(velocity) {
     local pos = velocity > 120 ? velocity - 108 : Math.floor(velocity / 10);
     g_lh.position = pos;
