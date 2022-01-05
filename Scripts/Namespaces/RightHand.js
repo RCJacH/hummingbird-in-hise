@@ -75,4 +75,10 @@ namespace RightHand {
   inline function setStopDirection() {
     g_rh.strumDirection = 2;
   }
+
+  inline function reset() {
+    g_rh.strumDirection = -1;
+    g_rh.direction = -1;
+    g_rh.autoDirection = 0;
+  }
 }

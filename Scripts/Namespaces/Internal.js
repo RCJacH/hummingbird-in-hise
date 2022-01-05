@@ -24,4 +24,11 @@ namespace Internal {
       function (string) { string.releaseTime = releaseTime; }
     );
   }
+
+  inline function handsOff() {
+    GuitarString.clearAllStrings();
+    ExtraNoise.release();
+    RightHand.reset();
+    LeftHand.reset();
+  }
 }

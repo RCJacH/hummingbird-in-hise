@@ -458,7 +458,7 @@ namespace EventParser {
         GuitarString.stopAllStrings(MIDI.value, MIDI.timestamp);
         break;
       case g_cc.handsOff:
-        GuitarString.clearAllStrings();
+        Internal.handsOff();
         break;
     }
   }

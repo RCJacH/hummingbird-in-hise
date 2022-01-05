@@ -92,4 +92,10 @@ namespace LeftHand {
       }
     );
   }
+
+  inline function reset() {
+    g_lh.position = 0;
+    g_lh.pressedStringsFlag = 0;
+    g_lh.pendingStringFlag = 0;
+  }
 }
