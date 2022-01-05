@@ -49,7 +49,7 @@ namespace GuitarFretboard {
     " |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  19 - ",
     " |  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  20",
   ];
-  const var pick = ["", "^", "v"];
+  const var pick = ["", "^", "v", "x"];
 
   inline function createFretMarkerPanel() {
     local widgetName = "FretMarkerDisplay";
@@ -131,13 +131,23 @@ namespace GuitarFretboard {
   }
 
   inline function update(fretboard) {
+    local direction;
     for (string in g_strings) {
       setFret(fretboard.strings[string.index], string.fret);
-      // if (string.index <= g_rh.bottomString && string.index >= g_rh.topString) {
-      //   setPick(fretboard.picks[string.index], g_strumKeys.isEmpty() ? 0 : (1 + g_rh.direction == -1 ? g_rh.autoDirection : g_rh.direction));
-      // } else {
-      //   setPick(fretboard.picks[string.index], 0);
-      // }
+      if (string.index <= g_rh.bottomString && string.index >= g_rh.topString) {
+        if (g_strumKeys.isEmpty()) {
+          if (g_rh.direction == -1) {
+            direction = (g_lh.pressedStringsFlag > 0) * (g_rh.autoDirection + 1);
+          } else {
+            direction = 1 + g_rh.direction;
+          }
+        } else {
+          direction = 1 + g_rh.strumDirection;
+        };
+        setPick(fretboard.picks[string.index], direction);
+      } else {
+        setPick(fretboard.picks[string.index], 0);
+      }
     }
     fretboard.fretmarkers.setValue(g_lh.position + 1);
     fretboard.fretmarkers.repaint();

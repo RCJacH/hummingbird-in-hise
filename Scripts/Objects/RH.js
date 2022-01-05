@@ -1,5 +1,6 @@
 global g_rh = {
   direction: -1,
+  strumDirection: -1,
   autoDirection: 0,
   division: 0.5,
   speed: 0.6,

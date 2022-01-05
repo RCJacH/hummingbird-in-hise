@@ -75,6 +75,7 @@ namespace Strum {
     local topString = t == null ? g_rh.topString : t;
     local direction = d == null ? g_rh.direction : d;
 
+    RightHand.setStrumDirection(direction);
     local velocity = MIDI.value;
     setup(bottomString, topString, direction, velocity);
     g_strumKeys.insert(MIDI.number);
@@ -122,6 +123,7 @@ namespace Strum {
 
     if (!LeftHand.isOffString()) { return; }
 
+    RightHand.resetStrumDirection();
     if (LeftHand.isSilent()) {
       GuitarString.stopAllStrings(0, MIDI.timestamp);
       g_lh.pressedStringsFlag = 0;
@@ -129,5 +131,16 @@ namespace Strum {
     }
     GuitarString.clearAllStrings();
     ExtraNoise.release();
+  }
+
+  inline function stop(velocity) {
+    if (velocity) {
+      g_strumKeys.insert(MIDI.number);
+    } else {
+      g_strumKeys.remove(MIDI.number);
+    }
+    GuitarString.stopAllStrings(MIDI.value, MIDI.timestamp);
+    RightHand.setStopDirection();
+    ExtraNoise.stop(MIDI.value, MIDI.timestamp);
   }
 }

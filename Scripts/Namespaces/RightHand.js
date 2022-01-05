@@ -24,6 +24,10 @@ namespace RightHand {
     g_rh.direction = direction;
   }
 
+  inline function resetDirection() {
+    g_rh.direction = -1;
+  }
+
   inline function setSpeed(float) {
     g_rh.speed = 1.5 - float;
   }
@@ -58,5 +62,17 @@ namespace RightHand {
     g_rh.autoDirection = Math.fmod(
       pos - g_rh.division / 2, g_rh.division * 2
     ) >= g_rh.division;
+  }
+
+  inline function setStrumDirection(direction) {
+    g_rh.strumDirection = direction;
+  }
+
+  inline function resetStrumDirection() {
+    g_rh.strumDirection = -1;
+  }
+
+  inline function setStopDirection() {
+    g_rh.strumDirection = 2;
   }
 }

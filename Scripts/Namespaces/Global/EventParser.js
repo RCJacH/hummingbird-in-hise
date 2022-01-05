@@ -181,8 +181,7 @@ namespace EventParser {
         Strum.noteOn(null, null, Strum.UPSTROKE);
         break;
       case g_keys.stop:
-        GuitarString.stopAllStrings(MIDI.value, MIDI.timestamp);
-        ExtraNoise.stop(MIDI.value, MIDI.timestamp);
+        Strum.stop(MIDI.value);
         break;
       case g_keys.glideDown:
         g_noises.glideDown.probability += 1;
@@ -281,6 +280,7 @@ namespace EventParser {
         GuitarString.forAllStrings(
           function (string) { GuitarString.setReleaseTime(string, 0); }
         );
+        RightHand.resetStrumDirection();
         ExtraNoise.stop(0, MIDI.timestamp);
         break;
       case g_keys.releaseWeakBuzz:
