@@ -4,7 +4,7 @@ namespace RightHand {
   const var pressedKeys = [];
 
   const var vel2speed = [];
-  for (i=127;i--;) {
+  for (i=128;i--;) {
     vel2speed.push(.5 + Math.exp(Math.log(Math.pow((i - 1) / 126, 1.2))));
   }
 

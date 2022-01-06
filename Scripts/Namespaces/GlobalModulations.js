@@ -2,7 +2,7 @@ namespace GlobalModulations {
   inline function linear() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = (i / 127);
     }
 
@@ -12,7 +12,7 @@ namespace GlobalModulations {
   inline function linearGain() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] =  20 * Math.log10(i / 127);
     }
 
@@ -22,7 +22,7 @@ namespace GlobalModulations {
   inline function max() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = 127;
     }
     return a
@@ -31,11 +31,11 @@ namespace GlobalModulations {
   inline function doubleRamp() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       if (i > (110)) {
-        a[i] = 0.5 + 0.5 * Math.pow((i - 110 + 1)/(126 - 110), 2);
+        a[i+1] = 0.5 + 0.5 * Math.pow((i - 110)/(127 - 110), 2);
       } else {
-        a[i] = 0.01 + Math.pow(i / (110 - 1), 1.5);
+        a[i+1] = 0.01 + Math.pow((i - 1) / 110, 1.5);
       }
     }
 
@@ -45,7 +45,7 @@ namespace GlobalModulations {
   inline function strumNoiseCCGain() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = 0.2 + 0.8 * Math.pow(Math.min(i / 125, 1), 2);
     }
 
@@ -55,7 +55,7 @@ namespace GlobalModulations {
   inline function mutedVel2Gain() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = 20 * Math.log10(0.85 + 0.15 * i/127);
     }
 
@@ -65,7 +65,7 @@ namespace GlobalModulations {
   inline function chordVel2LP() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = 2000 * Math.min(1, 0.4 + 0.7 * Math.pow(i / 82, 1.5));
     }
 
@@ -75,7 +75,7 @@ namespace GlobalModulations {
   inline function harmonicVel2Gain() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = Math.min(1, .3 + .7 * i / 101);
     }
 
@@ -85,7 +85,7 @@ namespace GlobalModulations {
   inline function harmonicVel2LP() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = 20000 * Math.min(1, 0.3 + 0.7 * Math.pow(i / 98, 1.5));
     }
 
@@ -95,7 +95,7 @@ namespace GlobalModulations {
   inline function pickBuzzVel2Gain() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = 20 * Math.log10(0.8 + 0.2 * (i / 127));
     }
 
@@ -105,7 +105,7 @@ namespace GlobalModulations {
   inline function pickStopHOPOVel2Gain() {
     local a = [];
     a.reserve(128);
-    for (i=127; i--;) {
+    for (i=128; i--;) {
       a[i] = 20 * Math.log10(0.4 + 0.6 * (i / 127));
     }
 
