@@ -38,7 +38,7 @@ namespace RightHand {
   }
 
   inline function setAcceleration(float) {
-    g_rh.accelleration = 1.5 + float;
+    g_rh.accelleration = 1.5 - float;
   }
 
   inline function setCrescendo(float) {

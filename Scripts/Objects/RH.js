@@ -6,7 +6,7 @@ global g_rh = {
   speed: 0.6,
   bottomString: 6,
   topString: 1,
-  accelleration: 1,
+  acceleration: 1,
   crescendo: 1,
   sloppiness: 0.5,
   humanize: 0.2,

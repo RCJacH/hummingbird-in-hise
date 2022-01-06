@@ -436,8 +436,8 @@ namespace EventParser {
       case g_cc.silent:
         LeftHand.setSilent(MIDI.value >= g_settings.keyswitchThreshold);
         break;
-      case g_cc.accelleration:
-        RightHand.setAccelleration(MIDI.value/127);
+      case g_cc.acceleration:
+        RightHand.setAcceleration(MIDI.value/127);
         break;
       case g_cc.crescendo:
         RightHand.setCrescendo(MIDI.value/127);
