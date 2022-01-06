@@ -33,7 +33,7 @@ namespace Strum {
     );
   }
 
-  inline function _getStringCases(input, nullcase, maxcase, limitcase, direction) {
+  inline function _getStringCases(input, nullcase, maxcase, limitcase) {
     local resultString;
     switch (input) {
       case null:
@@ -43,22 +43,37 @@ namespace Strum {
         resultString = g_rh.addString ? maxcase : limitcase;
         break;
       default:
-        if (g_rh.addString || g_rh.missString) {
-          resultString = input + (direction ? g_rh.addString : -g_rh.missString);
-        } else {
-          resultString = input;
-        }
+        resultString = input;
+    }
+    return resultString
+  }
+
+  inline function _applyAlterString(input, type, direction) {
+    local resultString = input;
+    local change;
+    if (g_rh.addString || g_rh.missString) {
+      resultString = input + (direction ? g_rh.addString : -g_rh.missString);
+    }
+    if (Math.random() < (g_rh.sloppiness * 0.5)) {
+      if (type == direction) {
+        change = Math.sin(MATH.PI * (MIDI.value / 127)) * (1.5 - g_rh.speed) * g_rh.sloppiness;
+      } else {
+        change = (MIDI.value / 100) * (1.5 - g_rh.speed) * g_rh.sloppiness;
+      }
+      resultString = input + Math.round(change) * (type ? -1 : 1);
     }
     return resultString
   }
 
   inline function _getStringRange(b, t, d) {
     local bottomString = _getStringCases(
-      b, g_rh.bottomString, 6, LeftHand.lowestPressedString(), d
+      b, g_rh.bottomString, 6, LeftHand.lowestPressedString()
     );
     local topString = _getStringCases(
-      t, g_rh.topString, 1, LeftHand.highestPressedString(), !d
+      t, g_rh.topString, 1, LeftHand.highestPressedString()
     );
+    bottomString = _applyAlterString(bottomString, 0, d);
+    topString = _applyAlterString(topString, 1, d);
     bottomString = Math.range(bottomString, Math.max(topString, 1), 6);
     topString = Math.range(topString, 1, Math.min(6, bottomString));
     return [bottomString, topString]

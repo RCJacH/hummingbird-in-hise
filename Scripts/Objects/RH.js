@@ -8,6 +8,7 @@ global g_rh = {
   topString: 1,
   accelleration: 1,
   crescendo: 1,
+  sloppiness: 0.5,
   humanize: 0.2,
   addString: 0,
   missString: 0,

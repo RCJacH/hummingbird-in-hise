@@ -45,6 +45,10 @@ namespace RightHand {
     g_rh.crescendo = 0.5 + float;
   }
 
+  inline function setSloppiness(float) {
+    g_rh.sloppiness = float;
+  }
+
   inline function setHumanize(float) {
     g_rh.humanize = float;
   }

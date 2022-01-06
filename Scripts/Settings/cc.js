@@ -10,6 +10,7 @@ global g_cc = {
   vibratoSpeed: 19,
   accelleration: 27,
   crescendo: 28,
+  sloppiness: 29,
   humanize: 64,
   muted: 65,
   palmMuted: 66,
