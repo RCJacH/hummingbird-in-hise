@@ -33,7 +33,7 @@ namespace Strum {
     );
   }
 
-  inline function _getStringCases(input, nullcase, maxcase, limitcase) {
+  inline function _getStringCases(input, nullcase, maxcase, limitcase, direction) {
     local resultString;
     switch (input) {
       case null:
@@ -43,17 +43,21 @@ namespace Strum {
         resultString = g_rh.addString ? maxcase : limitcase;
         break;
       default:
-        resultString = input;
+        if (g_rh.addString || g_rh.missString) {
+          resultString = input + (direction ? g_rh.addString : -g_rh.missString);
+        } else {
+          resultString = input;
+        }
     }
     return resultString
   }
 
-  inline function _getStringRange(b, t) {
+  inline function _getStringRange(b, t, d) {
     local bottomString = _getStringCases(
-      b, g_rh.bottomString, 6, LeftHand.lowestPressedString()
+      b, g_rh.bottomString, 6, LeftHand.lowestPressedString(), d
     );
     local topString = _getStringCases(
-      t, g_rh.topString, 1, LeftHand.highestPressedString()
+      t, g_rh.topString, 1, LeftHand.highestPressedString(), !d
     );
     bottomString = Math.range(bottomString, Math.max(topString, 1), 6);
     topString = Math.range(topString, 1, Math.min(6, bottomString));
@@ -102,7 +106,7 @@ namespace Strum {
   }
 
   inline function noteOn(b, t, d) {
-    local stringRange = _getStringRange(b, t);
+    local stringRange = _getStringRange(b, t, d);
     local bottomString = stringRange[0];
     local topString = stringRange[1];
     local direction = _getDirection(d);
