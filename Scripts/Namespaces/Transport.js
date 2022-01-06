@@ -26,6 +26,7 @@ namespace Transport {
   }
 
   inline function onTransportChange(state) {
+    Internal.handsOff();
     if (state) {
       playPosition.reset();
       playPosition.startTimer();
@@ -33,7 +34,6 @@ namespace Transport {
       playPosition.stopTimer();
       Engine.allNotesOff();
     }
-    GuitarString.clearAllStrings();
   }
 
   transport.setOnBeatChange(true, onBeatChange);
