@@ -45,7 +45,7 @@ namespace LeftHand {
   inline function pressedStrings() {
     local strings = [];
     for (i=6; i--;) {
-      if (isStringPressed(i)) { strings.push(g_stringsChannel[i]); }
+      if (isStringPressed(i + 1)) { strings.push(g_strings[i]); }
     }
     return strings
   }
@@ -82,15 +82,11 @@ namespace LeftHand {
     local pos = velocity > 120 ? velocity - 108 : Math.floor(velocity / 10);
     g_lh.position = pos;
     local func = (
-      g_lh.pressedStrings.isEmpty() ?
+      !g_lh.pressedStringsFlag ?
       GuitarString.changePosition :
       GuitarString.preparePositionChange
     );
-    GuitarString.forAllStrings(
-      function (string) {
-        return func(string)
-      }
-    );
+    GuitarString.forAllStrings(func);
   }
 
   inline function reset() {
