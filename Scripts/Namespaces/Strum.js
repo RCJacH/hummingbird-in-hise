@@ -52,7 +52,8 @@ namespace Strum {
     local resultString = input;
     local change;
     if (g_rh.addString || g_rh.missString) {
-      resultString = input + (direction ? g_rh.addString : -g_rh.missString);
+      change = (type - direction ? g_rh.addString : -g_rh.missString);
+      return input + (type ? -change : change);
     }
     if (Math.random() < (g_rh.sloppiness * 0.5)) {
       if (type == direction) {
